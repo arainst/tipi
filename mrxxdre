@@ -60,11 +60,10 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b74410
 #EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-logo="https://i.pinimg.com/236x/6f/02/9a/6f029a90f14d30427266dcd5e380130d.jpg",TRANS7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/2b/77/d7/2b77d79d4a511b3ba7ada19a775426f8.jpg" group-title="🔴⚪NASIONAL", TRANSTV SD
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Trtv.m3u8
-
-#EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-logo="https://i.pinimg.com/236x/6f/02/9a/6f029a90f14d30427266dcd5e380130d.jpg",TRANS7 SD
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Tr7.m3u8
+##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/2b/77/d7/2b77d79d4a511b3ba7ada19a775426f8.jpg" group-title="🔴⚪NASIONAL", TRANSTV SD
+#https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Trtv.m3u8
+##EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-logo="https://i.pinimg.com/236x/6f/02/9a/6f029a90f14d30427266dcd5e380130d.jpg",TRANS7 SD
+#https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Tr7.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://i.pinimg.com/236x/3c/bc/56/3cbc565c444cca121ef3bff1bb0a53d0.jpg" group-title="🔴⚪NASIONAL",SCTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -824,26 +823,17 @@ https://ac-009.live.p7s1video.net/4cb9b4be/t_009/3sat-de-hd/cenc-default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg" group-title="》_ENTERTAIN_", Sbc Saudi
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg" group-title="》_ENTERTAIN_", Fujitv Next
-https://ca01.utako.moe/fuji_next/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg" group-title="》_ENTERTAIN_", Space Shower tv
-https://ca01.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg" group-title="》_ENTERTAIN_", At-×
-https://mt01.utako.moe/AT-X/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg" group-title="》_ENTERTAIN_", Star Channel
-https://mt01.utako.moe/bs10_star/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg" group-title="》_ENTERTAIN_", BS 11
-https://mt01.utako.moe/BS11/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg" group-title="》_ENTERTAIN_", BS Tokyo
-https://mt01.utako.moe/bstvtokyo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg" group-title="》_ENTERTAIN_", Ytv Japan
-https://mt01.utako.moe/ytv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg" group-title="》_ENTERTAIN_",Tokyo Tv
-https://mt01.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg" group-title="》_ENTERTAIN_", Asahi tv
-https://mt01.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg" group-title="》_ENTERTAIN_", Nippon Tv
-https://mt01.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg" group-title="》_ENTERTAIN_", Azteca
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"afI_Szn2bMUddC9-xrz3ow","k":"M77bLa0cRAKr-WCQ1OwLYw"}]}
+https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/default.mpd
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg" group-title="》_ENTERTAIN_", Bol Entertain
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ab9491349c9b6217b8e7cec08e6b5a3:f37b1bbe691db067003522b053251945
+https://live2.shoq.com.pk/live/eds/Bol_Entertainment/DASH/Bol_Entertainment.mpd
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg" group-title="》_ENTERTAIN_", Al Saudiya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg" group-title="》_ENTERTAIN_", Mawaheb tv
@@ -1473,7 +1463,9 @@ https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 https://streams2.sofast.tv/ptnr-yupptv/title-BEST_ACTION_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/16/8e/df/168edf91a0daa3152ad2d7c1ee6fb1bf.jpg" group-title="🔵FILM" tvg-id="mycinema" tvg-name="mycinema", MY CINEMA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTVLCOPT:http-referrer=http://dens.tv/
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ottbridge-prod.streamized.net/live/eds/MyCinemaAsia/hls/MyCinemaAsia.m3u8
 
 #EXTINF:-1 tvg-id="Rock Entertainment.Id" tvg-logo="https://i.pinimg.com/236x/8e/c5/fa/8ec5fab5837dbff97297d27d14f9c561.jpg" group-title="🔵FILM",ROCK ENTERTAINMENT
 http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
@@ -1751,6 +1743,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live31.mpd
 
 ##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/eb/ab/22/ebab22dc1439f0fdb4da05bc21caab79.jpg" group-title="🔵FILM", HBO INDO
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTVLCOPT:http-user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licence.streamized.net/widevine/trv/cenc/
+https://ottbridge-prod.streamized.net/live/eds/HBO-HD/dash/HBO-HD.mpd
 #https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Entertain/Hbo.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7a/90/a4/7a90a488e5f540d4d381754367e8da1a.jpg" group-title="🔵FILM", HBO HITS INDO
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1  (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1903,13 +1902,9 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/68/09/21/6809211396b0c8dc4a78a7d119cea26f.jpg" group-title="☆OLAHRAGA☆",Spotv 2
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/koneksi.php?id=17140&type=drm 
-https://vidd.semar.my.id/koneksi.php?id=17140&type=dash
+#KODIPROP:inputstream.adaptive.license_key=bf870ded4d73a5f259d5759a9fc0ba2e:09f0dcec68abe4fb441a05140557d2ff
+https://unifi-live10.secureswiftcontent.com/UnifiHD/live05.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c4/3f/2b/c43f2bd530894be3162cb790dd83fd42.jpg" group-title="☆OLAHRAGA☆",Sportstar 1 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1996,8 +1991,6 @@ http://49.0.64.96:8007/HIFIGHT
 #KODIPROP:inputstream.adaptive.license_key=ba9b637b639af897f228114363e882fa:27508374902bd52361f08a2ad4dba3a3
 https://live2.shoq.com.pk/live/eds/Fast_Sports_HD/DASH/Fast_Sports_HD.mpd
 
-#EXTINF:-1 group-title="☆OLAHRAGA☆" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",Etb Sp
-https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
 #EXTINF:-1 group-title="☆OLAHRAGA☆" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",Aym Sport
 https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
 https://jmp2.uk/str-5430.m3u8
@@ -2027,23 +2020,6 @@ https://amg01416-faststudios-womensnetwork-plex-rzxxu.amagi.tv/playlist/amg01416
 https://womensnetwork-vizio.amagi.tv/hls/amagi_hls_data_vizioAAAA-womensnetwork-vizio/CDN/playlist.m3u8
 https://faststudios-womensnetwork-tcl.amagi.tv/playlist.m3u8
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8
-
-#EXTINF:-1 group-title="☆OLAHRAGA☆" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",Azteca 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"afI_Szn2bMUddC9-xrz3ow","k":"M77bLa0cRAKr-WCQ1OwLYw"}]}
-https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/default.mpd
-
-#EXTINF:-1 group-title="☆OLAHRAGA☆" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",La liga Inside
-https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
-#EXTINF:-1 group-title="☆OLAHRAGA☆" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",SL Plus Japan
-https://ca01.utako.moe/sport_live_plus/index.m3u8
-#EXTINF:-1 group-title="☆OLAHRAGA☆" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",Gaora Sport
-https://mt01.utako.moe/gaora/index.m3u8
-#EXTINF:-1 group-title="☆OLAHRAGA☆" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",Wow live
-https://mt01.utako.moe/wlive/index.m3u8
-#EXTINF:-1 group-title="☆OLAHRAGA☆" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",La liga Inside
 
 #EXTINF:-1 group-title="☆OLAHRAGA☆" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg", Sol Sport
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2094,12 +2070,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Sp/Tvrispot.m3u8
 
-#EXTINF:-1 group-title="☆OLAHRAGA☆" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",Masr Sport
-https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
-https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_47.m3u8
-
 #EXTINF:-1 group-title="☆OLAHRAGA☆" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",Sharjah Sport
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
@@ -2110,12 +2080,6 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 http://217.174.225.146/hls/ch004_720/index.m3u8
 https://alpha.tv.online.tm/hls/ch004.m3u8
-#EXTINF:-1 group-title="☆OLAHRAGA☆" tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg",Belarus Sport
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="☆OLAHRAGA☆",Dz TW1
-rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="☆OLAHRAGA☆",Dz TW2
-rtmp://f13h.mine.nu/sat/tv741
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b8/ec/c1/b8ecc1497d5a6a0f7ee2d8b25d6f53eb.jpg" group-title="☆OLAHRAGA☆",Tap Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2131,13 +2095,6 @@ https://tiger-hub.vercel.app/Premier_Sports-2/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d384ff1dad2b39899e81b386baa97e02:abf42b268d9ea7775870c77200c51bc6
 https://cdn-seachange-prod-01.vos360.video/Content/DASH/Live/channel(b3278dd9-ffd3-cfcc-f35b-fdbfeb006100)/master.mpd
-
-#EXTINF:-1 group-title="☆OLAHRAGA☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", Nbc
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(knbc)/master.mpd
 
 #EXTINF:-1 group-title="☆OLAHRAGA☆" tvg-logo="https://i.pinimg.com/236x/f1/a6/a6/f1a6a6c48d4cd8dd46b6197100efd806.jpg",Glory Kickboxing
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -2292,10 +2249,6 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17
 https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="☆OLAHRAGA☆", BOL Enter
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ab9491349c9b6217b8e7cec08e6b5a3:f37b1bbe691db067003522b053251945
-https://live2.shoq.com.pk/live/eds/Bol_Entertainment/DASH/Bol_Entertainment.mpd
 
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="☆OLAHRAGA☆", Dubai1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
@@ -2810,35 +2763,39 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/5e/6f/86/5e6f86c463c84f9b1aa868ef60ed5e0f.jpg",ARENASPORT 5
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111993
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/5e/6f/86/5e6f86c463c84f9b1aa868ef60ed5e0f.jpg",ARENAPREM 1
-https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
+https://tiger-hub.vercel.app/Arena-Sports/Premium-1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/5e/6f/86/5e6f86c463c84f9b1aa868ef60ed5e0f.jpg",ARENAPREM 2
-https://wahyu1ptv.pages.dev/ArenaPremium2-HD.m3u8
+https://tiger-hub.vercel.app/Arena-Sports/Premium_2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/5e/6f/86/5e6f86c463c84f9b1aa868ef60ed5e0f.jpg",ARENAPREM 3
-https://wahyu1ptv.pages.dev/ArenaPremium3-HD.m3u8
+https://tiger-hub.vercel.app/Arena-Sports/Premium_3/tracks-v1a1/mono.ts.m3u8
 
 ================================================== UFC ==========================================================
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/3d/b1/b5/3db1b50873540976dd5eed136b3e7b7d.jpg" group-title="UFC_FEED"
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC_FEED", CH 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC_FEED", CH 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC_FEED", CH 2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC_FEED", CH 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC_FEED", CH 3
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC_FEED", CH 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-526/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC_FEED", CH 4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC_FEED", CH 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2847,13 +2804,8 @@ https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-526/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC_FEED", CH 5
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/UF/UF1.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC_FEED", CH 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/UF/UF1.m3u8
 
 ============================================ FORMULA1 ============================================
 
@@ -2867,13 +2819,15 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 https://cors-proxy.wangzhishi.net/http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Benth1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ad/6b/4c/ad6b4c42ecba7531573d5c3e5a3d3a3c.jpg" group-title="FORMULA1", CH 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ad/6b/4c/ad6b4c42ecba7531573d5c3e5a3d3a3c.jpg" group-title="FORMULA1", CH 3
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/F1.m3u8
 
 ================================================ MOTOGP ===============================================
 
@@ -3083,47 +3037,8 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Benmy2
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Benmy3.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN20
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Benth1.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN21
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Benth2.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN22
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Benth3.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN23
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Dz1.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN24
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Dz2.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN25
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Dz3.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN26
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Dz4.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN27
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Euspt.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN28
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Euspt2.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN29
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Psport.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN30
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Psport2.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN31
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Psport3.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN32
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky1.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN33
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky2.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN34
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky3.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN35
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky4.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN36
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky5.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN37
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky6.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN38
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky7.m3u8
-#EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN39
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky8.m3u8
 
 =================================================== BEINGROUP =========================================÷===========
-
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/736x/16/3d/e6/163de6bfd7ebdecc543ebba0713c7f47.jpg" group-title="☆BEIN_GROUP☆"
 
@@ -3234,73 +3149,10 @@ https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs8.m3u8
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs9.m3u8
 #https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben9.m3u8
 
-
 #EXTINF:-1 group-title="☆BEIN_GROUP☆" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BS ENG 1
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bseng1.m3u8
 #EXTINF:-1 group-title="☆BEIN_GROUP☆" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BS ENG 2
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bseng2.m3u8
-
-#EXTINF:-1 group-title="☆BEIN_GROUP☆" tvg-logo="https://i.pinimg.com/236x/d3/94/98/d39498c6a1a6a65157c4dc22577b5dff.jpg", BS FR 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392": "f0b8f84dbd93407af6ab0b41fc774249", "9d8b1b819cfdcff845625b86cc4968f3": "480b03fe4476bc187c6a9d43ba85b9db", "3cf686dc4246f19bc4419c54da0f90bc": "b40f599266c8a262ccf4a384dadce08a", "b6362975ca29d0685b7cac721b6faa26": "da04d180e9028af27482b6a37c81e020", "6ca2f2c822444ff76d9570741dec7b2b": "9fc3d71ab30e8d33f09ee29e5e453608"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
-
-#EXTINF:-1 group-title="☆BEIN_GROUP☆" tvg-logo="https://i.pinimg.com/236x/d3/94/98/d39498c6a1a6a65157c4dc22577b5dff.jpg", BS FR 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"85ac9362e89354ef5341fe4dbee0dd6a": "e556276599c55bdee169f39eab8e56bc", "71fcdcfd58c608662db317fcf4411c19": "eaf76e97b969a7d124a720a109acda61", "6c976caa628fde89aacedbd47059967e": "0d1e54565950c1e2f58d45c561a47187", "7a62a516c5d980553f497c6bfc469b19": "a0eeb97b4d14d6bb7a5c39755dd7c41c", "f81df5cf72bd43c3da84d04dc8691fcb": "4a60e4e009560c40766a0fa38770ef4e"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
-
-#EXTINF:-1 group-title="☆BEIN_GROUP☆" tvg-logo="https://i.pinimg.com/236x/d3/94/98/d39498c6a1a6a65157c4dc22577b5dff.jpg", BS FR 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4281ee112555097325058cb7355035b4": "1a88899547f7fd4a5c22ee8150d89208", "b4023d3a71316ed3cd06af7e43988d31": "91a96d592dd6e946b0f0074d15ac1168", "441100b7de65d7c582a9c71140e46f79": "ef37dadc14bdade17224ef4bc9f87ce6", "43faba2da98eeeeb42481dca873d3460": "f8b58939398e5a5574c18408d304d44e", "92e8cc9527c7f56a10777278cb801027": "4ce3f3e2234f00b21ba77006f197832a"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
-
-#EXTINF:-1 group-title="☆BEIN_GROUP☆" tvg-logo="https://i.pinimg.com/236x/d3/94/98/d39498c6a1a6a65157c4dc22577b5dff.jpg", BS FR MAX 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"m8E22NbIYLYuCtrAA+TT2Q","k":"rlyanlBKT+JzdgyA5/4erg"},{"kty":"oct","kid":"Aq2Nj/2AtQVneW5pS3opJw","k":"B86CeVN+0m/oMbU0OqVZaQ"},{"kty":"oct","kid":"0RQPC4dyMpf8Gjgg2YlTfw","k":"N8eLX7vZcha0gT4TWrLB6g"},{"kty":"oct","kid":"ttC2IXxwsPcFACoHB3GwhA","k":"dGwC0eaIT+LkQRYkugVVKA"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
-#EXTINF:-1 group-title="☆BEIN_GROUP☆" tvg-logo="https://i.pinimg.com/236x/d3/94/98/d39498c6a1a6a65157c4dc22577b5dff.jpg", BS FRANCE 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={b0478fd26424e88fa1e6478ee35d7f08:f5044242d8d224cae4087fd8ef654023,2275129f285677145e34eb8be249ae4a:75055c6051d650c529627b1e626f530a,2eb72cb8d525719cdda3e1f5cc43b342:e0797e22865754872052015dda2905f7,0ad2dbd3aefe207034f24050ebc98cd1:0b121fe769d0b1b45a3a6bb8c40e3405}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd
-#EXTINF:-1 group-title="☆BEIN_GROUP☆" tvg-logo="https://i.pinimg.com/236x/d3/94/98/d39498c6a1a6a65157c4dc22577b5dff.jpg", BS FRANCE 6
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={c98631345149436c3778caeab57d97c5:6125590eb9a0cb8c9a17dd2680000292,9f899ca412e180776f885c0c214b02a0:3f357dd3dfaf92623903ca91b88b05f4,03ee66e926f6a34a1815f117bc12799c:1dc895a43e207f02bd2fce62de5fbd3a,257180b06ff9cbcdbaabc1ae37650f9e:a00768d01bc82c2dd7e211c59addc9a6}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/974/1/live.mpd
-#EXTINF:-1 group-title="☆BEIN_GROUP☆" tvg-logo="https://i.pinimg.com/236x/d3/94/98/d39498c6a1a6a65157c4dc22577b5dff.jpg", BS FRANCE 7
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={3fabbf841767a645ad2d85c1e099e94d:bde635aa3028aab38d680672f88a0c7c,c4c64f1414958cde07fe40cd85f2238c:ce2887b843b7590a5ee083a4d8f667c2,6de1fab48d825b39a63746d89e90a848:2435a1110e892b7da94e79a7bd49b49c,337348892caabbb14763548ccb1a6ac7:7445c17d6da33a64ea8238a433f9cbe3}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/975/1/live.mpd
-#EXTINF:-1 group-title="☆BEIN_GROUP☆" tvg-logo="https://i.pinimg.com/236x/d3/94/98/d39498c6a1a6a65157c4dc22577b5dff.jpg", BS FRANCE 8
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={9f2c98006a33bbc83f7c03ef3530403b:546b1d34b1be111c513d38fecaea99e4,eb4949796839b08918bc4ebc25aceba6:9b53a7fc07fa9051aacf8bc693b187b0,d0525914e6c3e6be6fe85dcdb8a3be2f:da1c96b903c0c252f1b1d82f2517c07e,4b09dd7a5aff601212f3d498309e467c:7ed57d36a85bba88b737693ab368330e}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/976/1/live.mpd
-#EXTINF:-1 group-title="☆BEIN_GROUP☆" tvg-logo="https://i.pinimg.com/236x/d3/94/98/d39498c6a1a6a65157c4dc22577b5dff.jpg", BS FRANCE 9
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={4526ccd7d499b0b24011ce5adce18656:3d2ed80cf1f5a9a4b9a7621b9e6c4e2a,e2006d8a33025cd7943a5f02001781ec:35c7b2ec27f2b37492707a8b4cd37154,1a31894f0c41a0fe0c508784d0d1569b:121164311f7b308a37e5504b717ae3d5,a8d5f0e00214e3777d75b89b05daf64d:f0371e88f6c2bf7844d69d9b9e0a52af}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
-#EXTINF:-1 group-title="☆BEIN_GROUP☆" tvg-logo="https://i.pinimg.com/236x/d3/94/98/d39498c6a1a6a65157c4dc22577b5dff.jpg", BS FRANCE 10
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ca1d0a53a606f8ffeb028f6b2477baa3:388a61759de362dfcadef721b936d69a,15dabcf1eabc8717842feb65f7152107:7380f61795caebec26b0713bce2a4e3d,f9c2a25bbabc8d3804df46418069ef07:27ca457a2bb9751a5c1eb158474346a0,c41b8b295c08307ddc1e3a22ea912772:d925fe683ed91e5837aaa4e5147ad885}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 
 ======================================= LIGA INGGRIS ===========================================
 
@@ -3358,15 +3210,20 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CH 6
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep7.m3u8
-#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CH 7
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep8.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(knbc)/master.mpd
+
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LIVE ONLY 1
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep2.m3u8
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LIVE ONLY 2
-https://raw.githubusercontent.com/playtvthai/m3u8/main/m3u8/sports/max2.m3u8
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep7.m3u8
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LIVE ONLY 3
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep4.m3u8
+#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LIVE ONLY 4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep8.m3u8
 
 ======================================= LIGA SPANYOL ===========================================
 
@@ -3440,6 +3297,23 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 http://161.49.17.2:6610/001/2/ch00000090990000001127/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" group-title="☆LIGA ITALIA☆", CH 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" group-title="☆LIGA ITALIA☆", CH 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
+https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/560502/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" group-title="☆LIGA ITALIA☆", CH 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
+https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" group-title="☆LIGA ITALIA☆", CH 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3447,40 +3321,6 @@ http://161.49.17.2:6610/001/2/ch00000090990000001127/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" group-title="☆LIGA ITALIA☆", CH 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" group-title="☆LIGA ITALIA☆", CH 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
-https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/560502/index.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" group-title="☆LIGA ITALIA☆", CH 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
-https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" group-title="☆LIGA ITALIA☆", LIVE ONLY 1
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/koneksi.php?id=17938&type=drm 
-https://vidd.semar.my.id/koneksi.php?id=17938&type=dash
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" group-title="☆LIGA ITALIA☆", LIVE ONLY 2
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/koneksi.php?id=19404&type=drm 
-https://vidd.semar.my.id/koneksi.php?id=19404&type=dash
 
 ======================================= LIGA JERMAN ===========================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" group-title="☆LIGA JERMAN☆"
@@ -3586,392 +3426,148 @@ https://drive.usercontent.google.com/download?id=1bl_Hvn8EQkZz8vw-kkzQ3QEhaDaU9a
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="MOVIE SATURDAY",1. MOVIE SATURDAY ADA JUGA DI GALERY PUSTAKA
 https://drive.usercontent.google.com/download?id=1bl_Hvn8EQkZz8vw-kkzQ3QEhaDaU9aUl&export=download
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnpMcvoZz8oeo7vUGCKh1TIKQbW09h0Hyc-Q&usqp=CAU" group-title="MOVIE SATURDAY",Jung-E 
-https://v9jsrq.bn.files.1drv.com/y4mIzWm6ep4dLlpJl5yidqxs4KMCY7jn702X2KPd7KP3ssVrPk6oacEY3bes9PEPh56RH9S4VZsbqyZunuJgRdWNfNlK96O-MjjFDusSnfDlgqrvfspAYxdpyN-gzF_IrrskC8Jh-st-KhHJQHHp9UKqc69Nu5BjvrY7yQr2qsTBo7O0XpCIid055xcpoPYsbJYJWDQg6vRJr8oV2DjfUvXWw
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMV0JnsaohDhYoE_aLMOI8zIyz7Uhr2Er48A&usqp=CAU" group-title="MOVIE SATURDAY",Panther Swat 
-https://osqqqa.bn.files.1drv.com/y4mY-uslm7LZjbUzNqDXfKhvlMh35DY_RZlX2UNmil6xc8bSY4A73ayRknCknz0TPw92Tl5XK90enhqpIrQOjk-btqK0HXZO84jQ9P_dvNK1hMTCYYH26yyDHOtnpThvObAX-gzCJu091GsuZSzidURzn_A3KLy-W0wUWf_w-ilJnaqN3X7B2_hMvqB5lNgk633EksXk5SfwVrwqQs0JVLVrg
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/an/Xt0q2bHBzd0/14035041647842474454_mq.jpg?v=63919330" group-title="MOVIE SATURDAY",Candy Land 
-https://wxkrnw.bn.files.1drv.com/y4mrD8SmhFYCGWfa9dhm_KbSXiDH3bQTOuFtVIlQRH2wUR4v1-O5aDoBNZeqhWDKnK90flm1m0UL406TqjxYQOTfZKpRbXRcCSnGdl8hR3fE_QkgrafjAGKLsKte-YZ222_BpqXPZt4vf7BvCW45OGr6Q7yGksjoAu3dOx4lpz7t_f3JGYVvFpd86LaWviZz1PUvifQ2a96x0vGrKj8kPqNgw
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR52FlA9YD6kiIZmQkQkwasuEiEigsFIYsGvaHa5Kjt-g&s=10" group-title="MOVIE SATURDAY",Gangnam Zombie 
-https://os9rtq.bn.files.1drv.com/y4mp6OqS9_R25sCWGl5aBcVZ1dfPqGHMo8vCJ2N53b1CGoF0XuujIT92_sMajPd3BF5eoO1bufQYN7KWF2-2DfAZ3VpDnRzC7eFpwmalY-0j9j2dy-dkhiq7uHV-pRNRNGIwFotIRuMiaolMnTZhqwT-q3AoZi4j5--Y2jYQu5Vy5kngfr6-8OgDq8Hyut4pqs4sHUexysqR77ycQwyFJKmgw
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1TVTSxbarRRFyd24dzYPy_N1VzyUfLL3eKA&usqp=CAU" group-title="MOVIE SATURDAY",Consecration 
-https://1w4avw.bn.files.1drv.com/y4mXj6BDLNSK13_BlmYSRAXAXFHTSqAkNLPEQSo2x4LIpxKHzH1k4QhwrTOvn3wWVsqQybEPUlFvS81roSo1FFRlpdt8PDeR4cTKfElwHOHQDlZXhLzPz08G4OUERSp0jFCAgaON4yCVaFNSOOx_Uom74JfJfN-kcAOYVqkeaWDs5ZN0XR1Ig2EveThcGtdJuIp5EBn3i1H6AgSJfd0mhh_bw
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8tQ3iY59mZUR2vwlW8NkBheBTlgd5Tu_jMg&usqp=CAU" group-title="MOVIE SATURDAY",The Ritual Killer 
-https://rzwang.sn.files.1drv.com/y4mWM88yWuK8ZM-Uxp8O3OXlaLd1z1Yj371r2iiiHsfuN9bfvmcsYKCrGjFfybMT1ywIjznvgBADeAva2hMS2vfHGO4tyDDaNlg9LAmWaJn62OKog7kvtJwIZF3A5Am6tGICdJ6EwQ4dTgOdI5mTS8S2Bi6BnHxcVC7VJYu6YHlezJ3ODHkBFYO-kOMBcMuPd-HbqfYLSiRzhCg9qRLwMHoLA
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsihH4Jt20VBSBzKC-sLwSnapkXDFSoA5jmFdpQkf_lw&s=10" group-title="MOVIE SATURDAY",Bullets 9
-https://www.googleapis.com/drive/v3/files/1oO3baiCrTJ_5AR8hzvovyBzSB2Fszmg0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDk2YjNhYzEtYzg2ZC00OWEwLWJhYzgtMGUzMWVjNDFmYzI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",THG 5 The Ballad of Songbirds & Snakes
-https://www.dropbox.com/scl/fi/6frv10vwjc61nhgmyjbba/The-Hunger-Games-The-Ballad-of-Songbirds-Snakes-2023.mp4?rlkey=2b6jym60fyy2atzjn75o2hdiu&st=6pi0taps&dl=1
-http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4065.mp4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQzNDI2NTU1Ml5BMl5BanBnXkFtZTgwNTAyMDQ5NjE@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",THG 4 Mockingjay - Part 2 
-https://cloud.hownetwork.xyz/xxx/79d336bb5727b69474c8e6e46e46d583/1/480.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcxNDI2NDAzNl5BMl5BanBnXkFtZTgwODM3MTc2MjE@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",THG 3 Mockingjay - Part 1 
-https://cloud.hownetwork.xyz/xxx/7425e3675c331e84697821cd12107e28/3/480.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAyMjQ3OTAxMzNeQTJeQWpwZ15BbWU4MDU0NzA1MzAx._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",THG 2 Catching Fire _VLC 
-http://abf.filmbluray.id/l97j7ll
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6Tzq8vYW5ji0WQnMkg8kBFx3tWJ.jpg" group-title="MOVIE SATURDAY",BLACK DIAMOND (2025)
-https://cloud.hownetwork.xyz/xxx/b9f0897073d61cbf370b66eba0ab3007/25/480.m3u8
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dFWj2rOGsqSIX1PHFghbCBgpMnk.jpg" group-title="MOVIE SATURDAY",HENRY DANGER  THE MOVIE (2025)
-https://cloud.hownetwork.xyz/xxx/f29ca290fef4897d9754e57f4bd4bda3/25/480.m3u8
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg" group-title="MOVIE SATURDAY",HOLLAND (2025)
-https://cloud.hownetwork.xyz/xxx/a2501462f7d8fe5794b785a68a0fbe67/31/480.m3u8
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bzW0afBIyWZ0bjCje8GPezvETy0.jpg" group-title="MOVIE SATURDAY",HONEYMOON CRASHER (2025)
-https://cloud.hownetwork.xyz/xxx/477ebe248a9f031ef72119f417dd242f/25/480.m3u8
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/zNcVsbNvJRDnMrloUCvb6Tii52r.jpg" group-title="MOVIE SATURDAY"?IT FEEDS (2025)
-https://cloud.hownetwork.xyz/xxx/KwxkKCAcEzJvY0d-dh0hPSAcJREdJkF0cTQSKnIF/32/480.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWI1OGM4YjQtNmIxNi00YmE2LWJkNTAtY2Q0YjU4NTI5NWQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",THG 1
-https://cloud.hownetwork.xyz/xxx/b6e57345eb64c2a42499c184b6a1a8cb/11/480.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcwMjQ3Mjk0MV5BMl5BanBnXkFtZTgwNzcxNTYxMTE@._V1_.jpg" group-title="MOVIE SATURDAY",The Mummy 1
-https://cloud.hownetwork.xyz/xxx/b1121bfd93349449f2978eb5984fc2c6/1/480.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjdiYzVlNjUtNGI5MC00MDE5LTk0MmQtNDc0YzIzOGRmMDNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",The Mummy Returns 2
-https://www.dropbox.com/scl/fi/dhl4xl9au9jlka15ygfa7/The-Mummy-Returns-2001.mp4?rlkey=eb2vngnvjvc9dn3cbn5x6fyu7&st=b6x1ad8m&dl=1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU4NDIzMDY1OV5BMl5BanBnXkFtZTcwNjQxMzk3MQ@@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",The Mummy 3 Dragon Emperor 
-https://cloud.hownetwork.xyz/xxx/ca4d2c870ca4010a9f8cf827e6ce7abf/25/480.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwMTgwODAxMl5BMl5BanBnXkFtZTgwNTEwNTQ3MDI@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",The Mummy 4
-https://cloud.hownetwork.xyz/xxx/edb65ec845608cd5e65bd072d30b86e8/11/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqXDA1P_nB-LhtwAYqfKihWXF29w4PTTEdPhti216nPA&s=10" group-title="MOVIE SATURDAY", Black Panthers of WWII (2025)
+https://cloud.hownetwork.xyz/xxx/IBQoLS5UByAsJR8pMUN7LzURIGN3SUV0bwYyDgd8CQAdSy15JxxBdXA/26/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT27mrkNdjvaeRxTm6wj34eLfN62Ux5weMBHvNrLHzKZA&s=10" group-title="MOVIE SATURDAY", Orisiris 2025
+https://cloud.hownetwork.xyz/xxx/LQsgPCwKWnNyY0JhAVwjCiMBFhYaT093ITROfyA/26/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZ2vmyX4kPjRoMgE9178r3L-oC-QqavjhSwcheoFrGQ&s" group-title="MOVIE SATURDAY", She Walks In Darkness 2025
+https://cloud.hownetwork.xyz/xxx/MRAsYzIYGyoxfBMtMVs4PTELZHx1S0JsFRQ1CA9vDgcmTip4chtDcA/26/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5xM422sKZD1QSaasugtxeiS7UytLVYRFofkrtePXCQQ&s=10" group-title="MOVIE SATURDAY", Good boy 2025
+https://cloud.hownetwork.xyz/xxx/JRcmKmgbGDhvPBg6KlV7anJKfGMSPDUFDg4vEyVRMGh0QXgs/34/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGNyOAy_mhrzbbBteawL-I4DaEk9-bCU7d16XD8xsmwQ&s=10" group-title="MOVIE SATURDAY", Xeno 2025
+https://cloud.hownetwork.xyz/xxx/Oh0nIWhLR3N3fCAJAXQaBxonfnh9S0F1czQ/25/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpM0zIvWspFdJzHLgPydWzhvr6gZJmII0ooHZNTvM-ew&s=10" group-title="MOVIE SATURDAY", Grassland 2025
+https://cloud.hownetwork.xyz/xxx/JQooPTYVFi8mfEV8cQV7Dwc6DQIaIShwJzMRLXpWZA/25/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZBKHITaw6GkC7Ka6zDv0MFLZrkrhtfRjrdo_sSQ-nCA&s=10" group-title="MOVIE SATURDAY", Helloween 2025
+https://cloud.hownetwork.xyz/xxx/Kh0lIioOEiQsfEV8cQV7Gi4NGy88Ji8edmRDLnNRZjo/25/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjjVArxPZu4Q56qaxvsFDOv6LnZdudGU4jThv4Z9K0xQ&s=10" group-title="MOVIE SATURDAY", Vash level 2 2025
+https://cloud.hownetwork.xyz/xxx/NBk6JmgVEjcnPVp-bgJmandVHgsHPTseGg4TdSZWb2AgQA/25/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWCbBDaBtuKKeUo8e3P3YYz1EFH6ME-LNSHL-43gwC-A&s=10" group-title="MOVIE SATURDAY", Host 2025
+https://cloud.hownetwork.xyz/xxx/Khc6OmhLR3N3fCAJAXQaBxonKHt0SUZwIzA/25/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDg3vZu4VDOJdumhW7oMgXcs0IylMqsjipPJ28uHwqiQ&s=10" group-title="MOVIE SATURDAY", Telaga suriram 2025
+https://cloud.hownetwork.xyz/xxx/Nh0lLyIYWjI3Ix4-Il17anJKfGMSPDUFDg4vEyUGbmh6SCgr/25/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE6XU4L82oNP6oWtYgPOUg8mcVFHUOoz8iISKcNnMsag&s=10" group-title="MOVIE SATURDAY", Attack 13 2025
+https://cloud.hownetwork.xyz/xxx/Iww9LyYSWnBxfEV8cQV7Dwc6DQIaISh1d2MVKXdSZw/26/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZMjYFaflKPdXBBoM_SOqzPtSWTipQ8j5KoFm4df4gpA&s=10" group-title="MOVIE SATURDAY", Scared Shitless 2025
+https://cloud.hownetwork.xyz/xxx/MRsoPCAdWjIqOAMgJkMldXBIe3toLjIDBh0oFBwIYj12THF9dw/26/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStEh4W3OP75L43zsvzIFFvVXNzauYjSb-wJigeQQuIOw&s=10" group-title="MOVIE SATURDAY", Good news 2025
+https://cloud.hownetwork.xyz/xxx/JRcmKmgXEjYxfEV8cQV7Dwc6DQIaISh4IWUVfiAHbg/26/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZD3z_GZ7akdXLPaurkaT4zY4_hyqumum1H9SfpbN8Hg&s" group-title="MOVIE SATURDAY", Traumatika 2025
+https://cloud.hownetwork.xyz/xxx/NgooOygYAygpMFp-cwJjdRU9CwoJJi8edmAWLnFUMG0/26/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuI5rmxl4Kup1ckPDVx3ykDdqCB4lACA7nXYwDfY6Mww&s=10" group-title="MOVIE SATURDAY", Furioza 2025
+https://cloud.hownetwork.xyz/xxx/JA07JyoDFmxwfEV8cQV7Dwc6DQIaISgiJmQRdXBTNQ/34/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLT3HSCVDrrzBoIc44xTjfJkgA2u-0UTQWCiVDX6p2Gg&s=10" group-title="MOVIE SATURDAY", The Partisan 2025
+https://cloud.hownetwork.xyz/xxx/Mhk7OiwKFi9vY0d-dh0BHQA8BREdJkUldTdPfnIC/34/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdRIuT9sksb6BEYzmoFo8bMqDlm46pyTzl6qNouXH6EQ&s=10" group-title="MOVIE SATURDAY", Killing faith 2025
+https://cloud.hownetwork.xyz/xxx/KRElIiwXEGwkMB44Kx1kaHBNZBkAOzMNHQkoKXtTZmlyTn0/34/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUB37RdYD5aB8yO11halWDSiUWZr1R09PB2nGNWGxe1w&s=10" group-title="MOVIE SATURDAY", Dongji rescue 2025
+https://cloud.hownetwork.xyz/xxx/JhcnKS8QWjMnIhQ5Jh1kaHBNZBkAOzMNHQkoLydRNWgjGXE/34/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpwi90FLDiMPEzkZHtT-g8Z6tZzgl6L39w4ylAb4BwiA&s=10" group-title="MOVIE SATURDAY", Savior 1998
+https://cloud.hownetwork.xyz/xxx/MRk_JyoLWnB7aE9hAVwjCiMBFhYaTUB1dDITfyU/34/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv1-oQJiS3125SmqUkR0GtZDkFiDkeQpxnrNBB0TQ_nw&s=10" group-title="MOVIE SATURDAY", Octopus Skin 2025
+https://cloud.hownetwork.xyz/xxx/LRs9ITUMBGwxOh4iblw3dTIRLCJoCQItMj5afnMCZXUVPQsKCSYvHiE1Ryh1AWZs/34/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBLuyd3JKms2n3Y-uw-JcU2wMcP3-XWP4pT09RTbj6Q&s=10" group-title="MOVIE SATURDAY", Kill me again 2025
+https://cloud.hownetwork.xyz/xxx/KRElImgUEmwjNhYlLR1kaHBNZBkAOzMNHQkofHIBZWwhSHA/34/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ80ACA5DEyr7QVkcUSV2sxOruQZnHucMzVUe6ZXcbdjA&s=10" group-title="MOVIE SATURDAY", Clown in a Cornfield 2025
+https://cloud.hownetwork.xyz/xxx/IRQmOStUHi9vMFovLEI4PisdJSpoS0dzd3w1IDZiNyEdIBZ3IElDcHY3Rg/34/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGBNn71ef-Fn8OrzU7jlnAkpq0lXK2-c3tK403-WsQmg&s=10" group-title="MOVIE SATURDAY", The prophecy 2025
+https://cloud.hownetwork.xyz/xxx/LRUnJzYaHiQsJVo-JlEyPTBVOTwqCR8kIShafnMCY3UVPQsKCSYvHntpFSgnBTA5/34/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqtS3_nHDCDMn8odtyoXS0uC94AtXYY-1EPeH0y67HMQ&s=10" group-title="MOVIE SATURDAY", Mom 2025
+https://cloud.hownetwork.xyz/xxx/LxckY3dJRXRvBjIOB3wJAB0df3onGBJ0IQ/34/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe4gyBdulzn4SGr81yUCiEetHiX0fN3D12qgpuspkjNA&s=10" group-title="MOVIE SATURDAY", Play Dirty 2025
+https://cloud.hownetwork.xyz/xxx/MhQoN2gdHjM2KFp-cwJjdRU9CwoJJi8ecWkUf3ZWMjs/34/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6i4gcbaj65xg9DhHsKdZobaZt4uCnhb5rCHqBE0czpQ&s=10" group-title="MOVIE SATURDAY", The Toxic Avanger 2025
+https://cloud.hownetwork.xyz/xxx/NhcxJyZUFjcnPxApMR1kaHBNZBkAOzMNHQkoeyVWZ24mTCo/34/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTAW0obFk21zclN0Eg9QB0SzTFjpR-a-Sp_693kYblaw&s=10" group-title="MOVIE SATURDAY", Gunman 2025
+https://cloud.hownetwork.xyz/xxx/JQ0nIyQXWiYjJR4gL1UkN29KeXxwVCAEABU7ExtvYGggGX1_dRo/34/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgcr9GJzsJkr8cPGr_yPyngt1ZrAoKEP19C1GXyP6IRg&s=10" group-title="MOVIE SATURDAY", Caught stealing 2025
+https://cloud.hownetwork.xyz/xxx/IRk8KS0NWjI2NBYgKl4xdXBIe3toLjIDBh0oFBxSNz5wTCt2Iw/34/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGVOy6CdJKOF2jpO4y5zJFQvsJl3sfEtFEUEK-PNqzbw&s=10" group-title="MOVIE SATURDAY", Qi Zi 2025
+https://cloud.hownetwork.xyz/xxx/MxFkNCxURXFwZFobBnISFB0gFnkgQEN2ezVP/34/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7kgOMnlUakt6K0zW2e5SpNv3Io5IKmRFwbwXByAOBNw&s=10" group-title="MOVIE SATURDAY", My daughter is a zombie 2025
+https://cloud.hownetwork.xyz/xxx/OBckLCwdEyAufEV8cQV7Dwc6DQIaISgndGJBeXAHZQ/34/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMMeNBEjmXjYmdbDf9l_HxEbRAdeEb0CMm26bFzOUnA&s=10" group-title="MOVIE SATURDAY", Pee nak 4
+https://cloud.hownetwork.xyz/xxx/Mh0sYysYHGx2fEV8cQR7Dwc6DQIaISh1I2hAfnMCZQ/34/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0sXlN09GCpVlmB-wy6xJVaJacuBzKKdiLkv-8f7n0Jg&s=10" group-title="MOVIE SATURDAY", The wailing 
+https://cloud.hownetwork.xyz/xxx/NRkgIiwXEGxwYUV4bmcTGgY0FhYaTxZ2IWQUdHU/34/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_2TSYTw9LvMd4mAOqcVCHaSXR77BCZumzGndzgUxTRw&s" group-title="MOVIE SATURDAY", Witchboard 2025
+https://cloud.hownetwork.xyz/xxx/NRE9LS0bGCAwNVp-cwJjdRU9CwoJJi8edDNDdHpRZjs/34/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwrNib2SXFcARRh7N1MU0WnBMEC8R4onxOF0_flF4MkA&s=10" group-title="MOVIE SATURDAY", Abduct 2025 not vlc
+https://skr.silverpathacademy.cyou/v4/mf/cuggz/index-f2-v1-a1.txt?v=1748220870
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaQTmaHqKTJAzbs54pIeu1e0ZQ4DG7DjQI3T5Xct6Gw&s=10" group-title="MOVIE SATURDAY", Until dawn 2025 not vlc
+https://sf21.rpmvid.com/hls/dduasN4piG4ORskW0brGgA/8q/nc31jo1s/nceaaa/tt/index-f1-v1-a1.m3u8?v=1758651105
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCQkRFmFenH1UFCrqnEDKRntHKqfKmTlHI8mUkAdYnuw&s=10" group-title="MOVIE SATURDAY", Againts all odds 2025
+https://cloud.hownetwork.xyz/xxx/Ix8oJysKA2wjPRthLFQyK29KeXxwVCAEABU7Extvbzl2Hisrd0g/27/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSESiP9EvxQY-VoZElT6qOGZPMLPSFGRogRNxp-v0EoA&s=10" group-title="MOVIE SATURDAY", Hazard 2025
+https://cloud.hownetwork.xyz/xxx/KhkzLzcdWnNyY0JhFHUUHA4nERFxH051czJBLg/27/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4uAbX5jUboG0s25M-mINtH3htTvTMe5NhSwjk5sLD9g&s=10" group-title="MOVIE SATURDAY", Gadhi 2025
+https://cloud.hownetwork.xyz/xxx/JRktJixURXFwZFobBnISFB0gFnZyQE91dzdC/27/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC5KA40D5Hm6IgO98emLgkBzokSQUJE2iGVe9G9DWboA&s=10" group-title="MOVIE SATURDAY", The correspondent
+https://cloud.hownetwork.xyz/xxx/IRc7PCAKBy4sNRIiNx1kaHBMZAwpDCUgOw4vE3YIY2wnHH4q/27/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWyFymHIRvddsAlYrMzBIoF8X-k_WB-JFg5FD-Vi-f6w&s=10" group-title="MOVIE SATURDAY", The delivery rider 2025
+https://cloud.hownetwork.xyz/xxx/Jh0lJzMcBThvIx4oJkJ7anJKfGMSPDUFDg4vE3oGNWh0TH18/25/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeXpc8oYh0BykydUcKZ-kTNtrsdz5Y_0vtAcFeGsHDkA&s=10" group-title="MOVIE SATURDAY", Beast of war 2025
+https://cloud.hownetwork.xyz/xxx/IB0oPTFUACAwfEV8cQV7Dwc6DQIaISgjdWZFKXoFNQ/34/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvI5NvMbGH8hvmZQtKUGLlVxb75NEswysyPWTHZsjXcg&s=10" group-title="MOVIE SATURDAY",ikouwais. Triple threat
+https://cloud.hownetwork.xyz/xxx/81e9702f0c5935d6075438f21aa85146/11/480.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDE4M2ZiYzEtODJiZC00NmI1LWFlNTgtOGJlNTY3NmExYWNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",Percy Jackson 1 The Lightning Thief 
-https://cloud.hownetwork.xyz/xxx/fd0e61d01b2c3c778bab85c76d1901fd/3/480.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRmNmFhZWItYWRhYi00ZTAxLTllMTItZDlkMmU2ZWU3NjUxXkEyXkFqcGc@._V1_.jpg" group-title="MOVIE SATURDAY",Percy Jackson 2 Sea of Monsters
-https://cloud.hownetwork.xyz/xxx/884fccd2a90b2ca1d07f77ef320d26d2/1/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRay_9gPOfupxCS1hVJb8ZF2xeWgZyhZL-jWtzBk7Yf0w&s=10" group-title="MOVIE SATURDAY",ikouwais. Wu assassin S1 EP 2
+https://cloud.hownetwork.xyz/xxx/NQ1kLzYKFjIxOBk_bkMzOTEXJ2N0VBIxKyIYKCYdZ3VwSHh3aC4yAwYdWnh7AAkAHQosOzUVGCAm/35/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRay_9gPOfupxCS1hVJb8ZF2xeWgZyhZL-jWtzBk7Yf0w&s=10" group-title="MOVIE SATURDAY",ikouwais. Wu assassin S1 EP 2
+https://cloud.hownetwork.xyz/xxx/NQ1kLzYKFjIxOBk_bkMzOTEXJ2N0VBIxKyIYKCYdZHVwSHh3aC4yAwYdWnh7AAkAHQosOzUVGCAm/35/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRay_9gPOfupxCS1hVJb8ZF2xeWgZyhZL-jWtzBk7Yf0w&s=10" group-title="MOVIE SATURDAY",ikouwais. Wu assassin S1 EP 3
+https://cloud.hownetwork.xyz/xxx/9590a17f2dbdb430a946822820a9ab46/28/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRay_9gPOfupxCS1hVJb8ZF2xeWgZyhZL-jWtzBk7Yf0w&s=10" group-title="MOVIE SATURDAY",ikouwais. Wu assassin S1 EP 4
+https://cloud.hownetwork.xyz/xxx/NQ1kLzYKFjIxOBk_bkMzOTEXJ2N0VBIxKyIYKCYdYnVwSHh3aC4yAwYdWnh7AAkAHQosOzUVGCAm/35/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRay_9gPOfupxCS1hVJb8ZF2xeWgZyhZL-jWtzBk7Yf0w&s=10" group-title="MOVIE SATURDAY",ikouwais. Wu assassin S1 EP 5
+https://cloud.hownetwork.xyz/xxx/NQ1kLzYKFjIxOBk_bkMzOTEXJ2N0VBIxKyIYKCYdY3VwSHh3aC4yAwYdWnh7AAkAHQosOzUVGCAm/35/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRay_9gPOfupxCS1hVJb8ZF2xeWgZyhZL-jWtzBk7Yf0w&s=10" group-title="MOVIE SATURDAY",ikouwais. Wu assassin S1 EP 6
+https://cloud.hownetwork.xyz/xxx/bb96c6d6cbb2340dc5d094517fc74c8f/28/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRay_9gPOfupxCS1hVJb8ZF2xeWgZyhZL-jWtzBk7Yf0w&s=10" group-title="MOVIE SATURDAY",ikouwais. Wu assassin S1 EP 7
+https://cloud.hownetwork.xyz/xxx/3510e5622c6369607d7ede153d7c1fed/28/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRay_9gPOfupxCS1hVJb8ZF2xeWgZyhZL-jWtzBk7Yf0w&s=10" group-title="MOVIE SATURDAY",ikouwais. Wu assassin S1 EP 8
+https://cloud.hownetwork.xyz/xxx/NQ1kLzYKFjIxOBk_bkMzOTEXJ2N0VBIxKyIYKCYdbnVwSHh3aC4yAwYdWnh7AAkAHQosOzUVGCAm/35/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRay_9gPOfupxCS1hVJb8ZF2xeWgZyhZL-jWtzBk7Yf0w&s=10" group-title="MOVIE SATURDAY",ikouwais. Wu assassin S1 EP 9
+https://cloud.hownetwork.xyz/xxx/NQ1kLzYKFjIxOBk_bkMzOTEXJ2N0VBIxKyIYKCYdb3VwSHh3aC4yAwYdWnh7AAkAHQosOzUVGCAm/35/480.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRay_9gPOfupxCS1hVJb8ZF2xeWgZyhZL-jWtzBk7Yf0w&s=10" group-title="MOVIE SATURDAY",ikouwais. Wu assassin S1 EP 10
+https://cloud.hownetwork.xyz/xxx/NQ1kLzYKFjIxOBk_bkMzOTEXJ2N0VBIxKyIYKCYdZ2hvSnl_fFQgBAAVO2F3CGYHGic7KzAJGy4jNQ/35/480.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjdlMzc4ZjMtOTY3Yi00NDRlLTk0OTQtNjAzNTkzZTIyZTkzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",Kingsman 1 The Secret Service 
-https://cloud.hownetwork.xyz/xxx/4e1dcc7cb0fa66cb83e26918c702f71e/5/480.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ3OTgzMzY4NF5BMl5BanBnXkFtZTgwOTc4OTQyMzI@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",Kingsman 2 The Golden Circle
-https://cloud.hownetwork.xyz/xxx/446af4ffe54e333d32bd18586dcbc2a7/5/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTliYTE2NjUtNDkwZS00ZTNlLTgwN2MtMjZlOGJmODY5ZjE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",Jumanji PT1 Welcome to the Jungle 
-https://cloud.hownetwork.xyz/xxx/780ac18de2c288d4190c8c2399945d15/5/480.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjNkNGIzMmQtNTNlMS00MjllLTliZGItNmQxZjVmNzJjOGZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",Jumanji PT2 The Next Level 
-https://cloud.hownetwork.xyz/xxx/075d595b48bc5384a7f2c3161752a022/5/480.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2JjYWUyZjUtMDg3OS00MGIyLTgyN2QtYjIyY2VlYzViYThlXkEyXkFqcGc@._V1_.jpg" group-title="MOVIE SATURDAY",The Huntsman PT1 & Snow White
-https://cloud.hownetwork.xyz/xxx/5600589e62035018186a6c5d28608f7c/2/480.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjY0YTM4ZTAtZjliYS00YzgwLTg0NWEtYzgwNWViMTNiOTQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",The Huntsman PT2 Winter's War 
-https://cloud.hownetwork.xyz/xxx/ef4433c3bd2ac67221cd2563fe20851d/4/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MGM4ZjQtNmQ3MC00NDE4LWEwYTItYWZiYzAxMGQwMDkzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",Johnny English 1
-https://cloud.hownetwork.xyz/xxx/4b6eb4e99393c4510219c92d49855e92/7/480.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNhMTRlYWMtNGQzZS00OGFmLTlhOGUtODZlMDY4YzNlZDYwXkEyXkFqcGc@._V1_.jpg" group-title="MOVIE SATURDAY",Johnny English 2 Reborn 
-https://cloud.hownetwork.xyz/xxx/19107a0cdaeb89d1fda672183437e229/1/480.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmNlZDRlODAtNzE1Zi00NjUzLThiZWQtOTk1ZTFjMjRhMjg5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",Johnny English 3 Strikes Again
-https://cloud.hownetwork.xyz/xxx/a63f69c3ddcba28aed4d777db34f65c1/5/480.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk2NDc2MDAxN15BMl5BanBnXkFtZTYwNDc1NDY2._V1_.jpg" group-title="MOVIE SATURDAY",The Transporter 1
-https://cloud.hownetwork.xyz/xxx/1a11ff1b3465298bce57a165a98b569a/1/480.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTM4ZTM2ZDMtM2ZmMi00YWM4LTlmOWEtODQxMzYyZDJlZDEwXkEyXkFqcGc@._V1_.jpg" group-title="MOVIE SATURDAY",The Transporter 2
-https://cloud.hownetwork.xyz/xxx/c0d5b6a5706f3625be3c2b1d7707a088/1/480.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQ2YzM3NDctM2Y0Ni00NDA3LWIzMTYtNjhhYzEyZmI0MWM3XkEyXkFqcGc@._V1_.jpg" group-title="MOVIE SATURDAY",The Transporter 3 
-https://cloud.hownetwork.xyz/xxx/a84de559d6f1ac05cfac5c892c8cd398/3/480.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY5ZmRmZTItYzVjMC00NmQ0LWJiNzctZTcyODUzZGRkNTE4XkEyXkFqcGc@._V1_.jpg" group-title="MOVIE SATURDAY",The Transporter 4 Refueled
-https://cloud.hownetwork.xyz/xxx/b33fa57548918725b6e83ecf9ca10426/1/480.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWIwZjFkYjktZTI3My00YzhkLWI5NmUtZDYyMTg5ZWVmODZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",Underworld 1 VLC ONLY
-http://abf.filmbluray.id/f0g9ouc
-#https://cloud.hownetwork.xyz/xxx/e2c1e1f3d19bb3d67746927d406883fe/1/480.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEzNDY1OTQwOV5BMl5BanBnXkFtZTcwNjcxMTIzMw@@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",Underworld 2 Evolution 
-https://cloud.hownetwork.xyz/xxx/bfbd577ac0ee03ac04afabb9d0557725/1/480.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAwNzYzMDQyMzReQTJeQWpwZ15BbWU3MDMyNDA0MjI@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",Underworld 3 Rise VLC ONLY
-http://abf.filmbluray.id/bv7sui5
-#https://cloud.hownetwork.xyz/xxx/8d4c7df19905cb5f3c415ee47931c22c/23/480.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODEzNDhkMmEtZjdjZC00OGU1LTg1MzUtZjQ4MjRmNGE2M2YwXkEyXkFqcGc@._V1_.jpg" group-title="MOVIE SATURDAY",Underworld 4 Awakening
-https://cloud.hownetwork.xyz/xxx/fb647520f5224c5e7f5d47d9b55f09ef/3/480.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmFmYTY1YjYtODhlNC00ZWRiLWFkMzItNmNhYzc1YWZjNzU5XkEyXkFqcGc@._V1_.jpg" group-title="MOVIE SATURDAY",Underworld 5 Blood Wars
-https://cloud.hownetwork.xyz/xxx/34bf0a060b581456d722728a04ad9d75/3/480.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/6c/3f/35/ME151LLN_o.jpg" group-title="MOVIE SATURDAY",Norma: Antara Mertua dan Menantu (2025)not vlc
-https://higuys.rpmvid.com/hls/rpFguSvta9B7bG7YZoVZ_Q/hld/iplnen83/pdn3sh/tt/master.m3u8?v=1751082628
-#EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/7d/39/72/ME151LPR_o.jpg" group-title="MOVIE SATURDAY",Pengepungan di Bukit Duri (2025)not vlc
-https://higuys.rpmvid.com/hls/JP8Hvgw4citq_s_ezO_tKg/gee/dq8wrwe6/t1bvkc/tt/master.m3u8?v=1751082628
-#EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/b0/01/bb/ME151SOT_o.jpg" group-title="MOVIE SATURDAY",Pabrik Gula (2025)not vlc
-https://higuys.rpmvid.com/hls/hVnlyw6QwrBYWf4Y3sG5vw/mik/mehogopx/8atdxm/tt/master.m3u8?v=1751082628
-#EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/db/3c/cc/ME151SPH_o.jpg" group-title="MOVIE SATURDAY",Komang (2025)not vlc
-https://higuys.rpmvid.com/hls/0nesXSXISbAj8lkHZzip7Q/sc/v1fiafnev/vftxwd/tt/master.m3u8?v=1751082628
-#EXTINF:-1 tvg-id="" tvg-logo="https://images4.imagebam.com/cd/b3/fa/ME151SQ7_o.jpg" group-title="MOVIE SATURDAY",A Normal Women (2025)not vlc
-https://higuys.rpmvid.com/hls/pMbYZR1iuJBUyuuiV8HnZg/sc/el9jhjk3/rcl6mo/tt/master.m3u8?v=1751082628
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/iD0iWNrqlfffm81BKP5IGzrMofq-152x228.jpg",Waktu Maghrib 2 (2025)not vlc
-https://playerngefilm21.rpmlive.online/hls/zGGIpd8x_PqEvGti7wB_Rg/pp/6sprig6z/czjvag/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/8OFtlBJxQetafD8ZXaTtqlEp352-152x228.jpg",Keluarga Super Irit (2025)not vlc
-https://playerngefilm21.rpmlive.online/hls/oVnYpx6YEkGOG5_Qr1pxmQ/ck/6sprig6z/xsfgj5/tt/index-f1-v1-a1.m3u8?v=1758651105
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/dfsyhvGdOMs5FbA3mgEwSgaqC4a-152x228.jpg",Gowok: Javanese Kamasutra (2025)not vlc
-https://playerngefilm21.rpmlive.online/hls/z9o2gM69UHwhbyVF9EtNJA/np/qt5y8p1c/vbo65f/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/eichIZLd7e9AgYltckEwWgrFQcq-152x228.jpg",Dendam Malam Kelam (2025) not vlc
-https://playerngefilm21.rpmlive.online/hls/2rRhWXn58qKUi_-rI_JS9w/3vi/qt5y8p1c/gltfni/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/x1mSlLW4pkfPGcya9xXYGLFhrXZ-152x228.jpg",Pembantaian Dukun Santet (2025)not vlc
-https://playerngefilm21.rpmlive.online/hls/rf-dscZqhjRTf8ElIuZ14A/s93/qt5y8p1c/vburif/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/cueny6yXHv2BXSjvIO1wKr4WJU2-152x228.jpg",Selamat Tinggal (2025) not vlc
-https://playerngefilm21.rpmlive.online/hls/NzhSufSmCQq7Pc5I3YSPJg/np/sku8pvep/8wgb3n/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/31HRhQyllgSRGU7M9xHBKWRsY5F-152x228.jpg",Utusan Iblis: Dia Yang Berada di Antara Kita (2025) not vlc
-https://playerngefilm21.rpmlive.online/hls/XUduEXQmr1FAqVGmJF3WvQ/ox/h9kqslgi/ikqqqz/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/v9Z2ilf5G61tknc8AIfjJWQtzt8-152x228.jpg",Godaan Setan Yang Terkutuk (2025) not vlc
-https://playerngefilm21.rpmlive.online/hls/44Yu7LEqOS6uCRssQFDieg/luy/h9kqslgi/69jup9/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/bi7e8dhSlHvi5AdrwJDMw0GqN1w-152x228.jpg",Gundik (2025) not vlc
-https://playerngefilm21.rpmlive.online/hls/GGqV-KVMxQSKOiIL8NiCAA/mik/h9kqslgi/ho8h6y/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/7yQhm9SYZ6FXpc88VjdLYKALZD9-152x228.jpg",Angkara Murka (2025) not vlc
-https://playerngefilm21.rpmlive.online/hls/ENVFjtQpi3t8kGxMxOkdVQ/s93/85vbczxn/iku9mm/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/6HiAwrnFUTqxQeY700GJ7trtVvE-152x228.jpg",Qodrat 2 (2025) not vlc
-https://playerngefilm21.rpmlive.online/hls/t0Dg3QYvzstheQ-8hcBI4w/mik/85vbczxn/vbxydu/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/AvT3GUVHbdf5ai3ZPLV6L4r7Rzg-152x228.jpg",Sayap Patah 2 Olivia (2025) not vlc
-https://playerngefilm21.rpmlive.online/hls/iUakkgGiukbOckxCYWXs7A/djx/nc31j51c/8a8uff/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/ulKWRfIn4okrZTNgFFLaayAYcEX-152x228.jpg",Dasim (2025)not vlc
-https://playerngefilm21.rpmlive.online/hls/Fg63hXXeyjjsKZOR2EeGcw/3vi/nc31j51c/5f5uxg/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/jM3GDA1ULTujSkbMVShVpL0rYLP-152x228.jpg",Tabayyun (2025)not vlc
-https://playerngefilm21.rpmlive.online/hls/Uo5uG3E-iY7ED2rJS_WUEA/8q/r8cznln3/9ng83o/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/sBANlmgOdrCEYMeXJLyh3qJ6URn-152x228.webp",Perang Kota (2025)not blc
-https://playerngefilm21.rpmlive.online/hls/Z27x-x5hID0rwKEDyxFUaw/hld/xieumls5/qvialp/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/dPyw0j7oD7ihYCROgYFRpv8ywv1-152x228.jpg",Rumah Untuk Alie (2025)not vlc
-https://playerngefilm21.rpmlive.online/hls/XxeZ58UymdlB-V0Ysqjx6A/epu/xieumls5/qv6uu5/tt/master.m3u8?v=1758651105
-
-#EXTINF:-1 type="" tvg-logo="https://www.dropbox.com/scl/fi/73oyzybmdbvdz2542qnva/1739366958260109527570695878015.jpg?rlkey=un8t89zw9e826qej3vhpw82ze&st=84ab40e4&dl=1" group-title="MOVIE SATURDAY",Sumala
-https://www.dropbox.com/scl/fi/ka9q1gz65hlrz1aq3g2zt/Sumala.mp4?rlkey=bq3ncipdjwm60q132jzfqbqko&st=l69pi1ay&dl=1
-#EXTINF:-1 type="" tvg-logo="https://www.dropbox.com/scl/fi/0q3bcukfgxeu2i6szlxmt/17393668886489199391554442118816.jpg?rlkey=qi84zkt3ghgv8p56whgsw0l3f&st=9himhpzy&dl=1" group-title="MOVIE SATURDAY",Death Whisperer 2 
-https://www.dropbox.com/scl/fi/4o2fi4afschwpyf40slah/Death-Whisperer-2.mp4?rlkey=syxvbfz0d48ld0fq5tzd0hfwl&st=k4evbo5j&dl=1
-#EXTINF:-1 type="" tvg-logo="https://www.dropbox.com/scl/fi/jb97z2828r00lynmqk1c7/17394960791868846698826873043838.jpg?rlkey=vf2t2urci853ynqmzpow2zy1g&st=r19j06el&dl=1" group-title="MOVIE SATURDAY",Malam Keramat 
-https://www.dropbox.com/scl/fi/j24esuqmrcnvmbcc1txs5/malam-keramat.mp4?rlkey=skhi1zfe259tpqve4d8xlj5nj&st=wq4rceal&dl=1
-#EXTINF:-1 type="" tvg-logo="https://www.dropbox.com/scl/fi/a0x5bkwll5f2ndxlhco6d/17387599641469200053883686393735.jpg?rlkey=gxok9afr0lxsz85pqu627g2fs&st=ob6sagb0&dl=1" group-title="MOVIE SATURDAY",Pushpa 2: The Rule 
-https://www.dropbox.com/scl/fi/c6vshszn5fqbyxk2vm4ui/pushpa.mp4?rlkey=en2f1csjxcmz7htbfo22npv61&st=ir5qum35&dl=1
-#EXTINF:-1 type="" tvg-logo="https://www.dropbox.com/scl/fi/c5i1r1hve29lvvyntk6xa/17394987272557185390259927953223.jpg?rlkey=utbmwzkmxehpkaa5xh8di6k6r&st=wxeujcki&dl=1" group-title="MOVIE SATURDAY",Bogota:City of the lost 
-https://www.dropbox.com/scl/fi/kxvsrpygjc78f70cm5bsb/bogota.mp4?rlkey=9qzj9k4b7jhw3yzkpabmm2pdb&st=q6h2lpxp&dl=1
-#EXTINF:-1 type="" tvg-logo="https://www.dropbox.com/scl/fi/ofghvbqfu1u29k623tuep/17366593465577374042872448877324.jpg?rlkey=5q9je0a5s9xqo58o2ohpia1h1&st=qrlx9dl6&dl=1" group-title="MOVIE SATURDAY",Talbis Iblis 2022
-https://www.dropbox.com/scl/fi/eiugciy7xui3cfiwf7eq5/The-Devil_s-Deception-2022-720.ts?rlkey=z35lie47s5q6303ynif7uldwr&st=zetj2i6s&dl=1
-#EXTINF:-1 type="" tvg-logo="https://www.dropbox.com/scl/fi/5aomy49r6e9dzxldmw7h8/17396308742571885685805006411221.jpg?rlkey=e1yl3kkmihjlvjjbedav0w2nc&st=6ouhpbnl&dl=1" group-title="MOVIE SATURDAY",Berebut Jenazah (2025)
-https://www.dropbox.com/scl/fi/saolu2v3g7xufkgo9t1nv/berebut-jenazah-2025.mp4?rlkey=nrwt9gkglfhbzhilhk7i9ima1&st=14okb661&dl=1
-#EXTINF:-1 type="" tvg-logo="https://www.dropbox.com/scl/fi/3plghdg11ktvynu8uvl8m/1739632818304919479658411672689.jpg?rlkey=5t332984xu1wwtboc8w6dfxa8&st=rtsr1ez7&dl=1" group-title="MOVIE SATURDAY",Home Sweet Loan 
-https://www.dropbox.com/scl/fi/e08b2ooittl02pxha8gb0/home-sweet-loan.mp4?rlkey=61y08hat74bhv58rauxupx2zs&st=yous2rgw&dl=1
-#EXTINF:-1 type="" tvg-logo="https://www.dropbox.com/scl/fi/nxz60b0gj6gna0yk5ym9d/17396735608657054208565035198653.jpg?rlkey=014yl68zo5r9dsdx10s1x9jze&st=7hbkvfwf&dl=1" group-title="MOVIE SATURDAY",Kinda Pregnant (2025)
-https://www.dropbox.com/scl/fi/tyxuazmgkrydsoropo8lw/kinda-pregnant.mp4?rlkey=ug70he9oiipsxxfw7fklt1jmb&st=ogctae67&dl=1
-#EXTINF:-1 type="Movies" tvg-logo="https://www.dropbox.com/scl/fi/w4ecf6oa2f6akx0cf2qlz/1737602371418357591132582989333.jpg?rlkey=z3fevqp1vh92u3swjlhgm7709&st=rjl645yp&dl=1" group-title="MOVIE SATURDAY", Back In Action (2025)
-https://www.dropbox.com/scl/fi/b4vzbbp153yuz694qbqj9/back-in-action.mp4?rlkey=2j5hnk1amd7de8dxanxs0gqak&st=kg6zhh6c&dl=1
-#EXTINF:-1 type="Movies" tvg-logo="https://www.dropbox.com/scl/fi/g12fenxcmw3v10cba2ug5/17398793530181210645505785787531.jpg?rlkey=54xr85p9hfuwayhbsgbd0v444&st=sfh09cc3&dl=1" group-title="MOVIE SATURDAY", Kemah Terlarang: Kesurupan Massal 
-https://www.dropbox.com/scl/fi/hvwgohiwbuy2zlc4xt6j2/kemah-terlarang.mp4?rlkey=95y0e1ts4asbf9kq4ubgsdj4q&st=2p6bgsp5&dl=1
-#EXTINF:-1 type="Movies" tvg-logo="https://www.dropbox.com/scl/fi/9mli2uvunuzzfsa5otcxc/17400389158928721304768002850122.jpg?rlkey=3lcrwy6s8nmyaweagghcv9z2v&st=hagmca6e&dl=1" group-title="MOVIE SATURDAY", The Prosecutor 
-https://www.dropbox.com/scl/fi/cemww69ecgct5affmifuv/prosecutor.mp4?rlkey=u5do1dqgkch9xzg3kh9r3rv0j&st=3zovq694&dl=1
-#EXTINF:-1 type="Movies" tvg-logo="https://www.dropbox.com/scl/fi/j7x3lyud6p96pljsxziv5/17388373039624335461282105490506.jpg?rlkey=6cza9xsrx9gybs402cf6rs63p&st=10gvr89o&dl=1" group-title="MOVIE SATURDAY", Reeza GTR 
-https://www.dropbox.com/scl/fi/j9489xtxtfwenf6hr79qh/reeza-gtr.mp4?rlkey=1eyowgn7eexrsse234el2f66t&st=qjpvc92s&dl=1
-#EXTINF:-1 type="Movies" tvg-logo="https://www.dropbox.com/scl/fi/mxr1wns3c4cth1ksa4hhf/17402437681083734656482586427345.jpg?rlkey=vyf7yc3ajis2s1msqz0qtqyzi&st=ndvmqtze&dl=1" group-title="MOVIE SATURDAY", Twilight of the Warriors: Walled In 
-https://www.dropbox.com/scl/fi/ftzdbw6cvnx2qkux2s7sz/twilight-of-the-warriors.mp4?rlkey=9qyfnrcwu9zct9dlywpw8lpel&st=iisubdgz&dl=1
-#EXTINF:-1 type="Movies" tvg-logo="https://www.dropbox.com/scl/fi/06c6iovbkbjp6ux22z1h8/1740291919619700092048238012063.jpg?rlkey=6df0q1o2auxd3mzay5shmz5ux&st=axwcbb56&dl=1" group-title="MOVIE SATURDAY", Dhoom Dhaam (2025)
-https://www.dropbox.com/scl/fi/g3ba82z3udh3qprk9xx10/dhoom-dhaam.mp4?rlkey=hnx3nej1imlwsl38839dwa8qi&st=yi49vj1o&dl=1
-#EXTINF:-1 type="Movies" tvg-logo="https://www.dropbox.com/scl/fi/6rky9lxf0rnlguspqm3sd/17403114004812591191021618678907.jpg?rlkey=r50y3r8oyqctirs1coakkh8vw&st=bimnmjho&dl=1" group-title="MOVIE SATURDAY", Jangan Pandang Belakang 2 
-https://www.dropbox.com/scl/fi/z3nwwoaixq5p2q2prsngb/jangan-pandang-belakang-2.mkv?rlkey=2dvfx4udyftottibtldtyrryw&st=33ml65lx&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sazCl3nmMzwpjNkePfcSm2XYmau.jpg", Silence 2: The Night Owl 
-https://www.dropbox.com/scl/fi/82dn7k34zsi838mebto1w/SILENCE-2-THE-NIGHT-OWL-480.ts?rlkey=wyzgn159hcb4th8v9jybr1zdf&st=u65y8ybf&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/gib0zyo3060fen187z995/17412993431025835066485010796951.jpg?rlkey=i0cs27eup834n6mtnjozj70se&st=yxjv9iw5&dl=1", Demon City (2025)
-https://www.dropbox.com/scl/fi/ifu4h52mcf6g6bo72e8p9/demon-city.mp4?rlkey=y3u0bobktpuhp8ajdxwk24e8c&st=u8w7uz8p&dl=1
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/f0b00ubdwsvhtuwbu4ntb/17414516804511235239500895955929.jpg?rlkey=kfhqg1yivw6nm8vx53l4k9ef9&st=w2px7msa&dl=1" group-title="MOVIE SATURDAY", Daaku Maharaaj
-https://www.dropbox.com/scl/fi/4u6oxxjda34wtab845qm4/daaku-maharaaj.mp4?rlkey=hzczx7u5pm4li06y44p92yps7&st=hii32fx2&dl=1
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/24gzkt6y2033z0hj3unlm/17414541358375861552572919540836.jpg?rlkey=ikabgurvwsj1yor7a57mg6zia&st=o8xulezj&dl=1" group-title="MOVIE SATURDAY", Dungeons & Dragons: Honor Among Thieves 
-https://www.dropbox.com/scl/fi/jdblgxuwasgq5gef5ge92/dungeon.mp4?rlkey=cgrzlr4u58enrthob3m4muyd9&st=e2kbgzl2&dl=1
-#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/tweu25eiy928e3l7nfra6/1741466651782463580351554101583.jpg?rlkey=8zwhop5fm42tg7z2fmu5c6b9k&st=qou8xebm&dl=1" group-title="MOVIE SATURDAY", Perewangan 
-https://www.dropbox.com/scl/fi/9vpbwwnw4edv8izhraoox/perewangan.mp4?rlkey=erv2qfjt2ntcrl8gjiakdva1q&st=hbjaz2kf&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",Venom - The Last Dance 
-https://www.dropbox.com/scl/fi/21ddwu1yd5z1x9rxnvgm2/venom-the-last-dance.mp4?rlkey=drisxe8nw9nlpsjmc7s7h24gl&st=2en98ah2&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/ismdv9e8a1uggvt3u0cd2/17415357300743108087230896399852.jpg?rlkey=88ugmb01d8h4jghp2jcpiz9sk&st=f4snm0kf&dl=1",Dark Nuns (2025)
-https://www.dropbox.com/scl/fi/mke2fxla1cz08r3ca9xqx/dark-nun.mp4?rlkey=glcct2jn9yauu4w7n9l7e49re&st=gfbsj1ku&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/z0h1a4dy065b3riqezlsq/17415377977562307876790860386098.jpg?rlkey=qzgcihxdmur8ptidcbiy9xjff&st=eiwuq0ti&dl=1",Hitman 2 (2025)
-https://www.dropbox.com/scl/fi/fbhog6wuhj7p8m4m0fxe4/hitman-2.mp4?rlkey=yclz5bmearhdrzso0vvu0i20c&st=xaxpsjdi&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/7o3upfghgyim3m2npx4ez/17421886157322416436594510046919.jpg?rlkey=ykwhz6roodlciunhiwmsqpcn4&st=vkjhqpc5&dl=1",The Electric State (2025)
-https://www.dropbox.com/scl/fi/g9w4d60scgbebs53zdthd/the-electric-state.mp4?rlkey=daazvfc6i99lxdwimz5d65lsw&st=vb69cxt7&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/jlsf9sttar9rnv4th50m0/17422212666896620957670181574685.jpg?rlkey=4isvfqjo6cuxg60j2nkhj4i7q&st=iuovnt5t&dl=1",Santet Segoro Pitu 
-#https://www.dropbox.com/scl/fi/rjm663b1zg3q656k5wz94/Santet-Segoro-Pitu-2024-_-Indonesian-Movies.mp4?rlkey=857v6xsc55ptcbg17fg4ms8wg&st=sblzrd0z&dl=1
-https://www.dropbox.com/scl/fi/pe1njof7ttaru231uxyvc/santet-segoro-pitu-eng.mp4?rlkey=92wiskjwjaak8ygm5hhpnv1m2&st=46xql2xa&dl=1
-https://www.dropbox.com/scl/fi/zjoqsrf731m65a5kquvq6/santet-segoro-pitu.mp4?rlkey=j2qotezfklr1rk3gz7ey91joe&st=y93brtf4&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/5sorbdo06vb6rl2qv2nb8/17422960143301757153956485707757.jpg?rlkey=r9cg3de5oi101m8jm1no7fa0e&st=jovc3tg3&dl=1",Baik Punya Ah Long 
-https://www.dropbox.com/scl/fi/ukugjgmectznvhslbglu2/baik-punya-ahlong.mp4?rlkey=1ggcntxcnpbkqgq011dvj2tlk&st=q5banyf2&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/qc8dgvt347kq16pq8st1g/1742296159219485259024534107513.jpg?rlkey=fv3nozcz51bju6eyj7ghgh72p&st=e1l49pzb&dl=1",Kahar: Kapla High Council 
-https://www.dropbox.com/scl/fi/sl2p53mwi701iq9zax8yc/kahar.mp4?rlkey=fjq5rb1ovwcuu7gg3zci7i0ln&st=3r1i7797&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/7wcrsf6jw7m3ejogcwzpa/17423069843134169737438037736861.jpg?rlkey=z504lmnwepx0u247cclwt8xxs&st=3ba8xzkb&dl=1",The Bayou (2025)
-https://www.dropbox.com/scl/fi/8tlc5mav6pxyah9yh3mji/the-bayou.mp4?rlkey=bxwywm901ox1e7hyvvtdwxlow&st=n29k8qwy&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/a753hgye3g77lqjb89dmz/17424016939805214241266540858780.jpg?rlkey=h7bm8elwonoxbqx1dint7ywm0&st=eku2n9i0&dl=1",Sinden Gaib 
-https://www.dropbox.com/scl/fi/jl67w6f26k51xmw1mqs9j/sinden-gaib.mp4?rlkey=cbmqd5armfeahcw7wkmlj0g1d&st=i2nmsc9j&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/fs1awrtg99q3p4d8ja9ef/17424080635984384031438176179920.jpg?rlkey=cosb622se9hvnwkft1u8qjmk8&st=7v2x6io8&dl=1",Devils Stay 
-https://www.dropbox.com/scl/fi/b6tv8sc8hw0f4pjfv7pe3/devils-stay.mp4?rlkey=sv7tr24ay9pc814ycjwzh9o9p&st=ruzd6bmz&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/qird6l0rzoracacnjdypm/17424936716008805728590407592372.jpg?rlkey=i9a082w3i42e59kbrotsca7x2&st=9s393tkv&dl=1",Khel Khel Mein 
-https://www.dropbox.com/scl/fi/o5xwkfb9xkyvxc0fbdqfa/khel-khel-mein.mp4?rlkey=44tdjywinxa6l7d2w681ofmer&st=e6afj61f&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/4fubuiep77akfu3ylr05x/17425018254208348805183514848838.jpg?rlkey=l7j9u0h4sflhcgjolmmmhacb8&st=vesgcdli&dl=1",Wanita Ahli Neraka 
-https://www.dropbox.com/scl/fi/m7qnvaritlafa6y4gayl8/wanita-ahli-neraka.mp4?rlkey=x08xe315iymmvfutyv791xphc&st=bqqd6qir&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/3q0dyrbffyzdnuu8i9os1/17425506670864865118720225077261.jpg?rlkey=80eay42y7wdnfxielcfdioahn&st=c42eue15&dl=1",Lembayung 
-https://www.dropbox.com/scl/fi/9zzcob6u7x9vxbnij5ofd/lembayung.mp4?rlkey=hj2qifnqkd1dzbnytcu6dn4nv&st=j7rgladr&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/kpdvcsmsjt775ijg4mngb/1742629832902190461851064253509.jpg?rlkey=0pjxh6bk9r760yf9zimqsck08&st=0zrw1c1f&dl=1",Sky Force (2025)
-https://www.dropbox.com/scl/fi/xqrwjy3ojmjyzh4li425l/skyforce.mp4?rlkey=x86bhfwbmh6oaiajuamvwzo3m&st=lotlolx1&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/ti072gzwagnjs6t9xmzwj/17426345713738507195582382823547.jpg?rlkey=t6scxo8bbdoldq2n8gmlgrw48&st=hyimmfh5&dl=1",Pushpa: The Rise-Part 01
-https://www.dropbox.com/scl/fi/dc1m8cdr408028apv7e1k/pushpa-the-rise-part-1.mp4?rlkey=gaxejihvkyv3dn2jaicmu1063&st=tx4sog61&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/hj65h7dzv6dm05odzzz0c/17436509832155515934084073120614.jpg?rlkey=0s1ndbtsfuhb320idnh9r4c0g&st=ismuqi6d&dl=1",Shaitaan 
-https://www.dropbox.com/scl/fi/sjdwn2zgg1uhm0qjsvbbr/Shaitaan.mp4?rlkey=hyeqag7bvb0jrruvk4i7sa9jn&st=eq4f7ioe&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/35qbe7l0rih8o0dzbooi8/17436840890175755703403214863760.jpg?rlkey=jwgl7c0sahs4zj8o2d99yz630&st=fdpl90yf&dl=1",Setetes Embun Cinta Niyala (2025)
-https://www.dropbox.com/scl/fi/3ce8rnab8eichz5moj0x2/setetes-embun-niyala.mp4?rlkey=8iqsqbdmhcivmhbzlmrm4kp85&st=ndfbr9xd&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/lxbchxs50sinxf43lepa5/17437819275093326989880006942956.jpg?rlkey=cwep3nq9iirm7vk2ai76t0ag1&st=mc8ikb83&dl=1",Run Run 404 
-https://www.dropbox.com/scl/fi/fgmhp9uraa5lyl36rjmso/run-run-404.mp4?rlkey=rk4md3e3t103k6bu627nkgo08&st=6fj7nfyb&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/jrr4xxpoak0fuq7daht34/17439071229337649796020399197409.jpg?rlkey=nh76vvju8qi31onu0erptqn06&st=9cqe0byy&dl=1",Test (2025)
-https://www.dropbox.com/scl/fi/yj9aorzy336a6nfoepgmu/test.mp4?rlkey=o1fbjlp9mtgj2j6ugwz4pg7fr&st=j93eigc2&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/imejjevgkmwgbqrhra4v2/17441683134365450783428345225588.jpg?rlkey=769pms27omxfwaw5g5f2yumwu&st=kwdx9mq8&dl=1",Kraven The Hunter 
-https://www.dropbox.com/scl/fi/dc5vkos3wjohpemwsbm6f/kraven-the-hunter.mp4?rlkey=37ucpxyzzy2awo33qijs7376c&st=6gqgxbko&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/r1yydg96l3xb1a585akag/17441684797716639257682971339959.png?rlkey=s66tjy6u4yk3201cuzskwsr9u&st=acgumpcu&dl=1",Mickey 17 (2025)
-https://www.dropbox.com/scl/fi/hf7i70fdchemc039biyht/mickey-17.mp4?rlkey=0f4vwdwgir7rn3mlgh23jl96k&st=uab0zt3e&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/aghkqd87b9hl0eaulzmwa/1744168587131823973552715197883.jpg?rlkey=7884rybs9o37v8wm49wknxm06&st=sr53nyqp&dl=1",Pondok Abuya
-https://www.dropbox.com/scl/fi/fij4fpurwjbh8knl0kq0j/pondok-abuya.mp4?rlkey=24s3i5jqp42lifmh3e90f25ut&st=if55axc5&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/fu5kemmf1envkws08qceg/17441955163568938144062073120135.jpg?rlkey=03k960ci21icncbgjs6uu7rzz&st=6un9xqls&dl=1",A Minecraft Movie (2025)
-https://www.dropbox.com/scl/fi/nukn4r6wid653n2rdpmkh/A-Minecraft-Movie.mp4?rlkey=od8qix5xvicdl034z1fdz579n&st=tke25k00&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/oysl148vn6bbe9jl80qgw/1744253087866131826308251746686.jpg?rlkey=2o56q33ebxpa1nldk295sf17d&st=pbg6wsft&dl=1", Novocaine (2025)
-https://www.dropbox.com/scl/fi/mqq6h411y03zeybtjhhyv/novocaine.mp4?rlkey=qkas0bwrmib6j3e48a2gt373f&st=fughvosv&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/od21xytyufjmdcspmnbaf/17444425780395024150108111239967.jpg?rlkey=val51t39t1a2eo4xnujh1s5gf&st=c50ma50f&dl=1", G20 (2025)
-https://www.dropbox.com/scl/fi/ml6pdccgl2tw219wvrtz1/g20.mp4?rlkey=yudi8xzss8si8qemb15zrnurg&st=gax2383p&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/jr8gusnu88d4yftiyzx8m/17444601399743798863011413389305.jpg?rlkey=mpm0eyp4lpzb0vmj68j1msncv&st=zh8c7e35&dl=1", Jemaah Penanggal Kampung Lenggong
-https://www.dropbox.com/scl/fi/ex5rvgu0o49cp1a4fyljx/jemaah-penanggal-kampong-lenggong.mp4?rlkey=p6ef04hczqqqfpp6i9apam7ix&st=cbizx4na&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/x3x77mimr8n7rrihcfi1v/17444618602702598207001875425097.jpg?rlkey=yhuzyrpgx9p65fwjrsh1car6d&st=3h1poogq&dl=1", Cinta Tak Seindah Drama Korea 
-https://www.dropbox.com/scl/fi/ix8evbvos7sj2r218mgpu/cinta-tak-seindah-drama-korea.mp4?rlkey=s0v1luoj8hhkgv8iqzqi0xlsx&st=wxznqa4t&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/lfv9gz6bb4top6wjn42iu/17444827675545449103165183540954.jpg?rlkey=ssrgvxnpxdsimg39rft5mt631&st=rci6l9r6&dl=1", Dongeng Sang Kancil 
-https://www.dropbox.com/scl/fi/7gthfrz6p4tkj8x1ge5rg/dongeng-sang-kancil.mp4?rlkey=6fk86he70zp9tkixdzzkfrkyl&st=3zuwz6px&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/l7ffdy92c47xu5tcg5c0s/17444834415707053396252409120070.jpg?rlkey=ubudkd1i235sl4te22ta0qpwn&st=0z7imu9t&dl=1", King Of Painting (2025)
-https://www.dropbox.com/scl/fi/kmsuihduq01vvy9pxisjj/king-of-painting.mp4?rlkey=3ust0wplmd3myaqda2vl8jtc4&st=m2epog3d&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/mfh9gza3bpf4yiu72bkxj/17445099531345395086388627433039.jpg?rlkey=bzah1apd67inw77r8oxz53xwr&st=a4jb2xml&dl=1", The Wild Robot 
-https://www.dropbox.com/scl/fi/k9w5a95vx0udcr2cw3uyq/the-wild-robot.mp4?rlkey=21okg5q9bip5a2wnd8dufdc5o&st=mc2c4lvi&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/27z0lg8yo9tc9xog6wksi/174463006375481867261183625941.jpg?rlkey=b3vlsd77gfbg52w90otg7gasd&st=y211it5l&dl=1", The Firefighter 
-https://www.dropbox.com/scl/fi/m6ylcmuwfu80m9ac6sbja/Firefighters.2024.mp4?rlkey=n5iakwh2h41nk28gpbggbgz43&st=6uo23d6d&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/7uite40uwgsqq852hf9jo/17448062536116846569969126268400.jpg?rlkey=ccujdb9kpjva7n5c0s9bbwd1p&st=7huttfbu&dl=1", The Women In The Yard (2025)
-https://www.dropbox.com/scl/fi/ra432xigfu2knqkbhh2n4/The.Woman.in.the.Yard.2025.720p.WEB-DL.EngSub.bymovieclubmy.mp4?rlkey=sb4d91be3ckaxunmpa3t8487e&st=wdw1mx3e&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KOLEN_Early_P_IVP_PORT_390x585_7ECE9_2024114_102837.jpg", Joker 
-https://www.dropbox.com/scl/fi/y3vxf3zdccdjpibv4h1t1/joker2024.mp4?rlkey=xpzso04p5mbqtixs2hxo3j0s8&st=14x19l68&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/seg8tgvtplt96b7qzudju/17451425389057903966636769973401.jpg?rlkey=h3sam2lxe9rusipfalv37w3zm&st=dtrj5lvi&dl=1", Takluk Lahad Datu 
-https://www.dropbox.com/scl/fi/kilttetpuo7fdqhbp6gb3/takluk-lahad-datu.mp4?rlkey=u74yi6eztshparla6epm8930d&st=z1bqj6rh&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/iixfo6frrw3tm6276igqy/17451427004117596854205051966905.jpg?rlkey=yxlpedpb8peuwwkkola7j6t7k&st=fljfu6c9&dl=1", Polis Evo 3
-https://www.dropbox.com/scl/fi/g0c5dnexpm17ms1uajn74/polis-evo-3.mp4?rlkey=9xzlrlby1xohfer6r66hlucab&st=lqbmt0py&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/vnhckbz7tfs2bvhza9jkn/17454589552263797346890777020239.jpg?rlkey=ak05l4iasjlioc89t47uq0adc&st=kab55whr&dl=1", Racun Sangga Santet Pemisah Pemisah Rumahtangga
-https://www.dropbox.com/scl/fi/gp1wdwjsr0vsb3hed5m12/racun-sangga-santet-pemisah.mp4?rlkey=yul6guod8lcbjlq07x4mad0s8&st=h2w0zdti&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/dadlfu0b8a3npc45iudts/17456835774973285370753593396751.jpg?rlkey=6j36pz686w8h66ulxdwz7378z&st=zc448enm&dl=1", Titanic The Digital Resurrection (2025)
-https://www.dropbox.com/scl/fi/c57u6svyizxzqp1xhdn3y/titanic-the-resurrection.mp4?rlkey=135orb27chhbditnq4k32hshm&st=1aku6945&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/0xlc5t656duroa2jbwuu1/17456868215878919710022118218787.jpg?rlkey=iur4pb284e69nvcvr0aqia3zi&st=z76ip6i2&dl=1", A Working Man (2025)
-https://www.dropbox.com/scl/fi/zomdck7oy0jr38iw5a87r/a-working-man.mp4?rlkey=cif4swd8qep8xwv367loabonm&st=oi2s5igp&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/0qbifjjvwvogwalu2wn2r/17458302890396475698891674738653.jpg?rlkey=e9uak1nclx4okvblsrnmrvr5a&st=jbbjf7od&dl=1", I Hostage (2025)
-https://www.dropbox.com/scl/fi/halvbhgataeexs6atnhrc/ihostage.mp4?rlkey=rrxr805lxjalnf8yig3am2oiw&st=ugno9tup&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/ocaf7jhycyg9ohwx4mv32/17458304470026654237206093556222.jpg?rlkey=qic813qh29vl6ctpzt9xsfye2&st=qasphzbh&dl=1", Jewel Thief (2025)
-https://www.dropbox.com/scl/fi/ksqd7c6cdb89s71niklhd/jewel-thief.mp4?rlkey=20s6lnochecxvn8wu3j9tzrmm&st=pq92cj4y&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/lppzk9g3p215dda693t7n/17458973816543370348571542350703.jpg?rlkey=pzkvsg1730vhse38361r264l4&st=c18p0ayv&dl=1", Frozen Hot Boys (2025)
-https://www.dropbox.com/scl/fi/wrcuilvg6gv4vpcvd77nb/frozen-hot-boys.mp4?rlkey=adp94ez0mqslkibq3dm7utdoz&st=9mgx9v9s&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/lu1pymc2whijy9t7extqv/17458974717274751488796263719699.jpg?rlkey=u315wvub8hboevy2npqgn34uf&st=unyp2nwy&dl=1", Pusaka 
-https://www.dropbox.com/scl/fi/umgmattzc1u1snjl9dte7/pusaka.mp4?rlkey=d9xyo84cskx3idjeiav5q7u52&st=seircfnz&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/289ddab636c94c579efc5824274ece22/version/4/width/1280/height/720", Travelawak Projek Bapak-Bapak Balik Kampung
-https://www.dropbox.com/scl/fi/dgakfrcdvsa89uxqzgddk/Travelawak-Bapak-Bapak-Balik-Kampung-720P_HD.mp4?rlkey=sg71cpxw4bgp7klhwkpvd7lfr&st=34sddjr8&dl=1
- 
- #EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/4erm7w23jl8wrs9qt4xjk/17460090677286181582885744579517.jpg?rlkey=s0r8qc60kzyaz7fmz2o3i6kk2&st=dcchas7m&dl=1", Riversi 
-https://www.dropbox.com/scl/fi/6b8c7sjoz8xkj6sl6shea/riversi.mp4?rlkey=wz4kstcn8x2xeia4titj7keqt&st=yen0tkhl&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/vo0md69sq2ptpkencuwgy/6022918547572897597_121.jpg?rlkey=6ig4gj9m8660jvsvoaq4dds35&st=x2agvxk0&dl=1", Modal Nekad 
-#https://www.dropbox.com/scl/fi/9tcf71o21lgs4dqek0yfj/modal-nekad.mp4?rlkey=qrkfuu2y1v5z00ivp5b087zth&st=eiq0rdtb&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/ihx7mqruwkkt3a06331sa/17463735262154951084126620083184.jpg?rlkey=de3w1iv0g7w4g1tnnqbtegn52&st=wjgunf82&dl=1", Hantu Telur Kampung 
-https://www.dropbox.com/scl/fi/22ttv2urwbp2ekwf0iu5n/hantu-telur-kampung.mp4?rlkey=2o0s5yxujbfv5h6zuhlymuyr9&st=qkec2m29&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/ajtlo1y7ba6nvuhidjv6s/17466971963753332941688223610499.jpg?rlkey=qp81011opc59ys6j6tguvvpzi&st=1cd40e2c&dl=1", Thunderbolts (2025)
-https://www.dropbox.com/scl/fi/s611h8ud0939zmlmrn5se/thunderbolt.mp4?rlkey=qi95v0erwsg3n5ftw3mx8vxcc&st=r0o9877j&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/hqq27i45gnl0wk5rr3ahh/17467951787078883055841259249436.jpg?rlkey=wdt6dc93bte4okkzdnkdmtig9&st=13xfsqph&dl=1", Wolf Man (2025)
-https://www.dropbox.com/scl/fi/ptcgauo4mmjo25ww4gvfv/wolfman-2025.mp4?rlkey=vztq6oo529h81ghn3o2206wsg&st=xct45ee9&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/m1qj6yqlhun6z1dkbed4o/17468507415504722411745125746474.jpg?rlkey=pe8i3hr17on7kh3f8l2v25kw0&st=5uovh12r&dl=1", Dajal Satu Malam Di Pedajal (2025)
-https://www.dropbox.com/scl/fi/6vkgmtwj3dkesq7jac251/dajal-satu-malam-dipedajal.mp4?rlkey=iz5aus5yctaj2r4yq3xgrkmaz&st=6p9ktelt&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/o9akkzv75nms4plmchouq/17468882483363790503724945372761.jpg?rlkey=owlr2kndg9t5w1wagh6ym7em5&st=qnaiiqjo&dl=1", Born To Fly 
-https://www.dropbox.com/scl/fi/u4o3j649zpvofkty31tkw/born-to-fly.mp4?rlkey=4hepdkmbnbfy6lsrkbfk9m5jx&st=ynp2om8q&dl=1
-#EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.dropbox.com/scl/fi/3u16n00uks9x6qi0zrqkn/1746965517247221757411351047707.jpg?rlkey=blbqqwjj6xql5hbc7iwu9596f&st=plafd9ro&dl=1", Havoc (2025)
-https://www.dropbox.com/scl/fi/brfh0f7fpw21o3ukgs83p/havoc.mp4?rlkey=llen0e9ul8v0jmgcjhci3ntjt&st=9ay85sei&dl=1
-#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KKGQC_P_IVP_PORT_750x1126_202419_20418.jpg" group-title="MOVIE SATURDAY",War on Terror: KL Anarki
-https://www.dropbox.com/scl/fi/lymb1o4txh0fnz4r0fhe4/kl-anarki.mp4?rlkey=h9h0yq584c2lhrsz3lcjt02ws&st=jetyq92g&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://get.perfecttv.net/first/harimaumerah.jpg", Harimau Merah (2025)
-https://www.dropbox.com/scl/fi/3g6r463gd59ujyzdlp73s/harimau-merah.mp4?rlkey=ij3wwom8t0q8yinz8fvu5f9q5&st=4pgumi8k&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/zisi00ess5wf03j1dv01n/17473251455257233428024894302905.jpg?rlkey=3vkl5ogx9rxft5kj7bkj4mz0k&st=2rllu1c0&dl=1", Ketindihan (2025)
-https://www.dropbox.com/scl/fi/nnuz6l3shbxn1mbe34tu0/ketindihan.mp4?rlkey=n28lhzz24z0dcjybaw0h9s0eq&st=orczdnha&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/upczhyq1ply5uleb0a81o/17475043205515412300058927542949.jpg?rlkey=vnqdbm1j3usr4kpxt6fkq5md8&st=abk9s1w5&dl=1", Final Destination Bloodlines (2025)
-https://www.dropbox.com/scl/fi/s83w1gb0xjbpg99pj07ik/final-destination-blood-lines.mp4?rlkey=vdgltul1vl4xywbu2hdism3zb&st=tfd73l3n&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/lmzuu4869f56cr1zkigzi/17475046602665189413984093861710.jpg?rlkey=6c1j1mhh5rl3ram3co400o3k7&st=dzvnhrlo&dl=1", Snow White (2025)
-https://www.dropbox.com/scl/fi/qkd6eid3ktt7l6hadgcl8/snow-white-2025.mp4?rlkey=zplhawaqzgs0x5qi0aq4gdhtr&st=kuiy4kk0&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/gk1uzrl7mzgrqr1zag5bp/1747926058924747499757635511790.jpg?rlkey=c9d2uqglnr4sa1rbfew8aot34&st=vmnh02s3&dl=1", Almarhum (2025)
-https://www.dropbox.com/scl/fi/lzfp1879di3j95d021933/almarhum.mp4?rlkey=s7j7itfxj1s0xweqlbp3lea5f&st=v7albrrr&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/t7wuixy10lnrv7oe515ao/17480579121976099032835148315038.png?rlkey=xpbb1h3tyyk1uk8g1a847k6sh&st=oo6obx1q&dl=1", Pengantin Setan (2025)
-https://www.dropbox.com/scl/fi/nw3mqduzcwrieuzafy89p/Pengantin-setan.mp4?rlkey=vu1bqzl4i7q2fkj6ks3mkrk2i&st=huhinbvh&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/xg1z4w057nj18c77ucbm2/17481723458136478499081910975985.jpg?rlkey=hto4lx06gkznkdjlraer3z9a4&st=bc1d83wg&dl=1", Ejen Ali The Movie 
-https://www.dropbox.com/scl/fi/tyndsifusk2g8olp1vtrd/ejen-ali-the-movie-2019.mkv?rlkey=b9uzm4u98x44e4w9m4mjeqz3y&st=1d24udr4&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/890wyth8l5kk5dravcqha/17486926960227887356308488251146.jpg?rlkey=ntj2sntrmtxlvuhdcon2trkwt&st=xtbr9x8a&dl=1", Ghost Game 
-https://www.dropbox.com/scl/fi/092tix5y3wpy2gdocgj0c/ghost-game.mp4?rlkey=7qmvs6atfu98qgk425uts4u3r&st=56fbfjcx&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2knw9w1ishw6vudniuxyu/17487935954636086084310299090159.jpg?rlkey=ad5slogw8toayjxwts1tc0vqd&st=8345fhrp&dl=1", Bullet Train Explosion (2025)
-https://www.dropbox.com/scl/fi/paamrkjujdhjm8eslg6i1/Bullet-Train-Explosion.mp4?rlkey=iq3g71tx9dgqeyc54b01zhq7p&st=5knagdzo&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/e73phcjp95ea8yty0pqgh/17488798640176813464450784698860.jpg?rlkey=hoyipp8k0sx5r6vi37pb6yj5j&st=6242venh&dl=1", KKN Desa Penari 
-https://www.dropbox.com/scl/fi/00ibzxq7tghysmkjg3qqp/kkn-desa-penari.mp4?rlkey=4qa69iozwwbis2ai8nv4o086j&st=c4tmmp77&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/761k0w8t4uzu1uaxmbshl/17492283324544965573313292000766.jpg?rlkey=diayz4scxwcsbkcax8js01r00&st=qgt62tdx&dl=1", Paris In Bali (2025)
-https://www.dropbox.com/scl/fi/7msx63l2oo8r8lmw3zvoi/paris-in-bali.mp4?rlkey=otcbcmjhku604dc5de4qovvt9&st=9n51hbyj&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/jd0s1ix1wpp8spydv72v1/17495629392672410628313401630913.jpg?rlkey=uk08zqt80hyoi5vxfm456twxz&st=j6wz22jp&dl=1", Popeye The Slayer Man (2025)
-https://www.dropbox.com/scl/fi/vjob5chf9ju9r3cfp375s/popeye-the-slayer-man-2025.mp4?rlkey=zjnj8g32z3hcsfpghyj0wq551&st=psjsbkoq&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/om6upz1z33d59azz7990g/17495630677607997926970693181703.jpg?rlkey=hxgjhrkouadhm637688gdz6rl&st=214x53x2&dl=1", Holy Night Demon Hunter (2025)
-https://www.dropbox.com/scl/fi/ab5d3pjdtif0uv21lcxwk/holy-night-demon-hunter.mp4?rlkey=dj99zvwk1l585vb676pckbyso&st=ly7jod6h&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/iedadlzam1k57rcgekmi7/17497859127487659155333527254168.jpg?rlkey=h33s20gyjqq7c2dud9nce4ntt&st=fezdvdqp&dl=1", Jaat (2025)
-https://www.dropbox.com/scl/fi/2s61gji3en9oib4svcsaj/jaat.mp4?rlkey=tbg5n99hjxd0umc2qsb0y0y4e&st=6sa56la2&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/espm2ou2leufedav3ilxz/17498148499552316916925798981569.jpg?rlkey=3olyenwnfo0g8u0w4msjgxdvr&st=hytnf4ce&dl=1", Sikandar (2025)
-https://www.dropbox.com/scl/fi/4max0kmtfaiyajkc35mv0/sikandar.mp4?rlkey=zitl0e4aprmzimve9w61n3qfh&st=t8rjibik&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/umo2pfdzf7jy1eolpyx8i/17499913078812761955911675935195.jpg?rlkey=uefki69t6m2o3f3zsesdro1v4&st=gxqp2vm0&dl=1", The Witch.Part 1.The Subversion
-https://www.dropbox.com/scl/fi/qwsfltzf0vq2qes3nurl3/the-witch-part-1-the-subversion.mp4?rlkey=w2bpqobzhrjhv87nsogh4bq0e&st=t8ud7wev&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/wwszaw06x8aa7ysmqtzdu/17504295927243605005411847022526.jpg?rlkey=t4kla8s8lq9v9s6q3yxzmbo09&st=itn5erww&dl=1", Counterstrike (2025)
-https://www.dropbox.com/scl/fi/jgowv02h9n042yfe34oml/counterstrike-2025.mp4?rlkey=cn5dw68juavorcu9lude14vs9&st=jshwl0l4&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/mocwf19jm0vxrsp8ndwex/17506000408572948507846028291602.jpg?rlkey=fphlc83121okmpx3uta1dlrh0&st=lglsogxu&dl=1", Petaka Gunung Gede (2025)
-https://www.dropbox.com/scl/fi/oo7j40f038g0c9vwo0pka/petaka-gunung-gede.mp4?rlkey=azspu6tqsmez0no9lj8iviyz4&st=ms3j2nvt&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/3qo7omhm05nm7c7fgfkl3/17512899212917344587499441021433.jpg?rlkey=h05xvjz05um4ombsyto37v7a3&st=gq1enyg3&dl=1", Word Bubble Up Like Soda Pop
-https://www.dropbox.com/scl/fi/egec3nk544r5265ir97rd/word-bubble-up-like-soda-pop.mkv?rlkey=sc0papqdd6sm8isu3gttpvwej&st=exo9eq64&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/3em9nl1ytlwalradguk0e/1751292284171361318498478771568.jpg?rlkey=vipt5cp2aoawxog71cye4ql0e&st=nuuchsk9&dl=1", Flight Risk (2025)
-https://www.dropbox.com/scl/fi/wfokq0ghp5eucg19pzv70/flight-risk-2025.mp4?rlkey=o786povqgj7djlsf9ts4vtfyz&st=xsoqatf4&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/z03gz5r5v1m4qttszdcci/1751506375564608564244871604958.jpg?rlkey=42ap9deam9orq41ajhxylppwa&st=4un0f1ma&dl=1", Perayaan Mati Rasa (2025)
-https://www.dropbox.com/scl/fi/8m97ibp4bd0tmgqg6cj3m/perayaan-mati-rasa.mp4?rlkey=iqzrpkprulj3279zfymma2tvf&st=ypmitbao&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/ygl2bzgb5r0z9fbiy1d3n/17515390730651029697497989655457.jpg?rlkey=dorr7btc3zaxv3pm22av21doh&st=xk9mfvwj&dl=1", A Business Proposal (2025)
-https://www.dropbox.com/scl/fi/7thttlz8a81ugm2l99x8x/a-business-proposal.mp4?rlkey=7pm02rgvbq32x3l32amfgecg2&st=xzsf1h9j&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/bmdq32ucn35ar1mkp4pfe/17515391992473531921606379125135.jpg?rlkey=kwwkwxj6oik66g3mb5jqy4y1m&st=ab4ca7g2&dl=1", The Shadows Strays
-https://www.dropbox.com/scl/fi/3z4utd8bd0hjrn34k7tcu/the-shadows-strays.mp4?rlkey=66hmsd0peexyst349nhhau8r7&st=j4rorwti&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/jyeppp6h6b8sg7d9eetsg/17520746733892885886762855007017.jpg?rlkey=6h5j0roi4nmckw2azmk1a0o2h&st=rbb9x96j&dl=1", American Assassin 2017
-https://www.dropbox.com/scl/fi/o4oometul7y3a4bssnnx5/American-assassin.mp4?rlkey=8o7sqxm46b5wl2gpr6azoulgg&st=hchdsc75&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/zhkyt4quluvpqr5z6ma6r/17523873430143949327870289954595.jpg?rlkey=dfhinehjhbesnorq3zdbercsm&st=nys3yowc&dl=1", Karate Kid Legends (2025)
-https://www.dropbox.com/scl/fi/ibldxpi82iupnlymlc5wh/karate-kid-legend.mp4?rlkey=fgmrbaest4waxd9wtdh2u0vbd&st=s3exr30y&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/wxwcbisdla8yir597eil8/17523874760404710026066901401874.jpg?rlkey=yi01x8vhu3hahcdn6ouui9x7i&st=oh9n5zbk&dl=1", Ice Road Vengeance 
-https://www.dropbox.com/scl/fi/ogmgv0jly3g93o4mlo9xo/ice-road-vengeance.mp4?rlkey=1vy2y9ameg3vdlnflzx51ey19&st=7din1iok&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/3tv9s8lntyi3fa29hsw41/1752402107803778626745095442128.jpg?rlkey=3e491pwl9ml7tp6rvxv7z4i6u&st=q8f44yfd&dl=1", Keluang Man (2025)
-https://www.dropbox.com/scl/fi/jlr3xftl0z3rtc5ucsuye/keluang-man.mp4?rlkey=1qnjb4zekue6adqb5qbduy5oz&st=pngwj2sa&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/zgop4fhqewg9e6pr0bfc7/17526758557691456861809700839599.jpg?rlkey=z9on1ol1s29dk20f0532tqp6i&st=77a6q9uq&dl=1", Ziam (2025)
-https://www.dropbox.com/scl/fi/v0biar03rorkfedtfw1an/ziam.mp4?rlkey=14e0v20osj05xi8nq1wgl9oz8&st=7ox3d8nf&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/yut8orcp53eiv7hgye6ul/17530883066328855061095348051490.jpg?rlkey=xdg4muuf5w1u8l9m37qn9g9qg&st=nqyhp67a&dl=1", Detective China Town 1900 (2025)
-https://www.dropbox.com/scl/fi/lgdyhid0tbntkzk2oxyke/detective-china-town.mp4?rlkey=3szpcc9gyqmv7ul5l252bqrvs&st=j5lghyem&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/0jk2mavjvmxr1bge3z39u/17535892361135591419354542355916.jpg?rlkey=ve7ej1v93mydzp8eki34dgrod&st=kmty5ijr&dl=1", Dangerous Animals (2025)
-https://www.dropbox.com/scl/fi/jl8wi3j919peyt1bblfva/dangerous-animals-2025.mp4?rlkey=ij9uuq2ct69mtw2l33nmfzo72&st=dluvya4w&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/9mi95yhv7c2ohs03mzzjq/17538854034002132241345445920716.jpg?rlkey=3ektjscivrqeuehdto1fj0ogh&st=3v2o5pdj&dl=1", 28 Years Later (2025)
-https://www.dropbox.com/scl/fi/m30yjqlh0e3p7rxrbk8jz/28-years-later-2025.mp4?rlkey=b5ilevzblfy3n82w3iqr8da6k&st=a26rp3xo&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/gezflq4orqnjp5ivbt4zp/17540209601791906032400377716417.jpg?rlkey=3901p7fudy0vrlg7h5hhqu64n&st=uoixr5wk&dl=1", The Fantastic Four First Steps (2025)
-https://www.dropbox.com/scl/fi/813ijpbmgm3gp3w14w55b/fantastic-four-2025.mp4?rlkey=dlydbnixjo0cfr9lno6hb204u&st=iva6hfgj&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/yxrb5bunhwunzuexwvox7/17541363804074539563739020711838.jpg?rlkey=d5bvz8tnophttyedm0rbgx7ud&st=7qyn3q3v&dl=1", The Monkey (2025)
-https://www.dropbox.com/scl/fi/gtyzybw38h4fqqyktxtmz/the-monkey-2025.mp4?rlkey=rbl9xcj8dgg4yiz47ylurs1m2&st=tkajp1nc&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/vgx8gdjq6zu8u4z948vup/17547854130605489099651639645879.jpg?rlkey=mh263wqu51cf0g33k9polz9lk&st=etk0zfvq&dl=1", Blood Brothers Bara Naga (2025)
-https://www.dropbox.com/scl/fi/z99uott4fdh9kibzn98j6/blood-brothers.mp4?rlkey=pmidhwvwarqf910dlfeo9t3ja&st=3etqdqg8&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/smt3uc46423ck6zanvz11/17549088821395302087944310246390.jpg?rlkey=i1edr8wifklf1bxvimdbtbl54&st=nai4ajf1&dl=1", Martabat Misi Berdarah (2025)
-https://www.dropbox.com/scl/fi/8cxarz3sj8273heav80vp/martabat-misi-berdarah.mp4?rlkey=dgg1u8a03hypwlwxpdp1mkbqj&st=cct923w1&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/bx3w08t4840voqih5i2cr/17549170368388323124287832717318.jpg?rlkey=exod7ry0ql3e8g8vs8a3or8n5&st=q7te509k&dl=1", Raid 2 (2025)
-https://www.dropbox.com/scl/fi/52410tooiumfo3db0dzhx/raid-2.mp4?rlkey=ceegbaghfmaywyyeurtnqe7ok&st=gjqxx08n&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE SATURDAY" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/j961jqfj85adbvl3gxwue/17550930297012280367053205392869.jpg?rlkey=e0b8g1dacr2cquqqq6ewm0c31&st=oxq8t9u4&dl=1", Shadow Force (2025)
-https://www.dropbox.com/scl/fi/jnba9s8vrv45yecgchkcn/shadow-force.mp4?rlkey=3mfzj2vs1l5il2q9ijtjwj15g&st=085crcr6&dl=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Pzo28_b44ELhzZfwEJzY94KlOKOtWODplM1mKqxLkQ&s=10" group-title="MOVIE SATURDAY",ikouwais. The Raid 2
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/400241861.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWPSmnT3lrxZ2EcpaDOPOVEnDBDjcquU9v6whD4Kv34g&s=10" group-title="MOVIE SATURDAY",ikouwais. The Raid 1
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/400241860.mkv 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRumiRgsxOinQGkT-dq7y38PDLwamMVhXtRU3hO37FARg&s=10" group-title="MOVIE SATURDAY",ikouwais. Headshot
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/400241832.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8e5K1eXJugeLc25orPzB8JAaKibkwm2KtR9EqYBRPEg&s=10" group-title="MOVIE SATURDAY",ikouwais. Merantau
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/400241844.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTio06B2Cxn3Va04P6d6N_d_TQZ7_27UGBV2IVeslwMBw&s=10" group-title="MOVIE SATURDAY",ikouwais. The Night Comes for Us
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/400241858.mp4 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD8qb_Izrkblji92I8JyPHJMczsoIJFIncIp2Jt8kovA&s=10" group-title="MOVIE SATURDAY", Kang Solah (From Kang Mak) 
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401784585.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCmwWEy11DZ_iS6Ce4WoKkPtQFylxEuP5a2mjfUEx2vg&s=10" group-title="MOVIE SATURDAY", Aku Jati, Aku Asperger
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401782630.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzkx2d14t6qc2RCCwvXFQsTxFlCOBIQROBMIo2CcXb9A&s=10" group-title="MOVIE SATURDAY", Dia Yang Berada di Antara Kita
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401776003.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh77r3zg_Lj9EJ_lvj6Hwz2wxxkYRBQ_22Ex6ouhNcfg&s=10" group-title="MOVIE SATURDAY", Telepon Yang Tak Pernah Berdering
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401776001.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTZNUxTjRXOP-b3e6pWN0MBXMv2VQ9L__v0JbOQ70O4g&s=10" group-title="MOVIE SATURDAY", Surga Di Telapak Kaki Bapak
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401776000.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1rRpVjbcNUIKYx1mL5Iotu_5yvZN6fcRg_D6PkcuSPg&s=10" group-title="MOVIE SATURDAY", Start Up Never Give Up
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401775999.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlEFsxJSD_fGVhuTSGpOMf2ScMQZaM8Xz6tM6vSuu8Ow&s=10" group-title="MOVIE SATURDAY", Semusim Setelah Kemarau
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401775998.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYRjJl_nKUQuX4e5V4gFSlpyNmRRsKAKwYHECQ-hHKKQ&s=10" group-title="MOVIE SATURDAY", Security Ugal-Ugalan
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401775997.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnBDhMOzebpTf1Hp9600cTCtDsB3TeJOZ67pknxuJ-kw&s=10" group-title="MOVIE SATURDAY", My Annoying Brother
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401775992.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu2RwNEdsQ3sDjExATv1_boxhq5iTKYJjhGmDpwpGnFw&s=10" group-title="MOVIE SATURDAY", Misteri Bilik Korek Api
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401775991.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSzqbr02IEs_EhzGWzQJJahpj-wW5MWP2O6qNzCcrh1g&s=10" group-title="MOVIE SATURDAY", Keluarga Besar
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401775990.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkNwTODjD6jh8nuv9HBcF_mnOtaONRj19WrEaBoFYkGQ&s=10" group-title="MOVIE SATURDAY", Bad Boy In Love
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401774606.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWuzkR1XhsMplFIYGqacUosEdltlBM-lXVsLXqn4qbA&s=10" group-title="MOVIE SATURDAY", 1 Imam 2 Makmum
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401774605.mp4
 
 ===================================== INFORMASI ===================================
 
@@ -4306,10 +3902,8 @@ https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-524/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg" group-title="》NAT_&_KNOW",Survivor
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg" group-title="》NAT_&_KNOW",The Amazing Race
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg" group-title="》NAT_&_KNOW",Skills + Thrills
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6000a6f4c3f8550008fc9b91/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
