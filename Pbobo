@@ -2986,6 +2986,10 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
+#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CH 2b
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
+https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CH 3
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -3001,6 +3005,11 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep4.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep5.m3u8
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LIVE ONLY 3
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep6.m3u8
+#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LIVE ONLY 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
 
 ======================================= LIGA SPANYOL ===========================================
 
@@ -3222,6 +3231,106 @@ https://drive.usercontent.google.com/download?id=1bl_Hvn8EQkZz8vw-kkzQ3QEhaDaU9a
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="MOVIE SATURDAY",3. MUAT ULANG DATA UNTUK UPDATE FILM
 https://drive.usercontent.google.com/download?id=1bl_Hvn8EQkZz8vw-kkzQ3QEhaDaU9aUl&export=download
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyqUbhlErn7l22-sWn9kxMoIcvuAiwCBWqIuh_TI3fNQ&s=10" group-title="MOVIE SATURDAY", Mira 2022 
+https://cloud.hownetwork.xyz/xxx/304a912a1b0ea69e8aac7ab25187284f/1/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu477j7bnjp-wvUpag4wxMzCDo_uXJWt_PxVp7jAmgog&s=10" group-title="MOVIE SATURDAY", Leave the world behind 
+https://cloud.hownetwork.xyz/xxx/01a61a777ed85b7000d4212f38070096/20/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx_PCFz1L39hHC5z6CwncwTAOBXvqeQiV95e3Ur7-ySA&s=10" group-title="MOVIE SATURDAY", Avatar 1
+https://cloud.hownetwork.xyz/xxx/e38e302868c56c03b66673fbd70beec4/10/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROSpvxSFtn09WXc2aRIsXilO64IjHSVztybgMDs3o-Hw&s=10" group-title="MOVIE SATURDAY", Avatar 2 the way of water
+https://cloud.hownetwork.xyz/xxx/Iw4oOiQLWjUqNFo7Ikl7NyRVPi8xHAVscGFFfm5nExoGNBYWGksWdSYwTy91/26/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtqzs3fDk_DPELe5H1qU9D9M2Cqhklmu23CB3rZotfvQ&s=10" group-title="MOVIE SATURDAY", A Writer's odyssey 1 
+https://cloud.hownetwork.xyz/xxx/b243fef3c9e3b6293ee9c56eb8050630/10/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgUP8zW7nCM9RAoCySUhwtnpqxEs5hNL7e6olua8Vf3Q&s=10" group-title="MOVIE SATURDAY", A Writer's odyssey 2 2025
+https://cloud.hownetwork.xyz/xxx/NQogOiALBGwtNQ4_MFUvdXBVe353TFoWBxMzABxoCTt6TnB_ch1H/37/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb0DTiM7J88TDiP2VDIrkvjH0aSQma3UG6DKWJftobxQ&s=10" group-title="MOVIE SATURDAY", The magic lotus lantern
+https://cloud.hownetwork.xyz/xxx/LxkuJyZUGy42JARhL1E4LCcKJ2N3SUVwbwYyDgd8CQAdTnp6c0lCJHs/37/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCA_Sc53sedSCXzI8Bqyr1YPVqx7VEWj2XbWVuHQzFOA&s=10" group-title="MOVIE SATURDAY", Heart of war moment
+https://cloud.hownetwork.xyz/xxx/Kh0oPDFUACAwfBojLlU4LG9KeXxxVCAEABU7ExtvYmxzG3x_cks/37/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvtsYKkrhoUSxcuGVFgHkfQtxZRrEP-gMU0SdLWHiR0A&s=10" group-title="MOVIE SATURDAY", Hunting jessica brock 2025
+https://iframe.layarkaca21.im/stream.php?url=https%3A%2F%2Fcdn151.teifanc.com%2Fdata%2FB%2FC5%2F693885b382b8c%2F693885b382b8c720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzHcnGFfspnF0kLY2CpkGKAadEkUf5FvMAKzXj5HWVuQ&s=10" group-title="MOVIE SATURDAY", Pose 2025
+https://iframe.layarkaca21.im/stream.php?url=https%3A%2F%2Fcdn169.mantechz.com%2Fdata%2F7%2FF2%2F693486072efc8%2F693486072efc81080.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Tk0gIOrEY07JEHPeuH1ZCiVTGCGkKw_-h6A8fiS50A&s=10" group-title="MOVIE SATURDAY", Lost horizon 2025
+https://cloud.hownetwork.xyz/xxx/Lhc6OmgRGDMrKxgibgJmandVHgsHPTseGg4VKncBMGx2TQ/37/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROWi6MHDv9IAdX9BOXxa8sKZTbdvLhl2z7vHaWpdMhtA&s=10" group-title="MOVIE SATURDAY", It was just an accident 2025
+https://cloud.hownetwork.xyz/xxx/KwxkJDAKA2wjMhQlJ1U4LG9KeXxwVCAEABU7ExtvNT4gSSt4fEw/37/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyRb-CVShWSYefwcaBXz8UWENmyMUUIp1iFRGfUFfJtA&s=10" group-title="MOVIE SATURDAY", Possession of mara 2025
+https://cloud.hownetwork.xyz/xxx/Mhc6PSAKBCgtP1ohIkI3dXBIe3toLjIDBh0oFBwFYTwnSi19dg/37/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk2GW7fo1cTn-ayZDLtBb9TLpgVH-2kBpy1-IaHmqOTw&s=10" group-title="MOVIE SATURDAY", Neutovenge 2025
+https://cloud.hownetwork.xyz/xxx/LB08PCoPEi8lNFp-cwJjdRU9CwoJJi8eI2dBLnMGMDk/37/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQQ1kvU4GD-e3ShbtaWHDRTPelX_jnun9UaTZ6dP8cuQ&s=10" group-title="MOVIE SATURDAY", Detective kien headless horror 2025
+https://cloud.hownetwork.xyz/xxx/Jh09KyYNHjcnfBwlJl57MCcZLSIgCgRsKj4FPixCe2pySnxjEjw1BQ4OLxN0VTRvcRl6fA/37/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFC_nRMl9hzrQzc6v0mYBM1OVzm-c_Z1bBjhK7f4shwA&s=10" group-title="MOVIE SATURDAY", Noah
+https://cloud.hownetwork.xyz/xxx/ceda43d34b5fe1e6124d4e7584f63c75/1/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV9BcqDkCb5cbgFoGKQGfda7tKfaV0HKgDunejbf4s9Q&s=10" group-title="MOVIE SATURDAY", Turbulence 2025
+https://cloud.hownetwork.xyz/xxx/Ng07LDAVEi8hNFp-cwJjdRU9CwoJJi8eIGISeSdTYWk/37/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK97E7QSqBbKX2nSBQQGEN4Ha0cm-O9QhoSo1Z6piAwQ&s=10" group-title="MOVIE SATURDAY", 13 days 13 night 2025
+https://cloud.hownetwork.xyz/xxx/c0tkKiQABGxzYloiKlc-LDFVe353TFoWBxMzABxoCTojTHx2IRoT/37/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzt5s60rN7R-r6b0JuYzT0P-PIhWuRMyEqIoLbYZUdSg&s=10" group-title="MOVIE SATURDAY", Wake up dead man 2025
+https://cloud.hownetwork.xyz/xxx/NRkiK2gMB2wmNBYobl03Nm8TJyczHARsLSQDYS5JJSwnCjBjd0lFdG8GMg4HfAkAHUp-LXNPRXMm/37/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/11/7000fae3-d89e-3395-87fb-aacf2cdc70a5.jpeg" group-title="MOVIE SATURDAY", Birds of Prey One Harley Quinn
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=676043fe-6b5e-4d96-a79c-a3fb95fb5061
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=676043fe-6b5e-4d96-a79c-a3fb95fb5061&sub=t4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
@@ -3252,19 +3361,12 @@ https://cloud.hownetwork.xyz/xxx/Lxc8IDEYHi8qNBYobgJmandVPisnHRseGg4SLnsEZG10QQ/
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
 #EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/lRpGcAYC7cm1QnInz8P3xHvm7cV.jpg",Mr. K (2025)
 https://cloud.hownetwork.xyz/xxx/LwpkJWhLR3N3fAApIVQ6BxoneC10QBJycGc/32/480.m3u8
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGZg0IhuEz1HCV0XvrYdywZ0HXpCav_OvRdPv-cVNYpQ&s" group-title="MOVIE SATURDAY", Gold 2022
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-https://cloud.hownetwork.xyz/xxx/c6796ca8e03b48ea9c12a631d8a209f6/16/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQTHyoAh_4stA4fvXzyMvKnod1EjG4RpqPhdeq6s-Drg&s=10" group-title="MOVIE SATURDAY", The smashing machine 2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
 https://cloud.hownetwork.xyz/xxx/MRUoPS0QGSZvPBYvK1k4PW9KeXxwVCAEABU7ExtvYWB7GSwvJ0A/29/480.m3u8
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRACclUn8xDTbgVf2ziK4YkHUNgihlqDIdstVa1wQJYPw&s=10" group-title="MOVIE SATURDAY", Trouble girls 2025 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-https://cloud.hownetwork.xyz/xxx/LhE9OikcWjUwPgIuL1V7PysKJT1oS0dzd3wgCQF0GgcaJ3osdBsUd3Zi/34/480.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq56E0DrjReFs1jVKGg60hH9uRW0Cz3t5ugz9Bnc_94w&s=10" group-title="MOVIE SATURDAY", The wolf's call 
@@ -3279,11 +3381,6 @@ https://cloud.hownetwork.xyz/xxx/db1ad12c58ce62632f533131656e0ed2/20/480.m3u8
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw1pNZhATV007uD7hELfMYFBgdiWa6GrP7qt-wJNMyaQ&s=10" group-title="MOVIE SATURDAY", Kursk the last mission
 https://cloud.hownetwork.xyz/xxx/e4a3377f812a4fa9e454962e31b83bb6/5/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFyB0bA8LFoNOQd8myMG0AqUzMvGMg97vClwyp2Zw5A&s=10" group-title="MOVIE SATURDAY", Get out 
-https://cloud.hownetwork.xyz/xxx/ef1511e429ecc772cc0cd9b660cd717e/5/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
@@ -3339,11 +3436,6 @@ https://cloud.hownetwork.xyz/xxx/IRAoITZUACAuOh4iJB1kaHBJZBkAOzMNb2VPfBxoCSonDTk
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsozPvIERYRIgjMt7E7HDUHJL7Q_LkQCtdeqiOOKKshg&s=10" group-title="MOVIE SATURDAY", Kifn 
-https://cloud.hownetwork.xyz/xxx/KREvIGhLR3N2fCAJAXQaBxonfih9SEIkdjI/27/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXKT9wCnKAtMOCI91RkNwODh9ArEbQSVRB6T1KfGlgAA&s=10" group-title="MOVIE SATURDAY", Dead to rights 2025
 https://cloud.hownetwork.xyz/xxx/Jh0oKmgLHiYqJQRhcQBkbW8vDAwBNSgZHTJHeyAEYD12/27/480.m3u8
 
@@ -3361,11 +3453,6 @@ https://cloud.hownetwork.xyz/xxx/MB0-PCwNEmxwYUV5bmcTGgY0FhYaTRMjdzNOf3Y/34/480.
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx8l93uvQHshIAmYPGBstSoaw8rdrrcoE3FkEt-aReww&s=10" group-title="MOVIE SATURDAY", At a Confessional 2025
 https://cloud.hownetwork.xyz/xxx/NhA8PWgKBy4pNFonKkM-MSAdZDwqERYvbzIYIiVVJSsrFycvKVRFcXBkWhsGchIUHSAWeyEaRXd3M08/26/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl8TGvC1K9YMcfFEprsnQB2bs7Yi5gi3Js1QrbaSRshg&s=10" group-title="MOVIE SATURDAY", Your host 2025
-https://cloud.hownetwork.xyz/xxx/Oxc8PGgRGDI2fEV8cQV7Dwc6DQIaISh2cGMWfSVUYw/34/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
@@ -3404,11 +3491,6 @@ https://cloud.hownetwork.xyz/xxx/IA07ICALWnNyY0JhFHUUHA4nEREnGEAlcDdGeg/34/480.m
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHPdv6lEuzyPmEbYzK8Wiu_0Wo_IWVH-9npiJIOvXd5Q&s=10" group-title="MOVIE SATURDAY", Dies Irae 2025
-https://cloud.hownetwork.xyz/xxx/JhEsPWgQBSAnfEV8cQV7Dwc6DQIaISgldGQRfiICZA/37/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIYNLK3zWilIBemvN8a1_29F775vlBATk1dLhoHNVq9Q&s=10" group-title="MOVIE SATURDAY", Legasi Bomba the movie 2025
 https://cloud.hownetwork.xyz/xxx/Lh0uLzYQWiMtPBUtbl05LisdZHx1S0JsFRQ1CA9vDgd7T3B9Ix9CdQ/37/480.m3u8
 
@@ -3429,8 +3511,8 @@ https://cloud.hownetwork.xyz/xxx/NBEmIiAXA2wnPxM_bgJmandVHgsHPTseGg4UdXsDNGhyGw/
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFRsTvxgfEYsxixoVm50TaCKy8C9cUfexhM7rVcmKgtw&s=10" group-title="MOVIE SATURDAY", Sisu 2 2025 cam
-https://cloud.hownetwork.xyz/xxx/MRE6O2hLWnNyY0JhFHUUHA4nEREhHRZ1cWYUKg/37/480.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFRsTvxgfEYsxixoVm50TaCKy8C9cUfexhM7rVcmKgtw&s=10" group-title="MOVIE SATURDAY", Sisu 2 2025 HD
+https://cloud.hownetwork.xyz/xxx/MRE6O2hLWnNyY0JhFHUUHA4nEREgG0QnIGhAdQ/37/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
@@ -3572,9 +3654,6 @@ https://cloud.hownetwork.xyz/xxx/0b53fdc6aaac019ae687f0cb2e7fba25/22/480.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjJkYTdlMzAtNzI1Yi00NTdjLWE5MWUtZDU1NmIzZmY0NjhhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",Emp4t (2025)
 https://cloud.hownetwork.xyz/xxx/JxU5ejFURXFwZFo7JlIyNB0gFn8jTRZzITJA/33/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYzZDYwZjgtYmM2ZS00Y2ZmLTlkYjItNmE0YTZlNzZlMWU0XkEyXkFqcGc@._V1_.jpg" group-title="MOVIE SATURDAY",Indera (2024)
-https://fcgbwu5x4pis.drewimplemnt.top/d/ggzif6kzo7hvw4m6asv47l2o3tzztkimpd5rxz5mjzxnqwhz6o3b4fmuksm5yx5r33q4wjm7/Indera.2025.720p.WEB.AAC.x264.MSM.mp4
-
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI0MjQ4MWItZTk1Ny00NTczLTlkNDktNDBmZDQ3ZTc3MjQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",Telaga Suriram (2025)
 https://playerx.player4me.online/hls/r_EjHvCYka_bNksUXEMP0A/pp/h9kqslgj/o3jee1/tt/index-f1-v1-a1.m3u8?v=1758651105
 
@@ -3582,11 +3661,6 @@ https://playerx.player4me.online/hls/r_EjHvCYka_bNksUXEMP0A/pp/h9kqslgj/o3jee1/t
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmI4MDI0NGUtNWFiMy00MzdjLWJiYjUtYzg1OWFmMjE2ZjQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",This Land of Mine (2024)
 https://cloud.hownetwork.xyz/xxx/2938da49c89291a6cf23b9212663fa8c/31/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmZlMWM0YTQtMjZjZi00NTQyLTk2NTctOWExMzg2ZjQyYmNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",Host (2025)
-https://cloud.hownetwork.xyz/xxx/Khc6OmhLR3N3fCAJAXQaBxonKHt0SUZwIzA/25/480.m3u8
 
 #EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t9LkTrAfIb6g2cfrMR5CUm6p8KO.jpg", Hoon Payon (2023)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Hoon%20Payon.mp4
@@ -3597,17 +3671,11 @@ https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Kafir.mp4
 #EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w5fpc7xegPbLgtsEAZobuwvvRhp.jpg", Oma the Demonic (2022)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Oma.the.Demonic.2022.1080p.WEB-DL.MalaySub.MSM%20(2).mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDZjYzQ4OTItYTk4Zi00NmU0LTg2ZDMtNzNhNTgzMzE5MmIyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",Panor (2025)
-https://cloud.hownetwork.xyz/xxx/MhknITdURXFwZFo7JlIyNB0gFipySENxcGlP/33/480.m3u8
-
 #EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ryaPV0ldnCaRkf1cQG9Qk1dkZ40.jpg", Qorin (2022)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Qorin.mp4
 
 #EXTINF:-1 type="movie" group-title="MOVIE SATURDAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yAvhSlj1aciZALwtXNvaSoSwJL4.jpg", Sosok Ketiga (2023)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Asean/Sosok.Ketiga.2023.1080p.UTV.WEB-DL.AAC2.0.H.264-MUVICAM21.mkv
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/04/Jaka_Sembung_dan_Dewi_Samudra.jpg" group-title="VODJADUL",Jaka Sembung dan Dewi Samudra (1990)
 https://files.dubbindo.site/upload/videos/2024/08/FfzGQKA695yKAUfVvCHm_10_32e64523cbe45e539040093db8c670ed_video_720p_converted.mp4
@@ -3635,86 +3703,158 @@ https://files.dubbindo.site/upload/videos/2024/06/CbDkuuNqUHRDn2d6zV85_04_fcc075
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzNlMGYwZjAtN2ViYi00ZjY2LWJkYTEtMzE4ODBjMzBiM2U4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VODJADUL",Pembalasan Si Mata Elang (1989)
 https://files.dubbindo.site/upload/videos/2024/06/YEjqxVfuu8s1fvETo38x_05_5c84ba3bf95d455d1a681910085650ab_video_360p_converted.mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6HInhOQxD243hSghPAtq8cRWOsCuxIHtJcpqWlMoqbA&s=10" group-title="KOLEKSI",Alien 1 1979
-https://cloud.hownetwork.xyz/xxx/e7f9e109ee827860b82354acfaccebf3/1/480.m3u8
-http://abf.filmbluray.id/4lkyjbu
+#EXTINF:-1 type="movie" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/04/5146eee0-92d5-3e75-81d9-4f92a896806f.jpeg" group-title="KOLEKSI", Fantastic Beasts 1 Where to Find Them
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=bacb14b5-0815-4d9f-a781-11c8ecf6dfff
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=bacb14b5-0815-4d9f-a781-11c8ecf6dfff&sub=t18
+
+#EXTINF:-1 type="movie" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/04/05/417e8f3b-2cd5-3a7e-a3d5-a981c03e9f5a.jpeg" group-title="KOLEKSI", Fantastic Beasts 2 The Crimes of Grindelwald
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=76a3cb10-3921-4864-a7db-c87b69f5c4ee
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=76a3cb10-3921-4864-a7db-c87b69f5c4ee&sub=t10
+
+#EXTINF:-1 type="movie" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/17/3806bde4-2f8a-35f9-b4d7-99314806d2c9.jpeg" group-title="KOLEKSI", Fantastic Beasts 3 The Secrets of Dumbledore
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=6a2c050c-4bcd-4e57-bb4e-25f940de688a
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=6a2c050c-4bcd-4e57-bb4e-25f940de688a&sub=t10
+
+#EXTINF:-1 type="movie" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/05/18/b2310f2c-df72-3f30-8aa5-b5c5f2b0bc70.jpeg" group-title="KOLEKSI", Kong Skull Island
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=696c68b3-8403-4b32-8d66-f1a5cc6f12f8
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=696c68b3-8403-4b32-8d66-f1a5cc6f12f8&sub=t21
+
+#EXTINF:-1 type="movie" tvg-logo="https://images.cdn.prd.api.discomax.com/2023/10/31/a6ec2a75-d4df-372a-b3e1-49cd258ce344.jpeg" group-title="KOLEKSI", Godzilla 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=3b178798-d9b7-42ad-8f7a-a961b1b789f6
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=3b178798-d9b7-42ad-8f7a-a961b1b789f6&sub=t21
+
+#EXTINF:-1 type="movie" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/12/0784fda4-1f54-3757-b1d0-b8da0fe8abb9.jpeg" group-title="KOLEKSI", Godzilla 2 King of the Monsters
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=1c4a3ecf-86ab-4b9d-b464-dee69d2147cb
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=1c4a3ecf-86ab-4b9d-b464-dee69d2147cb&sub=t1
+
+#EXTINF:-1 type="movie" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/11/20/2e6e7d32-a0ef-3f2e-84ee-ad1e0f1129f7.jpeg" group-title="KOLEKSI",Godzilla x Kong part 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=eb664895-939a-467f-ae7b-707ccab7c599
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=eb664895-939a-467f-ae7b-707ccab7c599&sub=t26
+
+#EXTINF:-1 type="movie" tvg-logo="https://images.cdn.prd.api.discomax.com/2024/06/25/a39f0808-30b5-3ee1-bf5e-f3a7b7749e58.jpeg" group-title="KOLEKSI", Godzilla x Kong part 2 The New Empire 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=b325f888-b2d5-4662-802a-2ad829a7a5d6
+https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b325f888-b2d5-4662-802a-2ad829a7a5d6&sub=t38
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYiXJgxvoy2A8BpnqzxgTPtPcvnNxtmTGqmA9HkjUzsg&s=10" group-title="KOLEKSI",Alien 2 1986
-https://cloud.hownetwork.xyz/xxx/3fffdd6606339745b03032edfc81cdb9/4/480.m3u8
-http://abf.filmbluray.id/echo4nc
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcwMjQ3Mjk0MV5BMl5BanBnXkFtZTgwNzcxNTYxMTE@._V1_.jpg" group-title="KOLEKSI",The Mummy 1
+https://cloud.hownetwork.xyz/xxx/b1121bfd93349449f2978eb5984fc2c6/1/480.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjdiYzVlNjUtNGI5MC00MDE5LTk0MmQtNDc0YzIzOGRmMDNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="KOLEKSI",The Mummy Returns 2
+https://www.dropbox.com/scl/fi/dhl4xl9au9jlka15ygfa7/The-Mummy-Returns-2001.mp4?rlkey=eb2vngnvjvc9dn3cbn5x6fyu7&st=b6x1ad8m&dl=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU4NDIzMDY1OV5BMl5BanBnXkFtZTcwNjQxMzk3MQ@@._V1_FMjpg_UX1000_.jpg" group-title="KOLEKSI",The Mummy 3 Dragon Emperor 
+https://cloud.hownetwork.xyz/xxx/ca4d2c870ca4010a9f8cf827e6ce7abf/25/480.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwMTgwODAxMl5BMl5BanBnXkFtZTgwNTEwNTQ3MDI@._V1_FMjpg_UX1000_.jpg" group-title="KOLEKSI",The Mummy 4
+https://cloud.hownetwork.xyz/xxx/edb65ec845608cd5e65bd072d30b86e8/11/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1TFfK0ZgOn5_c2wO9nyD2beUqEtBYyHlNYCoZei8tLA&s=10" group-title="KOLEKSI",Alien 3 1992 VLC PLAYER
-http://abf.filmbluray.id/37ykgx4
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDk2YjNhYzEtYzg2ZC00OWEwLWJhYzgtMGUzMWVjNDFmYzI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="KOLEKSI",THG 5 The Ballad of Songbirds & Snakes
+https://www.dropbox.com/scl/fi/6frv10vwjc61nhgmyjbba/The-Hunger-Games-The-Ballad-of-Songbirds-Snakes-2023.mp4?rlkey=2b6jym60fyy2atzjn75o2hdiu&st=6pi0taps&dl=1
+http://83.142.30.171:8080/movie/vip_3klp0es8/wg3piwEs/4065.mp4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQzNDI2NTU1Ml5BMl5BanBnXkFtZTgwNTAyMDQ5NjE@._V1_FMjpg_UX1000_.jpg" group-title="KOLEKSI",THG 4 Mockingjay - Part 2 
+https://cloud.hownetwork.xyz/xxx/79d336bb5727b69474c8e6e46e46d583/1/480.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcxNDI2NDAzNl5BMl5BanBnXkFtZTgwODM3MTc2MjE@._V1_FMjpg_UX1000_.jpg" group-title="KOLEKSI",THG 3 Mockingjay - Part 1 
+https://cloud.hownetwork.xyz/xxx/7425e3675c331e84697821cd12107e28/3/480.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAyMjQ3OTAxMzNeQTJeQWpwZ15BbWU4MDU0NzA1MzAx._V1_FMjpg_UX1000_.jpg" group-title="KOLEKSI",THG 2 Catching Fire _VLC Only
+http://abf.filmbluray.id/l97j7ll
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWI1OGM4YjQtNmIxNi00YmE2LWJkNTAtY2Q0YjU4NTI5NWQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="KOLEKSI",THG 1
+https://cloud.hownetwork.xyz/xxx/b6e57345eb64c2a42499c184b6a1a8cb/11/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPXZSR2uQ5w3FDNejElHAsiwvLIwQhhODGV0iRh1GscQ&s=10" group-title="KOLEKSI", Alien 4 1997
-https://cloud.hownetwork.xyz/xxx/d57a53a72722f16b91741076ce6eccc8/27/480.m3u8
-http://abf.filmbluray.id/re0wprm
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDE4M2ZiYzEtODJiZC00NmI1LWFlNTgtOGJlNTY3NmExYWNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="KOLEKSI",Percy Jackson 1 The Lightning Thief 
+https://cloud.hownetwork.xyz/xxx/fd0e61d01b2c3c778bab85c76d1901fd/3/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoVqzHW7Mjossa-j179qJo9r-xzxyeILs_zLqXwhRb0w&s=10" group-title="KOLEKSI",Alien 5 Promotheus 2011
-https://cloud.hownetwork.xyz/xxx/a33201cd0bfd7cf3ee339af59bab6b83/1/480.m3u8
-http://abf.filmbluray.id/bi3wdv4
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRmNmFhZWItYWRhYi00ZTAxLTllMTItZDlkMmU2ZWU3NjUxXkEyXkFqcGc@._V1_.jpg" group-title="KOLEKSI",Percy Jackson 2 Sea of Monsters
+https://cloud.hownetwork.xyz/xxx/884fccd2a90b2ca1d07f77ef320d26d2/1/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTv6-VEeGpeLM2Qq5VyIyTtzNKD-FbV-Y9GqlO_QWmjg&s=10" group-title="KOLEKSI",Alien 6 convenant 2017
-https://cloud.hownetwork.xyz/xxx/87bc161da8f2a4692be373f3b30ed44c/2/480.m3u8
-http://abf.filmbluray.id/e66j0yn
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjdlMzc4ZjMtOTY3Yi00NDRlLTk0OTQtNjAzNTkzZTIyZTkzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="KOLEKSI",Kingsman 1 The Secret Service 
+https://cloud.hownetwork.xyz/xxx/4e1dcc7cb0fa66cb83e26918c702f71e/5/480.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ3OTgzMzY4NF5BMl5BanBnXkFtZTgwOTc4OTQyMzI@._V1_FMjpg_UX1000_.jpg" group-title="KOLEKSI",Kingsman 2 The Golden Circle
+https://cloud.hownetwork.xyz/xxx/446af4ffe54e333d32bd18586dcbc2a7/5/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU0NjcwOGQtNjNjOS00NzQ3LWIwM2YtYWVmODZjMzQzN2ExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="KOLEKSI",Alien 7 Romulus 2024
-https://cloud.hownetwork.xyz/xxx/096060a5890fcb77bdc5af4bee819122/31/480.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTliYTE2NjUtNDkwZS00ZTNlLTgwN2MtMjZlOGJmODY5ZjE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="KOLEKSI",Jumanji PT1 Welcome to the Jungle 
+https://cloud.hownetwork.xyz/xxx/780ac18de2c288d4190c8c2399945d15/5/480.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjNkNGIzMmQtNTNlMS00MjllLTliZGItNmQxZjVmNzJjOGZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="KOLEKSI",Jumanji PT2 The Next Level 
+https://cloud.hownetwork.xyz/xxx/075d595b48bc5384a7f2c3161752a022/5/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_-QCPkjWHJ6XX0_fF6R2UC20oEnD8vU_WGzGDUE63vw&s=10" group-title="KOLEKSI", A Predator 1 1987
-https://cloud.hownetwork.xyz/xxx/d307d596a6df919b242c95ad96677a62/1/480.m3u8
-http://abf.filmbluray.id/9h4h5la
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2JjYWUyZjUtMDg3OS00MGIyLTgyN2QtYjIyY2VlYzViYThlXkEyXkFqcGc@._V1_.jpg" group-title="KOLEKSI",The Huntsman PT1 & Snow White
+https://cloud.hownetwork.xyz/xxx/5600589e62035018186a6c5d28608f7c/2/480.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjY0YTM4ZTAtZjliYS00YzgwLTg0NWEtYzgwNWViMTNiOTQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="KOLEKSI",The Huntsman PT2 Winter's War 
+https://cloud.hownetwork.xyz/xxx/ef4433c3bd2ac67221cd2563fe20851d/4/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu28-I_GCZLsMJxFeEezMzJDfU_ZukbWKvl_XmuB0Dug&s=10" group-title="KOLEKSI", A Predator 2 1990
-https://cloud.hownetwork.xyz/xxx/d3c1801cedd4e24a2add88401a317125/1/480.m3u8
-http://abf.filmbluray.id/bizr5p9
-
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MGM4ZjQtNmQ3MC00NDE4LWEwYTItYWZiYzAxMGQwMDkzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="KOLEKSI",Johnny English 1
+https://cloud.hownetwork.xyz/xxx/4b6eb4e99393c4510219c92d49855e92/7/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs45GVq69LaLH9Ilzu1SFvJuXB7drKla7zu9JiBgCtHw&s=10" group-title="KOLEKSI",A Predator 3 2010
-https://cloud.hownetwork.xyz/xxx/9f9150f19f8b02989e8a536c6e7fa26b/8/480.m3u8
-http://abf.filmbluray.id/7gwaety
-
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNhMTRlYWMtNGQzZS00OGFmLTlhOGUtODZlMDY4YzNlZDYwXkEyXkFqcGc@._V1_.jpg" group-title="KOLEKSI",Johnny English 2 Reborn 
+https://cloud.hownetwork.xyz/xxx/19107a0cdaeb89d1fda672183437e229/1/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_MrDFbWWoowgViihXCx0F6tbbm2K7WP_XK_lTnTYwjw&s=10" group-title="KOLEKSI",A Predator 4 2017
-https://cloud.hownetwork.xyz/xxx/827d75c0f41284e953814c3d916e8789/11/480.m3u8
-http://abf.filmbluray.id/mjs7csd
-
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmNlZDRlODAtNzE1Zi00NjUzLThiZWQtOTk1ZTFjMjRhMjg5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="KOLEKSI",Johnny English 3 Strikes Again
+https://cloud.hownetwork.xyz/xxx/a63f69c3ddcba28aed4d777db34f65c1/5/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://myhotposters.com/cdn/shop/products/mL6266.jpg?v=1748532054" group-title="KOLEKSI",A Predator 5 Prey 2022
-https://cloud.hownetwork.xyz/xxx/e0b8051ecf35e35ed07857ef23b11672/13/480.m3u8
-
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk2NDc2MDAxN15BMl5BanBnXkFtZTYwNDc1NDY2._V1_.jpg" group-title="KOLEKSI",The Transporter 1
+https://cloud.hownetwork.xyz/xxx/1a11ff1b3465298bce57a165a98b569a/1/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFIlS0xQsG5ZgBBXEVQzDq5T4rRCdi2jbwSunQPudtGg&s=10" group-title="KOLEKSI",Alien vs Predator 1 2004
-https://cloud.hownetwork.xyz/xxx/2e950c2ed320ba1017eb6dd92ae09934/1/480.m3u8
-http://abf.filmbluray.id/4k4d33i
-
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTM4ZTM2ZDMtM2ZmMi00YWM4LTlmOWEtODQxMzYyZDJlZDEwXkEyXkFqcGc@._V1_.jpg" group-title="KOLEKSI",The Transporter 2
+https://cloud.hownetwork.xyz/xxx/c0d5b6a5706f3625be3c2b1d7707a088/1/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJuYSj1AK3hwltVY6c7FLBvDaC-HimG9EB5uVtI07sA&s=10" group-title="KOLEKSI",Alien vs Predator 2 2008
-https://cloud.hownetwork.xyz/xxx/eae040c0481b67da65b7a91d0a0b0012/1/480.m3u8
-http://abf.filmbluray.id/rb9396k
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQ2YzM3NDctM2Y0Ni00NDA3LWIzMTYtNjhhYzEyZmI0MWM3XkEyXkFqcGc@._V1_.jpg" group-title="KOLEKSI",The Transporter 3 
+https://cloud.hownetwork.xyz/xxx/a84de559d6f1ac05cfac5c892c8cd398/3/480.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY5ZmRmZTItYzVjMC00NmQ0LWJiNzctZTcyODUzZGRkNTE4XkEyXkFqcGc@._V1_.jpg" group-title="KOLEKSI",The Transporter 4 Refueled
+https://cloud.hownetwork.xyz/xxx/b33fa57548918725b6e83ecf9ca10426/1/480.m3u8
 
 #EXTINF:-1 type="movie" group-title="KOLEKSI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2IZcJHsTugOdyg0Y8ejj4CM2X3a.jpg", The Apes 01
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EUqLJfn_TiJIvtljGjYk6BgBaATH6gRB6gMBluv4SnNKjw
@@ -3826,11 +3966,6 @@ https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&ed
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvmax?editId=9b9d9055-3638-468b-9889-096b22566f7b
 https://get.perfecttv.net/get_max.mpd?username=vip_sgnep6z9&password=dBlA1nxq&editId=9b9d9055-3638-468b-9889-096b22566f7b&sub=t32
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSf1--O8nbn5vnTOyyTvwue7CiVZhv2-kJg-MG4ZRf_A&s=10" group-title="MOVIE SATURDAY",Paranormal Activity Next of Kin [MULTI-SUB]
-http://line.extraott-iptv.com:88/movie/2755789541/1300714776/400256038.mkv
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB6Wwu7QzLYofWi1eoFZV0JUMiKJLS_sSa_YSKVdVIJA&s=10" group-title="MOVIE SATURDAY",The Djinn [MULTI-SUB]
-http://line.extraott-iptv.com:88/movie/2755789541/1300714776/400172263.mkv
 
 ===================================== INFORMASI ===================================
 
