@@ -206,7 +206,7 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
  
 
-#EXTM3U billed-msg="🔵UPDT: SELAMAT MENUNAIKAN IBADAH PUASA 🙏🏼🙏🏼"
+#EXTM3U billed-msg="🔵UPDT: SELAMAT HARI RAYA IDUL FITRI 1447 H 🙏🏼🙏🏼"
 
 ========================================================== BERITA =====================================================================
 
@@ -3101,7 +3101,7 @@ https://drive.usercontent.google.com/download?id=1bl_Hvn8EQkZz8vw-kkzQ3QEhaDaU9a
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="MOVIE SATURDAY",3. MUAT ULANG DATA UNTUK UPDATE FILM
 https://drive.usercontent.google.com/download?id=1bl_Hvn8EQkZz8vw-kkzQ3QEhaDaU9aUl&export=download
 
-baru
+lama
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
@@ -3238,71 +3238,116 @@ https://ewa.playerp2p.live/hls/tIqcBEGtNvYfanM_M9VAgQ/ic/6spni569/5gt8pf/tt/inde
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlIvdBFCqQFBbPC9FuhQl5iDEhOongPDteIgthlCwAuQ&s=10" group-title="MOVIE SATURDAY", The race 2025
 https://ewa.playerp2p.live/hls/uI7tRhESPO0QEQtVi7eYhQ/ic/6spni569/93lhmp/tt/index-f2-v1-a1.m3u8?v=1766826492
 
-lama
+baru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIEH7Xcb0RETH7PXW_u40RohfVvKjrVP9l_ebAQQcjHg&s=10" group-title="MOVIE SATURDAY", waves 2024
-https://s8n.clarionbranding.cyou/v4/lf/fxmpf/index-f1-v1-a1.txt
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOKKVgx5J1sXzFynuDL2OgtY32WYEfoIcA1ji5U1pukg&s=10" group-title="MOVIE SATURDAY", preschool 2026
+https://s6d.ecofriendlytech.shop/v4/np/9n3rw/index-f1-v1-a1.txt
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWRpxDzSKwgnWYe_FPmW98pT7MqcLtfYOBhHbXT3g5w&s=10" group-title="MOVIE SATURDAY", the weekend 2024
-https://svb.retailenablement.shop/v4/sc/9frcq/index-f1-v1-a1.txt
+#EXTINF:-1 type="movie" tvg-logo="mmm" group-title="MOVIE SATURDAY", magellan 2025
+https://ichinime.4meplayer.pro/hls/Ov4MMBBCiLIIomO0rgAleg/36/mehdg1pm/ejnace/tt/index-f1-v1-a1.m3u8?v=1766826492
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFC_V0SlScO6owvATiT0NWg7-58bBX3qJaOWvYuLnQtg&s=10" group-title="MOVIE SATURDAY", Pengin Hijrah 2025
-https://ichinime.4meplayer.pro/hls/VD8uD5fcsKCl4XnsWYSS1w/db/dq8zrme1/tmqd6i/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkSKauaQ_eJjwEhddh9n3j52Z4thfciVazT4OirDiETQ&s=10" group-title="MOVIE SATURDAY", love barista 2025
+https://s6d.smartsolutionshub.shop/v4/lf/9n3rf/index-f1-v1-a1.txt
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6eg2pDftpIQJLRV9jCFeOIlKV5rptsJiup99QbnXH8Q&s=10" group-title="MOVIE SATURDAY", concrete market 2025
-https://svb.harborviewdesignworks.cyou/v4/pq/h6evs/index-f1-v1-a1.txt
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ZfCaxlxe-hJMbb2BnPGcc00GvDvHze3iqxS0PVJLUQ&s=10" group-title="MOVIE SATURDAY", big foot primal encounter 2025
+https://svb.smartsolutionshub.shop/v4/61/ecrpv/index-f1-v1-a1.txt
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyIEX59588qKaMz_Qt1rlYLgYqtuMNRVVp3JbdcYZZ2w&s=10" group-title="MOVIE SATURDAY", re/member.1 2022
-https://s6d.clarionagency.cyou/v4/ho/8gj9r/index-f1-v1-a1.txt
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0sTc-JzZHoi5jmBZ3gKJBWRbUkUCFSd78Hf8nAySjDQ&s=10" group-title="MOVIE SATURDAY", dead star 2025
+https://s6d.infrastructureknowledgehub.site/v4/s93/vlo3l/index-f1-v1-a1.txt
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXVFkQYVuh28sdrxHaR1SMjrQz-L4dVgQxF74gi3b70Q&s=10" group-title="MOVIE SATURDAY", re/member.2 the last night 2025
-https://s6d.ecofriendlyhome.shop/v4/db/5ogua/index-f1-v1-a1.txt
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT04rbSWkaioLbW8quOkFkY4VYV5mjAU4-ysQT4dpnAkg&s=10" group-title="MOVIE SATURDAY", the dresden sun 2026
+https://s6d.petloversessentials.shop/v4/qu/ynyo6/index-f1-v1-a1.txt
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQItUUtWmNfn0kJXAUKgHi6NCF2X48CgPB6sPjEn9uW9A&s=10" group-title="MOVIE SATURDAY", my boo 2 2025
-https://s6d.digitalhealthhub.space/v4/61/h6atz/index-f1-v1-a1.txt
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRToS2o5UKuAON22-BuGFk64ZUeBB5w4xilS8ZgoblU7g&s=10" group-title="MOVIE SATURDAY", scream 7 2026
+https://ichinime.4meplayer.pro/hls/_nNaWX7vgdUGhqRlWXcP7Q/ox/mehdg1pm/pc81j1/tt/index-f1-v1-a1.m3u8?v=1766826492
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRyGNYuFQ9pLVeKYX3UYzyfFXBcw7bBvZM6tDo53GGDw&s" group-title="MOVIE SATURDAY", Detective dee. buddhas warth 2026
-https://s6d.clarionventures.cyou/v4/qu/9fe5z/index-f1-v1-a1.txt
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrs_i9NR1WvgwSfRDg8GjVcJwDLNWqUdHbKR3luUNiBQ&s=10" group-title="MOVIE SATURDAY", miasion again drugs 2026
+https://ichinime.4meplayer.pro/hls/Dhtc3eDBKFImQvKRZXxNrw/xy/mehdg1pm/6rd5df/tt/index-f1-v1-a1.m3u8?v=1766826492
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-k9RvgAPKXS7M5QMgiGe5yOlqjIsgJLLzK1h9Z3xUOw&s=10" group-title="MOVIE SATURDAY", Stealing the sky 2026
-https://svb.goldenharbordesignworks.sbs/v4/vz1/8zhun/index-f1-v1-a1.txt
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPIv9OGR6IrGyCt_HZOeOkHAyVSjxC7UjY3km4V4LPEg&s=10" group-title="MOVIE SATURDAY", the fires 2025
+https://ichinime.4meplayer.pro/hls/bVrXxrbQstN3NC8OVq78Ww/pp/puo3likr/uvzhsk/tt/index-f1-v1-a1.m3u8?v=1766826492
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhEZ8g-_GlgkrkvHYd5Q9uQcSOcMoDuGS67LN8MCcsvw&s" group-title="MOVIE SATURDAY", Spider fairy 2026
-https://ichinime.4meplayer.pro/hls/91WGerApljsYcq48Q2aang/9a/skucpuec/mur1xi/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_B8WIBA7RNg6EeXYnn0-grkOs5KSbS-W2YWZy4HqinQ&s=10" group-title="MOVIE SATURDAY", the cure 2026
+https://ichinime.4meplayer.pro/hls/1Au5l5wj_TYU-46BD1xSUw/djx/puo3likr/9taihy/tt/index-f2-v1-a1.m3u8?v=1766826492
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHH-G-rfyUUj2_apvW-MX4IN6ZFSrJtBV_6VUCQHvFnw&s=10" group-title="MOVIE SATURDAY", Accused 2026
-https://cloud.hownetwork.xyz/xxx/IxsqOzYcE2xwYUV6bmcTGgY0FhYaHxZwcDNEe3A/39/480.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYmssz8ZRnJX4L9JV57mr8gEJbzDjZCn4qB-8eYHQRXw&s=10" group-title="MOVIE SATURDAY", belum ada judul 2026
+https://ichinime.4meplayer.pro/hls/KvXcpwjE13jhuQu9Ake29A/djx/puo3likr/l3vlvr/tt/index-f2-v1-a1.m3u8?v=1766826492
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbhO6dpFjyApgHRAlqgj7LJ870YJYjGniJJXJPVFFu-w&s=10" group-title="MOVIE SATURDAY", Hill 2025
-https://cloud.hownetwork.xyz/xxx/KhElImhLR3N3fCAJAXQaBxoncS99QER5JGM/39/480.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIH0IYrbRRnDZfLyzVe5vrUbIFKZDfmgV44Jq4ecDqEg&s=10" group-title="MOVIE SATURDAY", sowrd of legend. heart of sword 2026
+https://ichinime.4meplayer.pro/hls/qIYudoDwVJr0wUxHhuqMiA/sc/lodt9oei/9t5hm3/tt/index-f2-v1-a1.m3u8?v=1766826492
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ87hq28jlvkDRkbdmQh6NOssr8yvM7EgXtfnSe46atNw&s=10" group-title="MOVIE SATURDAY", Qifarah 2025
-https://cloud.hownetwork.xyz/xxx/MxEvLzcYH2xwYUV5bmcTGgY0FhYaGxJ4cTIVdXs/39/480.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-t-dKwXUmaIpulFBRxUxFiwWg1Ybmv3j8NjoK1yzB_Q&s=10" group-title="MOVIE SATURDAY", soft leaves 2025
+https://s8n.retailenablement.shop/v4/rw/ixevr/index-f1-v1-a1.txt
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4bhvUsWAEBsR51_l7U09_Yz6VmINeh6QwChz3l1Adow&s=10" group-title="MOVIE SATURDAY", No see ums 2025
-https://cloud.hownetwork.xyz/xxx/LBdkPSAcWjQvIlp-cwJjdRU9CwoJJi8edGBCKXoGYGs/39/480.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8fRy-aFnMl7bMvVdF3SMBfkQHNFt-SpmeG9CPLJkIqw&s=10" group-title="MOVIE SATURDAY", peaky blinders. the immortal man 2026
+https://ichinime.4meplayer.pro/hls/FcgfeXF-i-VT0kiIVgvsxg/sc/unjaovjx/6rj1xg/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFVRsoJ65Oc8ces1Oaio0BUwR69pR20PifGVIhmANIWg&s=10" group-title="MOVIE SATURDAY", dracula. rise of the vampire 2025
+https://s6d.digitalhealthhub.space/v4/mik/56og3/index-f1-v1-a1.txt
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfRvSH2X03B7lPyaOJR3vYbYt3JgWV10uYUfDzMMbCZw&s=10" group-title="MOVIE SATURDAY", do not enter 2026
+https://ichinime.4meplayer.pro/hls/kONfqAFzhSOalyM6CePMpQ/js/unjaovjx/9tvprg/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKmYeINjfRaj_cWF9cAwYpHIfhD9Kitfs50PXkcKcGWA&s=10" group-title="MOVIE SATURDAY", bad vodoo 2026
+https://s6d.digitalbrandinghub.cyou/v4/gee/8agji/index-f1-v1-a1.txt
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvhVmMiogemQmpJlgJAS9AFriT1riiJi4KgfuEFcOEpQ&s=10" group-title="MOVIE SATURDAY", agent zeta 2026
+https://s8n.ecosolutionsshop.space/v4/vz/hi6a9/index-f1-v1-a1.txt
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL4VcXa8CZWL9LsUIwOAQzXwYlOBvcOBCl38CJo3NI2A&s=10" group-title="MOVIE SATURDAY", a town called purgatory 2026
+https://svb.lakesideproductionworks.cfd/v4/epu/frxvf/index-f1-v1-a1.txt
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFyxCK2c0U6n166zp-bHyflipF6hqhW1_5LT5zYV-DrQ&s=10" group-title="MOVIE SATURDAY", gak nikah gak apa kan ? 2026
+https://ichinime.4meplayer.pro/hls/NEzI8jILmEcVKWPMuVH7-w/is9/unjaodja/x9rpac/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQugQqsRS_mwKUYtVbdwHyITo5dPCkJhsGNa7n600X4cA&s=10" group-title="MOVIE SATURDAY", kunchen 2025
+https://ichinime.4meplayer.pro/hls/qUdcNgaJyc4wCjBAKXxF5w/vz/lodt9oei/9tvdzp/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8lyqSV1MP_llIFALeASz6V6pDQEt6rvRj6ya4-hvfCw&s=10" group-title="MOVIE SATURDAY", sosok ketiga. lintrik 2025
+https://ichinime.4meplayer.pro/hls/62PB3iiv6XcNANM_8-_o3g/lf/lodt9oei/56ezli/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 series
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEkVY9vwHMHWdqUGbe61I7fU7iKmgzHuns6Qp2cqQLYQ&s=10" group-title="SERIES", Monarch. S1 EP1
@@ -3576,235 +3621,4 @@ https://cdn-seachange-prod-01.vos360.video/Content/DASH/Live/channel(b3278dd9-ff
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c4/b7/48/c4b74881b961cb2f2d26bc1dfe355e3a.jpg" group-title="INFORMASI🔵🔵🔵🔵", REQUEST HANYA BERLAKU 24 JAM PEMUTARAN FILM
 https://raw.githubusercontent.com/Cutsiffa/Movyyy/refs/heads/main/M1.mp4
-
-#EXTINF:-1 group-logo="https://i.pinimg.com/736x/48/27/35/482735aaceb5b336f6f95019814fc517.jpg" group-title="ALQURAN"
-
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",001. Alfatihah (Pembukaan)
-https://archive.org/download/MurotalMR/001.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",002. Al-Baqarah (Lembu Betina)
-https://archive.org/download/MurotalMR/002.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",003. Ali 'Imran (Keluarga Imran)
-https://archive.org/download/MurotalMR/003.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",004. An-Nisaa' (Wanita)
-https://archive.org/download/MurotalMR/004.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",005. Al-An'aam (Binatang Ternakan)
-https://archive.org/download/MurotalMR/006.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",006. Al-A'raaf (Tempat Tertinggi)
-https://archive.org/download/MurotalMR/007.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",007. Al-Anfaal (Rampasan Perang)
-https://archive.org/download/MurotalMR/008.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",008. At-Taubah (Pengampunan)
-https://archive.org/download/MurotalMR/009.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",009. Yunus (Nabi Yunus a.s.)
-https://archive.org/download/MurotalMR/010.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",010. Hud (Nabi Hud a.s.)
-https://archive.org/download/MurotalMR/011.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",011. Yusuf (Nabi Yusuf a.s.)
-https://archive.org/download/MurotalMR/012.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",012. Ar-Ra'd (Guruh)
-https://archive.org/download/MurotalMR/013.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",013. Al-Maa'idah (Hidangan)
-https://archive.org/download/MurotalMR/005.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",014. Ibrahim (Nabi Ibrahim a.s.)
-https://archive.org/download/MurotalMR/014.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",015. Al-Hijr (Kawasan Berbatu)
-https://archive.org/download/MurotalMR/015.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",016. An-Nahl (Lebah)
-https://archive.org/download/MurotalMR/016.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",017. Al-Israa' (Perjalanan Malam)
-https://archive.org/download/MurotalMR/017.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",018. Al-Kahfi (Gua)
-https://archive.org/download/MurotalMR/018.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",019. Maryam (Siti Maryam)
-https://archive.org/download/MurotalMR/019.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",020. Taahaa
-https://archive.org/download/MurotalMR/020.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",021. Al-Anbiyaa' (Para Nabi)
-https://archive.org/download/MurotalMR/021.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",022. Al-Hajj (Haji)
-https://archive.org/download/MurotalMR/022.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",023. Al-Mu'minun (Golongan yang Beriman)
-https://archive.org/download/MurotalMR/023.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",024. An-Nuur (Cahaya)
-https://archive.org/download/MurotalMR/024.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",025. Al-Furqaan (Pembeda Hak & Bathil)
-https://archive.org/download/MurotalMR/025.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",026. Asy-Syu'araa (Para Penyair)
-https://archive.org/download/MurotalMR/026.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",027. An-Naml (Semut)
-https://archive.org/download/MurotalMR/027.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",028. Al-Qasas (Cerita-cerita)
-https://archive.org/download/MurotalMR/028.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",029. Al-'Ankabut (Labah-labah)
-https://archive.org/download/MurotalMR/029.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",030. Ar-Rum (Bangsa Roma)
-https://archive.org/download/MurotalMR/030.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",031. Luqman (Luqman)
-https://archive.org/download/MurotalMR/031.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",032. As-Sajdah (Sujud)
-https://archive.org/download/MurotalMR/032.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",033. Al-Ahzab (Golongan yang Bersekutu)
-https://archive.org/download/MurotalMR/033.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",034. Saba' (Kaum Saba')
-https://archive.org/download/MurotalMR/034.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",035. Faatir (Pencipta)
-https://archive.org/download/MurotalMR/035.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",036. Yaasin
-https://archive.org/download/MurotalMR/036.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",037. As-Saaffat (Yang Teratur Berbaris)
-https://archive.org/download/MurotalMR/037.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",038. Saad
-https://archive.org/download/MurotalMR/038.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",039. Az-Zumar (Rombongan)
-https://archive.org/download/MurotalMR/039.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",040. Al-Ghafir / Al-Mu'min (Orang yang Beriman)
-https://archive.org/download/MurotalMR/040.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",041. Fussilat (Dijelaskan)
-https://archive.org/download/MurotalMR/041.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",042. Asy-Syuraa (Permesyuaratan)
-https://archive.org/download/MurotalMR/042.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",043. Az-Zukhruf (Perhiasan Emas)
-https://archive.org/download/MurotalMR/043.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",044. Ad-Dukhaan (Kabut / Asap)
-https://archive.org/download/MurotalMR/044.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",045. Al-Jatsiyah (Yang Berlutut)
-https://archive.org/download/MurotalMR/045.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",046. Al-Ahqaaf (Bukit-bukit Pasir)
-https://archive.org/download/MurotalMR/046.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",047. Muhammad (Nabi Muhammad SAW)
-https://archive.org/download/MurotalMR/047.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",048. Al-Fath (Kemenangan)
-https://archive.org/download/MurotalMR/048.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",049. Al-Hujurat (Bilik-bilik)
-https://archive.org/download/MurotalMR/049.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",050. Qaaf
-https://archive.org/download/MurotalMR/050.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",051. Adz-Dzariyaat (Angin yang Menerbangkan)
-https://archive.org/download/MurotalMR/051.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",052. At-Tur (Bukit)
-https://archive.org/download/MurotalMR/052.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",053. An-Najm (Bintang)
-https://archive.org/download/MurotalMR/053.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",054. Al-Qamar (Bulan)
-https://archive.org/download/MurotalMR/054.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",055. Ar-Rahman (Yang Maha Pemurah)
-https://archive.org/download/MurotalMR/055.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",056. Al-Waqi'ah (Peristiwa yang Tidak Dapat Dielakkan)
-https://archive.org/download/MurotalMR/056.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",057. Al-Hadid (Besi)
-https://archive.org/download/MurotalMR/057.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",058. Al-Mujadilah (Perempuan yang Merayu)
-https://archive.org/download/MurotalMR/058.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",059. Al-Hasyr (Pengusiran)
-https://archive.org/download/MurotalMR/059.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",060. Al-Mumtahanah (Perempuan yang Diuji)
-https://archive.org/download/MurotalMR/060.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",061. As-Saf (Barisan)
-https://archive.org/download/MurotalMR/061.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",062. Al-Jumu'ah (Hari Jumaat)
-https://archive.org/download/MurotalMR/062.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",063. Al-Munafiquun (Golongan Munafik)
-https://archive.org/download/MurotalMR/063.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",064. At-Taghabun (Dinampakkan Kesalahan)
-https://archive.org/download/MurotalMR/064.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",065. At-Talaq (Cerai / Talak)
-https://archive.org/download/MurotalMR/065.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",066. At-Tahrim (Mengharamkan)
-https://archive.org/download/MurotalMR/066.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",067. Al-Mulk (Kerajaan)
-https://archive.org/download/MurotalMR/067.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",068. Al-Qalam (Pena / Kalam)
-https://archive.org/download/MurotalMR/068.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",069. Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
-https://archive.org/download/MurotalMR/069.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",070. Al-Ma'arij (Tempat-tempat Naik)
-https://archive.org/download/MurotalMR/070.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",071. Nuh (Nabi Nuh a.s.)
-https://archive.org/download/MurotalMR/071.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",072. A-Jin (Jin)
-https://archive.org/download/MurotalMR/072.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",073. Al-Muzammil (Yang Berselimut)
-https://archive.org/download/MurotalMR/073.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",074. Al-Muddathir (Yang Berselubung)
-https://archive.org/download/MurotalMR/074.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",075. Al-Qiyaamah (Hari Kebangkitan / Kiamat)
-https://archive.org/download/MurotalMR/075.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",076. Al-Insaan (Manusia)
-https://archive.org/download/MurotalMR/076.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",077. Al-Mursalat (Malaikat Yang Diutus)
-https://archive.org/download/MurotalMR/077.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",078. An-Naba' (Berita Besar)
-https://archive.org/download/MurotalMR/078.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",079. An-Naazi'aat (Malaikat Yang Mencabut)
-https://archive.org/download/MurotalMR/079.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",080. 'Abasa (Dia Bermasam Muka)
-https://archive.org/download/MurotalMR/080.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",081. At-Takwiir (Menggulung)
-https://archive.org/download/MurotalMR/081.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",082. Al-Infitar (Terpecah & Terbelah)
-https://archive.org/download/MurotalMR/082.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",083. Al-Mutaffifiin (Golongan yang Curang)
-https://archive.org/download/MurotalMR/083.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",084. Al-Insyiqaaq (Terbelah)
-https://archive.org/download/MurotalMR/084.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",085. Al-Buruj (Gugusan Bintang)
-https://archive.org/download/MurotalMR/085.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",086. At-Taariq (Pengunjung Malam)
-https://archive.org/download/MurotalMR/086.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",087. Al-A'laa (Yang Tertinggi)
-https://archive.org/download/MurotalMR/087.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",088. Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)
-https://archive.org/download/MurotalMR/088.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",089. Al-Fajr (Fajar / Sinar Mentari)
-https://archive.org/download/MurotalMR/089.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",090. Al-Balad (Negeri)
-https://archive.org/download/MurotalMR/090.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",091. Asy-Syams (Matahari)
-https://archive.org/download/MurotalMR/091.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",092. Al-Lail (Malam)
-https://archive.org/download/MurotalMR/092.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",093. Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)
-https://archive.org/download/MurotalMR/093.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",094. Al-Insyirah/An-Nasyrah (Melapangkan)
-https://archive.org/download/MurotalMR/094.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",095. At-Tin (Buah Tin / Buah Ara)
-https://archive.org/download/MurotalMR/095.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",096. Al-'Alaq (Segumpal Darah)
-https://archive.org/download/MurotalMR/096.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",097. Al-Qadr (Kemuliaan)
-https://archive.org/download/MurotalMR/097.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",098. Al-Baiyinah (Bukti yang Nyata)
-https://archive.org/download/MurotalMR/098.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",099. Al-Zalzalah (Kegoncangan)
-https://archive.org/download/MurotalMR/099.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",100. Al-'Aadiyaat (Yang Berlari Kencang)
-https://archive.org/download/MurotalMR/100.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",101. Al-Qari'ah (Hari Yang Hingar)
-https://archive.org/download/MurotalMR/101.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",102. At-Takathur (Bermegah-Megah)
-https://archive.org/download/MurotalMR/102.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",103. Al-'Asr (Masa)
-https://archive.org/download/MurotalMR/103.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",104. Al-Humazah (Pengumpat)
-https://archive.org/download/MurotalMR/104.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",105. Al-Fiil (Gajah)
-https://archive.org/download/MurotalMR/105.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",106. Quraisy (Kaum Quraisy)
-https://archive.org/download/MurotalMR/106.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",107. Al-Ma'un (Barangan Berguna)
-https://archive.org/download/MurotalMR/107.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",108. Al-Kauthar (Sungai Di Syurga)
-https://archive.org/download/MurotalMR/108.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",109. Al-Kafirun (Golongan Kafir)
-https://archive.org/download/MurotalMR/109.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",110. An-Nasr (Pertolongan)
-https://archive.org/download/MurotalMR/110.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",111. Al-Masad / Al-Lahab (Nyalaan Api)
-https://archive.org/download/MurotalMR/111.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",112. Al-Ikhlas (Tulus Ikhlas / Memurnikan)
-https://archive.org/download/MurotalMR/112.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",113. Al-Falaq (Waktu Subuh / Dinihari)
-https://archive.org/download/MurotalMR/113.mp3
-#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",114. An-Naas (Manusia)
-https://archive.org/download/MurotalMR/114.mp3
 
