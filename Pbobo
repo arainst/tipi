@@ -3074,142 +3074,211 @@ https://ichinime.4meplayer.pro/hls/uK751QcrA_wN9enoJY2UQQ/js/mehdg3pz/uapeq6/tt/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSHR5I-JxAL5okyPnTe2fLZE-YmbmXRSIuZmy_Y_PTZg&s=10" group-title="MOVIE SATURDAY", the drama 2026
 https://ichinime.4meplayer.pro/hls/4IlNB1A781pwUU2NpsnvnQ/6hf/nc3fjo1x/hco93b/tt/index-f1-v1-a1.m3u8?v=1766826492
 
+baru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQK87dD9ag52ip4pY5uIXbf4V0E0OsNeCbBRd_nrigew&s=10" group-title="MOVIE SATURDAY", wasteman 2026
-https://ichinime.4meplayer.pro/hls/OhWNtqQGzqTzNIsJbzrCfQ/jcp/nc3fjo1x/361ahl/tt/index-f2-v1-a1.m3u8?v=1766826492
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfrG1A1loCbiQoIDeftKqj3Xh1r5Gz3evtakVpRTdHYg&s=10" group-title="MOVIE SATURDAY", the wonderers 2026
-https://ichinime.4meplayer.pro/hls/DdeOzmB3NOkP493wCOu2IA/hld/nc3fjo1x/s3dk5a/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-b8__OGdMnqjT_0HshXUh4bFlUoc93pISGRXf5E3nPg&s=10" group-title="MOVIE SATURDAY", tom clancy javk ryan. ghost war 2026
+https://ichinime.4meplayer.pro/hls/IhKGMtMpmZ7QvUfO_Wk_Tw/61/dq8zrle8/xd1soq/tt/index-f1-v1-a1.m3u8?v=1766826492
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk11zXwXM8L9OBo0pa9eMg5rEwPwAp7xjET_pCj-ygLg&s" group-title="MOVIE SATURDAY", the whisper 2026
-https://s6d.ecofriendlytech.shop/v4/np/ha9uw/index-f1-v1-a1.txt
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsog-rdach9l5Yf6sijqCMB2-2OHTifkaZfRXZk4Xq3w&s=10" group-title="MOVIE SATURDAY", night stage 2026
+https://ichinime.4meplayer.pro/hls/cbFSxEFHtQeCbMCE4LTB4g/s93/9dr5kv6v/d1kwwd/tt/index-f1-v1-a1.m3u8?v=1766826492
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm2JWCMTNVGZufzbnXBFSp1TGI_wbYd-wXxNf5vYUlNA&s" group-title="MOVIE SATURDAY", all greens 2026
-https://ichinime.4meplayer.pro/hls/2CkmC4T_5YYXtv2hcxZnAw/rw/nc3fjo1x/qxatxr/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKRgWxIMp0-Bw2NBMTum9ikFIMGQ-Pdhr-JAVeFA8qzQ&s=10" group-title="MOVIE SATURDAY", the plastic men 2026
+https://ichinime.4meplayer.pro/hls/FNknCi9dJ3ZGFVU33HEL1w/hld/dq8zrle8/6jb9uu/tt/index-f1-v1-a1.m3u8?v=1766826492
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDAPaLjEUlJ4gy9f2io7pn70q_uD7Ar5KJ4lbqQg9IOg&s=10" group-title="MOVIE SATURDAY", a werewolf boy 2026
-https://ichinime.4meplayer.pro/hls/ITtcP3rxOmlqqrOs9Cq9Nw/ck/b6iux89s/hcle8y/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdY7HnW_s1AwFZlLOFDvmNRBon0wcZtvnFxwaXq_XCwg&s=10" group-title="MOVIE SATURDAY", suka duka tawa 2025
+https://ichinime.4meplayer.pro/hls/Q0gFhvwA4rpe14XSBzAYdg/us/dq8zrle8/iqxku6/tt/index-f1-v1-a1.m3u8?v=1766826492
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv6yPqgv4uyT049QNMzIMgleBOUObIpUtCxjrSk_HpzQ&s=10" group-title="MOVIE SATURDAY", kraken 2026
-https://ichinime.4meplayer.pro/hls/EoKYNu2TLvIXr3WdkmSksg/epu/b6iux89s/gnink8/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTKX2uV8n86zSecFiweTIquM1KhAidrg8OFqlSf_ZehA&s=10" group-title="MOVIE SATURDAY", the nonsense 2026
+https://ichinime.4meplayer.pro/hls/e3ds-r8oBneA_3AbOZClCQ/mf/xieomdsh/6j1vc6/tt/index-f1-v1-a1.m3u8?v=1766826492
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJQj3sC4kDaXoa_hsicDXyLz0LUMtFZXhoqq-fpLZkQ&s=10" group-title="MOVIE SATURDAY", modual nekad 2026
-https://ichinime.4meplayer.pro/hls/kTneIN1yD1FoqT0oNHuLYQ/hld/mehdg3pz/jyo956/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEyOUexzd26ZaDd6B4MiYK-KpwxImUUdjp6Di9EilRPA&s=10" group-title="MOVIE SATURDAY", lee cronins the mummy 2026
+https://ichinime.4meplayer.pro/hls/UkSYNPqu1WUCeLo1YEzZiQ/tab/xieomdsh/iqfa3n/tt/index-f1-v1-a1.m3u8?v=1766826492
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw3JBGy26k7iUVmiDo87twHsoVPIjBLXeWxG9RrPPd-w&s=10" group-title="MOVIE SATURDAY", je m'appelle agnete 2026
-https://ichinime.4meplayer.pro/hls/-5Cc4NRKHUNDB8fBt7Dwjw/mf/mehdg3pz/5i8n1r/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu0hCXcc9QdZpH-v1BzL3UjZSxAGPaPmCtpSdKe2lLSA&s" group-title="MOVIE SATURDAY", things unspoken 2026
+https://ichinime.4meplayer.pro/hls/leiMxPYgTbMy7xH9hUQeqg/s93/6spnia66/bo5if6/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAfuWxO5Z-6UWT8o9geOhLdCWQYGVIUEB9UvImp9EeRw&s=10" group-title="MOVIE SATURDAY", janur ireng. sewudino the prequel 2025
-https://ichinime.4meplayer.pro/hls/51qZSKk00S5S5R79X60WUQ/qu/mehdg3pz/95h6rc/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC06m7ubKfbm6-1G73gSeHjsZ0dbyozVeAGGNfluTtGA&s=10" group-title="MOVIE SATURDAY", in the grey 2026
+https://ichinime.4meplayer.pro/hls/9NaGQZw_sEXlmcgmM4qvLA/mik/skucppez/rfei6m/tt/index-f1-v1-a1.m3u8?v=1766826492
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrgA3nhzzh7BgtCLsf-pDvkSSNYBUEO1mq5yxuK4ZkzQ&s=10" group-title="MOVIE SATURDAY", forbidden fruits 2026
-https://ichinime.4meplayer.pro/hls/zhWXkdsLtaWEDjaDGAX8ew/pk8/unjaocjn/xozj1k/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUC715mILArrS1DniElMB7tGkPyZjFy8xJvOKGgysCA&s" group-title="MOVIE SATURDAY", silver star 2025
+https://ichinime.4meplayer.pro/hls/AxH7DIuI8rKwEKSlKWkSOQ/ox/krnvuyuf/cgli8m/tt/index-f1-v1-a1.m3u8?v=1766826492
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRSc5iYhX64rK6orqvr9xl74bKpTgXJGxYsvmHXfVyug&s=10" group-title="MOVIE SATURDAY", the wolf and the lamb 2026
-https://ichinime.4meplayer.pro/hls/tOMVbjfJ3dD1kuIVCANKyw/36/wybszpqr/8x9oi8/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTynVlAuwgcPdNklZr1Gv3ANvpRQ7JJE_4zDm7qztUTQ&s=10" group-title="MOVIE SATURDAY", panor 2025
+https://ichinime.4meplayer.pro/hls/Wb8HRSe57SuTlWJA1w5w_w/rqz/wybszhqc/ptfvhs/tt/index-f1-v1-a1.m3u8?v=1766826492
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRqYsBVseml4HuHny7ZyqBT0xfNdigPMe9n0UV4EBsA&s=10" group-title="MOVIE SATURDAY", captain tsunami 2025
-https://ichinime.4meplayer.pro/hls/vmf6XgIjz0qo3w8MvRFBjQ/miy/wybszpqr/nfs9yh/tt/index-f1-v1-a1.m3u8?v=1766826492
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLH3EqcgOFNnGhYqw_sq9-nIp_Kg9Ol5CWFv87TsWP4g&s=10" group-title="KOLEKSI", 1 the hobbit. an unaxpacted journey 2012
-https://ichinime.4meplayer.pro/hls/fUM6ZBKnH_qzuXyzj6U8TA/is9/9dr5kx6z/ij3dbl/tt/index-f2-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxkUU2fTrddJF_qou_u0U_0PlOcAO0E-59BCNY4MnAg&s=10" group-title="MOVIE SATURDAY", panor 2 2026
+https://ichinime.4meplayer.pro/hls/8XjCO3qx5LI-QBXHgUHLCg/pk8/wybszhqc/d16yo3/tt/index-f1-v1-a1.m3u8?v=1766826492
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJr5OdCmpm07SMy-CDR6Y-uXcQv1lH3rQn2h8NErOLA&s=10" group-title="KOLEKSI", 2 the hobbit. the desolation of smaug 2013
-https://ichinime.4meplayer.pro/hls/--FJn0_mftsRsYhmRE45vw/jcp/1xmlfz6h/bunlzt/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVf174I0ESFyVtPBqPoyfGw_InCp2PnKNFTF16CqETBg&s=10" group-title="MOVIE SATURDAY", an enemy within 2025
+https://ichinime.4meplayer.pro/hls/1wm8rvjMSID97dblOcIWBg/ck/wybszhqc/tikh8q/tt/index-f1-v1-a1.m3u8?v=1766826492
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmi5bJD8t7Y5sdOodZpmjg14MzPXP1qprmko-hDGwrg&s=10" group-title="KOLEKSI", 3 the hobbit. the battle of the five armies 2014
-https://ichinime.4meplayer.pro/hls/i9PKTcSFsSqqqRk1votHvA/ox/9dr5kx6z/kv13so/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkgownM2c9VMkBGhOp_28XDtdXkIsQulHwnBwD1Zy9JQ&s=10" group-title="MOVIE SATURDAY", a great awakening 2026
+https://s8n.goldenfieldcreativehub.sbs/v4/tab/3jzhy/index-f1-v1-a1.txt
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6GUh5gH58sR-JjAWF8w1vOZtPSMMJxScyYVj6YY3inA&s=10" group-title="KOLEKSI", 4 tlotr. the fellowship of the ring 2001
-https://ichinime.4meplayer.pro/hls/-TZ02HyU5g06NbH59UbW4w/bgm/r8c1nmnf/nangeg/tt/index-f2-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPt2uXboosKuGijrJ-FzRkpvbyblYuNsEFy6K4Z4kV9A&s=10" group-title="MOVIE SATURDAY", positions 2025
+https://s6d.harbortrailproductionlab.cyou/v4/ck/xpcgg/index-f1-v1-a1.txt
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsTh_Z57975_McK43Te0NmW4W96Hjby1MQ11GnaCuBpg&s=10" group-title="KOLEKSI", 5 tlotr. the two towers 2002
-https://ichinime.4meplayer.pro/hls/7GREETqh63cZPTgpTOixXg/n8l/fmg9yacp/nwmzwd/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAwWJSPX4e_6DBgABgfMeFu3N1dvSUeL3ebAc98JIemw&s=10" group-title="MOVIE SATURDAY", asih 2018
+https://ichinime.4meplayer.pro/hls/76DHywaHfEPFLwsg0bChpA/js/wybszhqc/pt1u1y/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRejjD4YlkwdSeiLnG8d4MdEYYcF5n11-3LgTtrOkRIOw&s=10" group-title="KOLEKSI", 6 tlotr. the return of the king 2003
-https://ichinime.4meplayer.pro/hls/zmr93QwjMqEPuhanbGiB2w/vz/ghsr6zxu/cfc81k/tt/index-f2-v1-a1.m3u8?v=1766826492
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSCb7BCiVjkeVTouU5X1d_h9AGZ5fJRpJ_VTZ3UH8zwQ&s" group-title="SERIES", legecy of monsters s2 ep1
-https://ichinime.4meplayer.pro/hls/JugKSZIQmpE6UO4zgxGX9g/6hf/5z1ivqbn/mu5kt8/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYgWYaqMFhUJuk_Mi7uDE1UgcEF7JnUufo0YiDHd3Nlw&s=10" group-title="MOVIE SATURDAY", asih 2 2020
+https://ichinime.4meplayer.pro/hls/zZca9ScAOZv1ZUMkv0VNlw/pp/puo3lvkf/iqvpak/tt/index-f1-v1-a1.m3u8?v=1766826492
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSCb7BCiVjkeVTouU5X1d_h9AGZ5fJRpJ_VTZ3UH8zwQ&s" group-title="SERIES", legecy of monsters s2 ep2
-https://ichinime.4meplayer.pro/hls/1glXCPyw3Sj_u4tgae4KPg/5w3/afyhwv5v/lchbkz/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVrLva7JFoqJ-BqZaA6TePX4JC71hm_5uT4bJcJQGGeA&s=10" group-title="MOVIE SATURDAY", alas roban 2026
+https://ichinime.4meplayer.pro/hls/AhOBTtFVlwtGShcWpw1O2A/k5/r8c1nmnf/5mkdkz/tt/index-f1-v1-a1.m3u8?v=1766826492
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSCb7BCiVjkeVTouU5X1d_h9AGZ5fJRpJ_VTZ3UH8zwQ&s" group-title="SERIES", legecy of monsters s2 ep3
-https://ichinime.4meplayer.pro/hls/JugKSZIQmpE6UO4zgxGX9g/6hf/5z1ivqbn/mu5kt8/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnlb6ALf8bxeg9BohqIFyxFXfubBZ68L78_rVVXkzx8A&s=10" group-title="MOVIE SATURDAY", musuh dalam selimut 2026
+https://ichinime.4meplayer.pro/hls/iHW-rZ81Hol1EUwQFHKgFw/ek/yg6kbmwh/xdqchp/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSCb7BCiVjkeVTouU5X1d_h9AGZ5fJRpJ_VTZ3UH8zwQ&s" group-title="SERIES", legecy of monsters s2 ep4
-https://ichinime.4meplayer.pro/hls/9iToa_uVrJZyXm3J4s85uA/hz/lodt9oei/6rjd15/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQQb0CRQuucJm4MwzxP87eEumPpbeOgNsCD0Msrh8oCg&s=10" group-title="MOVIE SATURDAY", the crash 2026
+https://ichinime.4meplayer.pro/hls/SCQi7ymIGdUILGJDaukrTQ/9a/dq8zrle8/cgrtgi/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSCb7BCiVjkeVTouU5X1d_h9AGZ5fJRpJ_VTZ3UH8zwQ&s" group-title="SERIES", legecy of monsters s2 ep5
-https://cloud.hownetwork.xyz/xxx/LxcnLzcaH2wuNBAtIEl7NS0WOjogCwRsMTQWPyxee2pvHTknNhYTJG9kWn5zAmV1FT0LCgkmLx57YEMvcwEyaw/40/480.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2j10Y30bot26fkRU6OVHBVcSoqfOOyjVumHobFksFHA&s=10" group-title="MOVIE SATURDAY", mortal kombat 2 2026
+https://ichinime.4meplayer.pro/hls/Op6jP1ka2hsY5WE8AhB5Jg/mik/dq8zrle8/tijvg3/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 type="movie" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq52HlDFzKjE87lxgUUhVC4ddznSxNFvyvXlfmQSCg4Q&s=10" group-title="SERIES TLOTH"
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSCb7BCiVjkeVTouU5X1d_h9AGZ5fJRpJ_VTZ3UH8zwQ&s" group-title="SERIES", legecy of monsters s2 ep6
-https://ichinime.4meplayer.pro/hls/-cWmGGkcSyf20F0qWjYfNQ/vz/b6iuxu93/hqi3l8/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq52HlDFzKjE87lxgUUhVC4ddznSxNFvyvXlfmQSCg4Q&s=10" group-title="SERIES TLOTH", TLOTH. Ring of power S1 EP 1
+https://ichinime.4meplayer.pro/hls/n_xnuZjhOAgGI_dvsF6V2A/sc/9dr5kx6z/mdquum/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq52HlDFzKjE87lxgUUhVC4ddznSxNFvyvXlfmQSCg4Q&s=10" group-title="SERIES TLOTH", TLOTH. Ring of power S1 EP 2
+https://ichinime.4meplayer.pro/hls/y6V3ra4nHwxt2ktPAFWz3w/ho/ojqwd5sk/p3a8co/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq52HlDFzKjE87lxgUUhVC4ddznSxNFvyvXlfmQSCg4Q&s=10" group-title="SERIES TLOTH", TLOTH. Ring of power S1 EP 3
+https://ichinime.4meplayer.pro/hls/cYMhecG4ZRknNB3uRfRfZA/urp/zbxp1use/vel6ix/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq52HlDFzKjE87lxgUUhVC4ddznSxNFvyvXlfmQSCg4Q&s=10" group-title="SERIES TLOTH", TLOTH. Ring of power S1 EP 4
+https://ichinime.4meplayer.pro/hls/nU_EwFAMLDLHEylzSfw2fQ/db/el9qhpk3/t6smg6/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq52HlDFzKjE87lxgUUhVC4ddznSxNFvyvXlfmQSCg4Q&s=10" group-title="SERIES TLOTH", TLOTH. Ring of power S1 EP 5
+https://s6d.retailenablement.shop/v4/pk8/pipsd/index-f1-v1-a1.txt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq52HlDFzKjE87lxgUUhVC4ddznSxNFvyvXlfmQSCg4Q&s=10" group-title="SERIES TLOTH", TLOTH. Ring of power S1 EP 6
+https://ichinime.4meplayer.pro/hls/VSJvrVHfQ9DiDJDUPL3hsQ/8q/krnvuxuq/ij3rna/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq52HlDFzKjE87lxgUUhVC4ddznSxNFvyvXlfmQSCg4Q&s=10" group-title="SERIES TLOTH", TLOTH. Ring of power S1 EP 7
+https://s8n.petloversessentials.shop/v4/hl1/jujn3/index-f2-v1-a1.txt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq52HlDFzKjE87lxgUUhVC4ddznSxNFvyvXlfmQSCg4Q&s=10" group-title="SERIES TLOTH", TLOTH. Ring of power S1 EP 8
+https://ichinime.4meplayer.pro/hls/wryTRHFjp9_YVLWU9l4sPw/is3/zbxp1use/6ncdno/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 type="movie" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFPXQRjv1jMblNFmCebffoRUuMTThmaMo5kMkTE3jsA&s=10" group-title="SERIES TLOTH S2"
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSCb7BCiVjkeVTouU5X1d_h9AGZ5fJRpJ_VTZ3UH8zwQ&s" group-title="SERIES", legecy of monsters s2 ep7
-https://ichinime.4meplayer.pro/hls/EmJh2pgt68mKe-eIZsBmQA/us/xieomnsk/t618qt/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFPXQRjv1jMblNFmCebffoRUuMTThmaMo5kMkTE3jsA&s=10" group-title="SERIES TLOTH S2", EP 1
+https://ichinime.4meplayer.pro/hls/fn9-hR4HXBZMocJ-_M8Cdg/db/1xmlfz6h/mdqudn/tt/index-f2-v1-a1.m3u8?v=1766826492
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFPXQRjv1jMblNFmCebffoRUuMTThmaMo5kMkTE3jsA&s=10" group-title="SERIES TLOTH S2", EP 2
+https://ichinime.4meplayer.pro/hls/Wml9RewUQPLJeye1zBGl8A/61/1xmlfz6h/p3a83v/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFPXQRjv1jMblNFmCebffoRUuMTThmaMo5kMkTE3jsA&s=10" group-title="SERIES TLOTH S2", EP 3
+https://ichinime.4meplayer.pro/hls/ivDJm6mw0u0OFsmMzIneIQ/jcp/krnvuxuq/kv1tvf/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFPXQRjv1jMblNFmCebffoRUuMTThmaMo5kMkTE3jsA&s=10" group-title="SERIES TLOTH S2", EP 4
+https://ichinime.4meplayer.pro/hls/QNiz6XybgiNPN784EQvAbw/q3o/el9qhpk3/xojkov/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFPXQRjv1jMblNFmCebffoRUuMTThmaMo5kMkTE3jsA&s=10" group-title="SERIES TLOTH S2", EP 5
+https://ichinime.4meplayer.pro/hls/FrJ1_x7D1vs2Yal7h1ESPw/jcp/krnvuxuq/jyg1yo/tt/index-f2-v1-a1.m3u8?v=1766826492
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFPXQRjv1jMblNFmCebffoRUuMTThmaMo5kMkTE3jsA&s=10" group-title="SERIES TLOTH S2", EP 6
+https://ichinime.4meplayer.pro/hls/iAnAdPdoEXyYm-B1t4Vk6A/db/krnvuxuq/mdquri/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFPXQRjv1jMblNFmCebffoRUuMTThmaMo5kMkTE3jsA&s=10" group-title="SERIES TLOTH S2", EP 7
+https://s8n.aurorionconsultancy.site/v4/vz/ijih8/index-f1-v1-a1.txt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFPXQRjv1jMblNFmCebffoRUuMTThmaMo5kMkTE3jsA&s=10" group-title="SERIES TLOTH S2", TLOTH. EP 8
+https://ichinime.4meplayer.pro/hls/DREXeJ2bBj_1xQQmc5tW-w/9a/1xmlfz6h/eqtn8q/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 type="movie" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLSs0KI1tAimagbGzMjeVnQ6JKwJjsSuI1dbnVc_h2ew&s=10" group-title="SERIES Bloodhounds"
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSCb7BCiVjkeVTouU5X1d_h9AGZ5fJRpJ_VTZ3UH8zwQ&s" group-title="SERIES", legecy of monsters s2 ep8
-https://ichinime.4meplayer.pro/hls/L-zo46SRWLdryo2GFJ14Ng/6s/ghsr6sxo/jybhud/tt/index-f1-v1-a1.m3u8?v=1766826492
-
-
-
-
-
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLSs0KI1tAimagbGzMjeVnQ6JKwJjsSuI1dbnVc_h2ew&s=10" group-title="SERIES Bloodhounds", EP 1
+https://ichinime.4meplayer.pro/hls/cPwvBTu2iNqoFvI_s0mfBQ/luy/xieomnsk/mdhbdj/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLSs0KI1tAimagbGzMjeVnQ6JKwJjsSuI1dbnVc_h2ew&s=10" group-title="SERIES Bloodhounds", EP 2
+https://ichinime.4meplayer.pro/hls/RUu7AsNOLkA0hwwKgbVrLw/ic/ipljeq8a/ijlgjz/tt/index-f2-v1-a1.m3u8?v=1766826492
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLSs0KI1tAimagbGzMjeVnQ6JKwJjsSuI1dbnVc_h2ew&s=10" group-title="SERIES Bloodhounds", EP 3
+https://ichinime.4meplayer.pro/hls/JDdNZSwP3Vu6WdenEk9jqA/ek/xieomnsk/ltdsti/tt/index-f2-v1-a1.m3u8?v=1766826492
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLSs0KI1tAimagbGzMjeVnQ6JKwJjsSuI1dbnVc_h2ew&s=10" group-title="SERIES Bloodhounds", EP 4
+https://ichinime.4meplayer.pro/hls/S6vZ16LfhwI9kbidzqo2-g/mik/ipljeq8a/cmaqmq/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLSs0KI1tAimagbGzMjeVnQ6JKwJjsSuI1dbnVc_h2ew&s=10" group-title="SERIES Bloodhounds", EP 5
+https://ichinime.4meplayer.pro/hls/_dGJmG9L9Tue7xTn22lnog/rw/ipljeq8a/mdhbre/tt/index-f2-v1-a1.m3u8?v=1766826492
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLSs0KI1tAimagbGzMjeVnQ6JKwJjsSuI1dbnVc_h2ew&s=10" group-title="SERIES Bloodhounds", EP 6
+https://ichinime.4meplayer.pro/hls/bwEjZyy48owZnN7NuTk84A/36/ipljeq8a/p3ohtn/tt/index-f2-v1-a1.m3u8?v=1766826492
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLSs0KI1tAimagbGzMjeVnQ6JKwJjsSuI1dbnVc_h2ew&s=10" group-title="SERIES Bloodhounds", EP 7
+https://ichinime.4meplayer.pro/hls/x-21XikYSZc97MxAZOht9w/m9/6spnil6i/t6zcih/tt/index-f2-v1-a1.m3u8?v=1766826492
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLSs0KI1tAimagbGzMjeVnQ6JKwJjsSuI1dbnVc_h2ew&s=10" group-title="SERIES Bloodhounds", EP 8
+https://ichinime.4meplayer.pro/hls/7UhhsosIXs32bEmJnWyE7w/ek/xieomnsk/mdhbrq/tt/index-f1-v1-a1.m3u8?v=1766826492
 
 ===================================== INFORMASI ===================================
 
@@ -3381,6 +3450,6 @@ https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/0f5clvxn6o/out
 https://cdn-seachange-prod-01.vos360.video/Content/DASH/Live/channel(b3278dd9-ffd3-cfcc-f35b-fdbfeb006100)/master.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c4/b7/48/c4b74881b961cb2f2d26bc1dfe355e3a.jpg" group-title="INFORMASI🔵🔵🔵🔵", REQUEST HANYA BERLAKU 24 JAM PEMUTARAN FILM
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c4/b7/48/c4b74881b961cb2f2d26bc1dfe355e3a.jpg" group-title="INFORMASI🔵🔵🔵🔵", SILAHKAN REQUEST movie (tahun)
 https://raw.githubusercontent.com/Cutsiffa/Movyyy/refs/heads/main/M1.mp4
 
