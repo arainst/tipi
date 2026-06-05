@@ -2415,6 +2415,12 @@ https://tvratu.my.id/vid/index.mpd?id=21593&type=dash
 
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Spstar1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN", EVEN 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=21610&type=drm
+https://tvratu.my.id/vid/index.mpd?id=21610&type=dash
+
 http://mkctvnew.my.id/u23.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN", EVEN 8 SC
 http://103.66.62.83:8000/play/a00z/index.m3u8
