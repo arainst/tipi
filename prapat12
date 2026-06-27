@@ -1944,17 +1944,16 @@ https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/F1.m3u8
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 #EXTINF:-1 group-title="MOTOGP FEED" tvg-id="" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg", CH 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
 
 #EXTINF:-1 group-title="MOTOGP FEED" tvg-id="" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg", CH 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
-https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
+https://master3.hdtvs1.top/hls/0/stream.m3u8
 
 #EXTINF:-1 group-title="MOTOGP FEED" tvg-id="" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg", CH 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1966,11 +1965,16 @@ https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/LC/Lcham2.m3u8
 
 #EXTINF:-1 group-title="MOTOGP FEED" tvg-id="" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg", CH 5
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a47994d99d44eeaba5e015a41dc3085:4aa9da8d82cb4edfc3f558857453d6ed
-https://cdn08jtedge.indihometv.com/dassdvr/130/beib2/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17140&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=17140&type=dash
 
 ========================================================= INDOEVEN ===================================================
 
@@ -2223,6 +2227,97 @@ https://drive.usercontent.google.com/download?id=1bl_Hvn8EQkZz8vw-kkzQ3QEhaDaU9a
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ6kijyTUPE8oQXabE4IDf5cW5w-jr-TuRM0yIE1xeVw&s=10" group-title="NEW UPDATE", dinosaur hunt 2026
+https://snq.freshfoodmarket.space/v4/q3o/wizzm9/index-f2-v1-a1.txt?t=4710e7060c03289ff1f255bd&e=1765241578
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Kbp8eQl60MYag1w6VlXCZtAWYxaHPybYSuNdyjqNvQ&s" group-title="NEW UPDATE", passenger 2026
+https://fastdl.p2pstream.online/hls/M9XcQDE1pWiL9ogrmF8ccw/3vi/ojqwdpsm/9azevd/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhfhWk1UM5-aF-6fwnMSUPZ-QmVadc0-qv7UuukMa-w&s=10" group-title="NEW UPDATE", the bosk 2026
+https://spx.publicidentity.cyou/v4/5w3/tussfo/index-f2-v1-a1.txt
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgjAQv98WQ6JeyEjF0-qNB01PlydK8We4kYCUVb0MABw&s=10" group-title="NEW UPDATE", shutter 2025
+https://svz.petcareworld.shop/v4/xq/fvy6xt/index-f1-v1-a1.txt?t=1a773868f7080bd2b3e79c45&e=1765241578
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8lyqSV1MP_llIFALeASz6V6pDQEt6rvRj6ya4-hvfCw&s=10" group-title="NEW UPDATE", sosok ketiga lintrik 2025
+https://fastdl.p2pstream.online/hls/7qC4yMFeaew2zWd_t6_cdA/sc/9dr5kb6i/s855eh/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9AfCbc27MbQag2Hnu1BDUQumYFNeuk4chotlq6jUJvg&s=10" group-title="NEW UPDATE", do not open 2026
+https://s5r.fitnessjourneyproducts.shop/v4/c5u/afu5fq/index-f1-v1-a1.txt?t=1a773868f7080bd2b3e79c45&e=1765241578
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHkYnJy9mfrUXQrnHxMThn1lXVooefI2smyC0oj5hnOQ&s=10" group-title="NEW UPDATE", apex 2026
+https://fastdl.p2pstream.online/hls/o8r13z7Egsns5_PMdhfbKg/is3/cvam3f5i/ltysqn/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAfuWxO5Z-6UWT8o9geOhLdCWQYGVIUEB9UvImp9EeRw&s=10" group-title="NEW UPDATE", janur ireng 2025
+https://fastdl.p2pstream.online/hls/LrbYGepc0UXn8XQsaWK2_g/ic/cvam3f5i/vh11bc/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKh8fTq_n7TLfcvVQxRoIsH7LNXkVagflorXdxyomybg&s=10" group-title="NEW UPDATE", the cursed mask 2026
+https://s6mb.ethernix.cyou/v4/m9/wi6g6d/index-f1-v1-a1.txt?t=1a773868f7080bd2b3e79c45&e=1765241578
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTptHbikSGg91wI7eeBr44i14d05-O1bHkNahwriA9Nlg&s=10" group-title="NEW UPDATE", mudborn 2025
+https://soq.ecofriendlylife.shop/v4/jcp/idz3zz/index-f1-v1-a1.txt?t=1a773868f7080bd2b3e79c45&e=1765241578
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjEC_wqhgxowhMnM5yvP2rRAIjNfgpfmBFnv2in-zegQ&s=10" group-title="NEW UPDATE", masters ot the universe 2026
+https://fastdl.p2pstream.online/hls/LmLC3z2hYhyn9kzUZkMpKg/rqz/dq8zrne3/mrxfse/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS3nLfQva_Tr8BTy7kDmvKcEARpet95G_mSzKV7aThYA&s=10" group-title="NEW UPDATE", space ranger. new world 2026
+https://snq.ascentivehub.shop/v4/sc/f16buh/index-f1-v1-a1.txt?t=1a773868f7080bd2b3e79c45&e=1765241578
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRMzrW2IVUSH66CJq7DG0FQK2VFobcFGXeN9M8Xgjj1Q&s=10" group-title="NEW UPDATE", the punisher one last kill 2026
+https://fastdl.p2pstream.online/hls/G-YOwPKi57KJaz72Qce7Mw/np/9dr5kb6i/iq3ksp/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGVQs5HNuKrkGHeIjPSd-0th4_cKve2DlHBHz6ptEDNQ&s=10" group-title="NEW UPDATE", the furious 2026
+https://fastdl.p2pstream.online/hls/URNlDX_bdE75ZBdYa35paw/3vi/ojqwdpsm/xrzkyf/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQosLAREHsdvoIDMhm6rtcwo0-0IPK56sCpWlRlHwCIHA&s=10" group-title="NEW UPDATE", the demon prince 2025
+https://sy6.digitalfutureworld.site/v4/61/ke9bmy/index-f2-v1-a1.txt
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVxY0SeOogOHDvWz8x5KbjQCDw4jbz-IPb2HOZ4DGnvg&s=10" group-title="NEW UPDATE", mortal combat 2 2026
+https://fastdl.p2pstream.online/hls/yiojn_iiIDxkEHRD2THG1A/ck/ojqwdpsm/vsuy83/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpZDQTjDP3ADzJY-WiSvzhUmVlnXbaCtLrKoWUhOZQWQ&s=10" group-title="NEW UPDATE", colony 2026
+https://sad.digitalfutureworld.site/v4/qu/nfhxp1/index-f1-v1-a1.txt?t=1a773868f7080bd2b3e79c45&e=1765241578
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZLczorV9z4mkutcvzNwWssmKiLQfkeooX2calZX9SLw&s" tvg-logo="mmm" group-title="NEW UPDATE", system 2026
+https://sad.ellionhealth.cyou/v4/s93/bgu5k9/index-f2-v1-a1.txt
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQnkapobjb_5fwfdC2YryPjTwmooJ8HLLcQIs0Aomi0A&s=10" group-title="MOVIE SATURDAY", the sheep detective 2026
 https://ichinime.4meplayer.pro/hls/jBKtwYikg5b20_cqx8Kp8w/ty/5z1ivvbc/h38ynf/tt/index-f1-v1-a1.m3u8?v=1766826492
 
@@ -2326,48 +2421,6 @@ https://ichinime.4meplayer.pro/hls/qPnFKe1OoDCupAvrytlIog/rqz/wybszhqp/nb36qo/tt
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4MczDu_rt6P4DISiF1JyLw4pZgScblHnaiZ_QGjcZ7A&s=10" group-title="SERIES GOLD LAND S1", ep10
 https://203.188.166.97/v4/cBbm65WZf0itArVqStCI_w/1781956741/tab/auqtp/index-f1-v1-a1.m3u8?v=1779958925
 https://ichinime.4meplayer.pro/hls/6LjghJVTgJgXV63QCNflxw/tab/ghsr6lxd/uzjbdu/tt/index-f1-v1-a1.m3u8?v=1766826492
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpCTgkw0H0JuyBQkAiQ5argXxbVrzbSfHLWJRJvcrujw&s=10" group-title="SERIES SPIDER NOIR", ep1
-https://s8n.aurorionacademy.cfd/v4/n8l/x53pj/index-f2-v1-a1.txt
-https://ichinime.4meplayer.pro/hls/xDU6O3FgdtgWtHB2KYiVsQ/n8l/wybszhqp/i8lt1n/tt/index-f1-v1-a1.m3u8?v=1766826492
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpCTgkw0H0JuyBQkAiQ5argXxbVrzbSfHLWJRJvcrujw&s=10" group-title="SERIES SPIDER NOIR", ep2
-https://svb.harborviewdesignworks.cyou/v4/n8l/icusg/index-f2-v1-a1.txt
-https://ichinime.4meplayer.pro/hls/3OfCoMWmhhoHaVlj2RdVtw/n8l/wybszhqp/c6ahus/tt/index-f1-v1-a1.m3u8?v=1766826492
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpCTgkw0H0JuyBQkAiQ5argXxbVrzbSfHLWJRJvcrujw&s=10" group-title="SERIES SPIDER NOIR", ep3
-https://svb.digitalhealthhub.space/v4/js/yjcrf/index-f2-v1-a1.txt
-https://ichinime.4meplayer.pro/hls/UjjQGfQ-YCtVA38MM7zV4Q/js/wybszhqp/bdij51/tt/index-f1-v1-a1.m3u8?v=1766826492
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpCTgkw0H0JuyBQkAiQ5argXxbVrzbSfHLWJRJvcrujw&s=10" group-title="SERIES SPIDER NOIR", ep4
-https://s6d.harborviewdesigncollect.cyou/v4/s93/qxvei/index-f1-v1-a1.txt
-https://ichinime.4meplayer.pro/hls/4VBrMzJBG9OFiwZg9mkA1g/s93/ojqwdwsd/gjscwx/tt/index-f1-v1-a1.m3u8?v=1766826492
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpCTgkw0H0JuyBQkAiQ5argXxbVrzbSfHLWJRJvcrujw&s=10" group-title="SERIES SPIDER NOIR", ep5
-https://svb.lakesidecreativeatelier.sbs/v4/np/9rsxe/index-f1-v1-a1.txt
-https://ichinime.4meplayer.pro/hls/yxn1l43d3k-XH6ZfOqnhBQ/np/ojqwdwsd/p5owmr/tt/index-f2-v1-a1.m3u8?v=1766826492
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpCTgkw0H0JuyBQkAiQ5argXxbVrzbSfHLWJRJvcrujw&s=10" group-title="SERIES SPIDER NOIR", ep6
-https://svb.mindspirelab.sbs/v4/ox/1yi9i/index-f2-v1-a1.txt
-https://ichinime.4meplayer.pro/hls/IuHFlnYrxQhiRdJBgpPkGw/ox/ojqwdwsd/5h1lnj/tt/index-f1-v1-a1.m3u8?v=1766826492
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpCTgkw0H0JuyBQkAiQ5argXxbVrzbSfHLWJRJvcrujw&s=10" group-title="SERIES SPIDER NOIR", ep7
-https://s8n.clarionventures.cyou/v4/urp/epytf/index-f2-v1-a1.txt
-https://ichinime.4meplayer.pro/hls/bCvUWdj5A_vcM8KXv1qYWw/urp/ojqwdwsd/i8ltys/tt/index-f1-v1-a1.m3u8?v=1766826492
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpCTgkw0H0JuyBQkAiQ5argXxbVrzbSfHLWJRJvcrujw&s=10" group-title="SERIES SPIDER NOIR", ep8
-https://s8n.petloversproducts.site/v4/jcp/5dkap/index-f1-v1-a1.txt
-https://ichinime.4meplayer.pro/hls/V21NgeKZNmNPU9FOnber1A/jcp/ojqwdwsd/jxt6ke/tt/index-f2-v1-a1.m3u8?v=1766826492
 
 ===================================== INFORMASI ===================================
 
