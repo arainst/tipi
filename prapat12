@@ -1544,7 +1544,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/17/02/32/170232bf468b85def47f0bf8559b2533.jpg" group-title="☆OLAHRAGA☆"
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/66/b0/7366b0646aca8ee31104b9cc6b47bd18.jpg" group-title="☆OLAHRAGA☆",Spotv 1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/66/b0/7366b0646aca8ee31104b9cc6b47bd18.jpg" group-title="☆OLAHRAGA☆",Spotv PH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
 #EXTVLCOPT:http-origin=https://cignalplay.com
@@ -1552,21 +1552,23 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/66/b0/7366b0646aca8ee31104b9cc6b47bd18.jpg" group-title="☆OLAHRAGA☆",Spotv 1 sd
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/66/b0/7366b0646aca8ee31104b9cc6b47bd18.jpg" group-title="☆OLAHRAGA☆",Spotv1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/68/09/21/6809211396b0c8dc4a78a7d119cea26f.jpg" group-title="☆OLAHRAGA☆",Spotv 2 sd
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/68/09/21/6809211396b0c8dc4a78a7d119cea26f.jpg" group-title="☆OLAHRAGA☆",Spotv2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/68/09/21/6809211396b0c8dc4a78a7d119cea26f.jpg" group-title="☆OLAHRAGA☆",Spo prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -1574,18 +1576,20 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 https://d39azd0vpxfn6x.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-MuxIP-WPTLive/b20265d5-5ec4-4542-9d60-0d4eacb10c49/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c4/3f/2b/c43f2bd530894be3162cb790dd83fd42.jpg" group-title="☆OLAHRAGA☆",Sportstar 1 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f1/e5/ec/f1e5ecee1a5d54e85a9a1538ea7b70be.jpg" group-title="☆OLAHRAGA☆",Sportstar 2 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/bd/ba/36/bdba3690ab7a99a6c366daa60248b24a.jpg" group-title="☆OLAHRAGA☆",Sportstar 3
 #EXTVLCOPT:http-referrer=https://m.visionplus.id
@@ -1597,23 +1601,21 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/6b/81/b8/6b81b8306be79d634d6789ec1a51bba3.jpg" group-title="☆OLAHRAGA☆",Sportstar 4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://m.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://metahost.biz.id/visiona/drm.license?id=1012
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/be/da/b7/bedab7e01e351457328f87f5a81817fb.jpg" group-title="☆OLAHRAGA☆",Soccer Channel
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/56/67/8d/56678d0bcb87ae24820ed02227f1e56f.jpg" group-title="☆OLAHRAGA☆",Fight Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -2125,25 +2127,18 @@ https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/F1.m3u8
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 #EXTINF:-1 group-title="MOTOGP FEED" tvg-id="" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg", CH 2
-#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 #EXTINF:-1 group-title="MOTOGP FEED" tvg-id="" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg", CH 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
 https://master3.hdtvs1.top/hls/0/stream.m3u8
-
-#EXTINF:-1 group-title="MOTOGP FEED" tvg-id="" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg", CH 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/LC/Lcham2.m3u8
 
 #EXTINF:-1 group-title="MOTOGP FEED" tvg-id="" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg", CH 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -2162,7 +2157,7 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=17140&type=dash
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="☆INDO EVEN"
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN", BADMINTON1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Badmin.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN", BADMINTON2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2242,7 +2237,14 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN", RCT1
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://timeshifting.rctiplus.id/live/eds/backup1/hft/backup1.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN", RCT2
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://timeshifting.rctiplus.id/live/eds/backup2/hft/backup2.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN", FUTSAL 1
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.m3u8
@@ -2250,8 +2252,11 @@ https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/mnc.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN", BRI 1
+https://www.dropbox.com/scl/fi/4mrd5w5x0nsu3cov6jwjj/live.mp4?rlkey=lwjd7wdcs85sg4ysvdr24tlh4&st=qqcwpjpn&dl=1
 https://s.id/Shareext_liga1_m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN", BRI 2
+http://013tv.com:8080/F33848/cbd9779b/162138
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN", BRI 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2313,7 +2318,14 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9353&type=drm
 https://ratuvidio.adptv.workers.dev/index.mpd?id=9353&type=dash
 
+#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",CH 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LIVE ONLY 1
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep4.m3u8
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LIVE ONLY 2
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep5.m3u8
@@ -2654,6 +2666,198 @@ https://fastdl.p2pstream.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/UFopgW7
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5i15DgqyuGnJz6bZpxeCzkcpSLGQwgZH2WclgTpqABg&s=10" group-title="NEW UPDATE", wings of dread 2026
 https://fastdl.p2pstream.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/7hJuR1KmThhuXi274gDEMw/mf/afyhwi5b/qg65js/tt/index-f2-v1-a1.m3u8?v=1766826492
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv11.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZkHm6ng-MrC6FIdzH7rwEs_mi-5d_dKpGenxtmUPaiQ&s=10" group-title="MOVIE SATURDAY", aku sebelum aku 2026 new
+https://fastdl.p2pstream.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/adK9iq2QsGdTUJOFI7mAOw/tab/h9k8s9gp/vpvmze/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv11.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtcWHoTWt5sGd1lr-qGX_0waP8K0t8MyrO6tfUKchZA&s=10" group-title="MOVIE SATURDAY", the oddesy 2026 new
+https://fastdl.p2pstream.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/g8TmfNWgVGV3637RRHRmRQ/9a/3awgtnts/mjbu3c/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv11.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWWvpeiKJxEfWtSkH1hfSWO3kNcPHJEb2pMJpmWNql9A&s=10" group-title="MOVIE SATURDAY", border line 2026 new
+https://fastdl.p2pstream.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/tTNKZNzDPwCM0VTCPKCN-g/rw/yg6kbewl/thtzmc/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv11.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxr9uOh9MlyubC3knr3QpmHADNqU-2zrvX6G0u4Scmyw&s=10" group-title="MOVIE SATURDAY", evil dead burn 2026 new
+https://fastdl.p2pstream.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/u3Vk91BvpVvVV__QMa_FCw/c5u/1xmlf96b/thd3oy/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv11.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSgAQRKyO8xfrLA2WMumPy07I88f810unDVV4zq6Pucg&s=10" group-title="MOVIE SATURDAY", senin harga naik 2026 new
+https://fastdl.p2pstream.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/a1FKf2AhtkUc1acia4ekKg/36/el9qhjkt/tszgbr/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTINF:-1 type="movie" tvg-logo="mmm" group-title="The East Palace S1"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv11.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1piuiQFQg0TgvedvyRlblftbhKRBz-8c2Zrf9GhO-Ew&s=10" group-title="The East Palace S1", Ep1
+https://ichinime.4meplayer.pro/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/DAyhVpWKPU_tAYve5Q4W4Q/x6b/el9qhjkt/thtfce/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv11.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1piuiQFQg0TgvedvyRlblftbhKRBz-8c2Zrf9GhO-Ew&s=10" group-title="The East Palace S1", Ep2
+https://ichinime.4meplayer.pro/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/N-6sElmzQ71TVcVej0onxA/k5/h9k8s9gp/ofocks/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv11.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1piuiQFQg0TgvedvyRlblftbhKRBz-8c2Zrf9GhO-Ew&s=10" group-title="The East Palace S1", Ep3
+https://ichinime.4meplayer.pro/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/ZYHDbDl5QKXVhN9Inq6Fyw/k5/zbxp13sq/hthoig/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv11.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1piuiQFQg0TgvedvyRlblftbhKRBz-8c2Zrf9GhO-Ew&s=10" group-title="The East Palace S1", Ep4
+https://ichinime.4meplayer.pro/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/uznSenDScxQ__Mx9sJLalw/ho/mehdgepu/ciczqq/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv11.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1piuiQFQg0TgvedvyRlblftbhKRBz-8c2Zrf9GhO-Ew&s=10" group-title="The East Palace S1", Ep5
+https://ichinime.4meplayer.pro/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/PRbBahCTy46bN92o3JQtMQ/ho/el9qhjkt/u1u8kr/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv11.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1piuiQFQg0TgvedvyRlblftbhKRBz-8c2Zrf9GhO-Ew&s=10" group-title="The East Palace S1", Ep6
+https://ichinime.4meplayer.pro/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/xmCnDwFbYTnA6qYug0_1PA/k5/el9qhjkt/brbhyp/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv11.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1piuiQFQg0TgvedvyRlblftbhKRBz-8c2Zrf9GhO-Ew&s=10" group-title="The East Palace S1", Ep7
+https://ichinime.4meplayer.pro/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/zS9IwGBoBlAfrSrOicX9mQ/k5/el9qhjkt/gqglmu/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv11.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1piuiQFQg0TgvedvyRlblftbhKRBz-8c2Zrf9GhO-Ew&s=10" group-title="The East Palace S1", Ep8
+https://ichinime.4meplayer.pro/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/kaCzrspeN5Mvib5FD36v4w/onm/el9qhjkt/icik6j/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Gangnam-Zombie.jpg/250px-Gangnam-Zombie.jpg" group-title="KOREAN ZOMBIE", Gangnam Zombie (2023)
+https://www.googleapis.com/drive/v3/files/1DMUq5ieYyufKfuwiDjwwdU5uJC_Fg2EA?alt=media&key=AIzaSyDtbmqAa1jHSiaZuhSqIBALlsXJfkytcKo
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/The_Cursed_Again.jpg/250px-The_Cursed_Again.jpg" group-title="KOREAN ZOMBIE", The Cursed: Dead Man’s Prey (2021)
+https://www.googleapis.com/drive/v3/files/1cG_7IFayHLqYS-0NpsAVfA8kiGjXisDq?alt=media&key=AIzaSyBo1NX7J5RR0WSmmAmoOCnvCHUsiniDDbQ
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f1/Alive_2020.jpg/250px-Alive_2020.jpg" group-title="KOREAN ZOMBIE", Alive (2020)
+https://www.googleapis.com/drive/v3/files/1YAIomJmHwlpx9gFQTb2vzBToK2AnDDoS?alt=media&key=AIzaSyAcFC9KAjFCxsT_h2TA-c3AMOeAmE9zekI
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/The_Odd_Family%2C_Zombie_On_Sale.jpg/250px-The_Odd_Family%2C_Zombie_On_Sale.jpg" group-title="KOREAN ZOMBIE", The Odd Family: Zombie on Sale (2019)
+https://www.googleapis.com/drive/v3/files/1jOIgfKv7qTuVulHHBtu2yW3qVbaS-TCV?alt=media&key=AIzaSyAWUMYNGL3wYD6j9Rvd8lXdgFBVMm4zhIo
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Rampant_%282018%29.jpg/250px-Rampant_%282018%29.jpg" group-title="KOREAN ZOMBIE", Rampant (2018)
+https://www.googleapis.com/drive/v3/files/1AUBXcds1WgX2wjrb45AsUc_ZIwkgeHXM?alt=media&key=AIzaSyCSZ_-Cfv2JIzeeQYIf_APe_Swe4Go7adg
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/eb/The_Wailing_%28film%29.png" group-title="KOREAN ZOMBIE", The Wailing (2016)
+https://www.googleapis.com/drive/v3/files/17AIW2BudDOJRfbiCO3x1A0nnmxVaBlhK?alt=media&key=AIzaSyDxO4nNqN5ILk7ZXWXJ0tarQL8smoI7cHo
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/70/Flu_%28film%29.png/250px-Flu_%28film%29.png" group-title="KOREAN ZOMBIE", Flu (2013)
+https://www.googleapis.com/drive/v3/files/1cuxqoOoJH1jJ5x9y6Q-YBoH11wFUzyEY?alt=media&key=AIzaSyDp_9HwF5hsrKSsSWLLQXH4KSSXRPzbn1E
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/2a/Deranged-2012.jpg/250px-Deranged-2012.jpg" group-title="KOREAN ZOMBIE", Deranged (2012)
+https://www.googleapis.com/drive/v3/files/1XSKXjOPXq8_xOCeGzq3eO7vFFSJUNlvr?alt=media&key=AIzaSyCjTNbWNtEZ3FNxJY_ldIiCIbf1UYNBYPA
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Guard_Post_506_poster.jpg/250px-Guard_Post_506_poster.jpg" group-title="KOREAN ZOMBIE", The Guard Post (GP 506) (2008)
+https://www.googleapis.com/drive/v3/files/1c9ky-etkDeext5iibOQIzrjpKR74cwvd?alt=media&key=AIzaSyCSfi4G_2GXiSvdLaO-uzeToujN3D7m5sE
+
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S1 EP1 (2021)
+https://www.googleapis.com/drive/v3/files/12k8Ma4Eo3227NKGZG00j5BFjAPOXN1Rf?alt=media&key=AIzaSyBD28AyOtuW1UNRXzoKSfLUQCJomGnNrPo
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S1 EP2 (2021)
+https://www.googleapis.com/drive/v3/files/1jK_oq0rIpYFKmNmxgdUIoa_1N5oObVmv?alt=media&key=AIzaSyCMZxyzj1j08PO-c8hHTW_4sbt1qbtJHMM
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S1 EP3 (2021)
+https://www.googleapis.com/drive/v3/files/11WUQ17l1hSf7bnlV-a3vKH4jJ-p52Fr9?alt=media&key=AIzaSyCAJ1U61JJ_to_1ina0bFHDXITQM-xMkhw
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S1 EP4 (2021)
+https://www.googleapis.com/drive/v3/files/18xv2GUE5PPc3xEMZLdXAz7C_wc0CVXtO?alt=media&key=AIzaSyBICQcWHF-QQyFZZGvVoiaKj86QYXD31_U
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S1 EP5 (2021)
+https://www.googleapis.com/drive/v3/files/1XjnA8QxYXBqsZP-Cjhp-21Bu-2-uo6Te?alt=media&key=AIzaSyAiFk2E-k955yu4JRJ57wDW-Z5IIQ59TUM
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S1 EP6 (2021)
+https://www.googleapis.com/drive/v3/files/1HgvEV8CaGoTYM4DRHth2oAk6NK3PCnmD?alt=media&key=AIzaSyBHIVU9BxCghm87P24Kb-5UHguck2FsGSg
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S1 EP7 (2021)
+https://www.googleapis.com/drive/v3/files/1_sAyJ6ryCq_uPhO2CmzTTXycGRhX9-mO?alt=media&key=AIzaSyAWfPRULLVFDK7aPGdq_pcPh_N2v7rBwZo
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S1 EP8 (2021)
+https://www.googleapis.com/drive/v3/files/1Gu1-O8_HJSHlmRerJcAWbXsVLYIuF3oA?alt=media&key=AIzaSyAZ5q-g_GMGmR7RX4Ihq2R1GVl1HH5fxyw
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S1 EP9 (2021)
+https://www.googleapis.com/drive/v3/files/1zOYi_YAnGRY04AingwHWyrCDPNwikG1n?alt=media&key=AIzaSyDhPNZPe-tJMlUm08XLMLrub6DkTVecL9Y
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S1 EP10 (2021)
+https://www.googleapis.com/drive/v3/files/1sa3scZYZlODxcJC_9xVLm7gx5i3XUtnc?alt=media&key=AIzaSyB7MThnSad3B8G2M5_0uqVPDR5f0H_FkAM
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S1 EP11 (2021)
+https://www.googleapis.com/drive/v3/files/1Ml-4703NVkwmnC19YV63xpVVL26g95a4?alt=media&key=AIzaSyBkTrgOuSdM2hnEnEThzh03sVwWacV0nJo
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S1 EP12 (2021)
+https://www.googleapis.com/drive/v3/files/1G4c_53ue4hasRESlvB3umUKR3G1Vgu1N?alt=media&key=AIzaSyD7qjC1gIHcsy99V2VlMhAyl9mB26XTiU8
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S1 EP13 (2021)
+https://www.googleapis.com/drive/v3/files/12zLj7wmRNgV0BTDolmZIjovgjvx_gMUA?alt=media&key=AIzaSyB1gSlWVadQtzgE6kMbocR-HZSIrwPdAlk
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S1 EP14 (2021)
+https://www.googleapis.com/drive/v3/files/1jyGt3ay3j1PEKAS9tCmDvMYfqG2EZ79e?alt=media&key=AIzaSyAo9_gmFiPBwoZLXztO6U95I7oeBFlBugE
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S1 EP15 (2021)
+https://www.googleapis.com/drive/v3/files/1ARtKbJS3EUjIfncUAiiRFs6gJff0x6_E?alt=media&key=AIzaSyAQ5NXaupF4hWuoxsrflNO1LE7vqnr5chU
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S1 EP16 (2021)
+https://www.googleapis.com/drive/v3/files/1_f1bclsRD4Ybh1yhh65-XTr9o2BBxMFU?alt=media&key=AIzaSyAXBStbBm1PCMIDyOtFd-vwhn05BqI9hys
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S2 EP1 (2021)
+https://www.googleapis.com/drive/v3/files/1XJFh3IL7k-BTjZ91V07NkjxKkFG05_5X?alt=media&key=AIzaSyCSiOUYy_PkRu5gT1jZOBsLUKlcdB7IX-c
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S2 EP2 (2021)
+https://www.googleapis.com/drive/v3/files/1Vkv64v9uMom070p3cYIxWDdIVh5uK7Iq?alt=media&key=AIzaSyC1DhxGWU4K-v5MwlC-mlNRnuKlIV3qZCk
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S2 EP3 (2021)
+https://www.googleapis.com/drive/v3/files/1pjOfujnXuh8Oy31qRB1kAVB2Ye6iAw2P?alt=media&key=AIzaSyA4fYF6LFN98V0KyS-yQGyAuGSobtEtusc
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S2 EP4 (2021)
+https://www.googleapis.com/drive/v3/files/1F2Tda7P6p6e8fjl5XzROmYe7jWQ_iSvD?alt=media&key=AIzaSyBT66FFdlweE7tvaWDhGPXwgqYrvsVMWfI
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S2 EP5 (2021)
+https://www.googleapis.com/drive/v3/files/1G0-79TOmtKKnD8B0oMRd3JlydeoDlMCH?alt=media&key=AIzaSyCq6sQj-GqEiZQrpZQRYbkVQnXM4EsVn-4
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S2 EP6 (2021)
+https://www.googleapis.com/drive/v3/files/12SGQKmHX4TTEjJ2HyqvnuEzl7eDlCMm8?alt=media&key=AIzaSyD8Uq99o94OzCLuwahphHyM7FneZNZXJ3M
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S2 EP7 (2021)
+https://www.googleapis.com/drive/v3/files/1bAJWoT6UEFNjwtu_SOIhjaOW-jMXLVFG?alt=media&key=AIzaSyAfcqi7AyHOljw8XXnP6Rws604eMFUhvtw
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S2 EP8 (2021)
+https://www.googleapis.com/drive/v3/files/1_XnVfai5ybDmUyxZa8hczdF8Qov_CZdx?alt=media&key=AIzaSyAZ_4YlgNhoEDEadrGlttDA7UoP2NXVC5I
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S2 EP9 (2021)
+https://www.googleapis.com/drive/v3/files/1IBxFzyhR3DFa6u_FEwNLkrAzh9uJMgu4?alt=media&key=AIzaSyC7MNwiq-RevJmnJWeKbUd94mOhajctgYo
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S2 EP10 (2021)
+https://www.googleapis.com/drive/v3/files/1J98IQ-JqOKQyo2TCsKRW2htGzr-Z3r-x?alt=media&key=AIzaSyB-aXCnQ0_lrxEM8LzkPXDBJRXsWdIxNhY
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S2 EP11 (2021)
+https://www.googleapis.com/drive/v3/files/1o2WaFdxmxCePUlN9omzXDqlsoo89_cO4?alt=media&key=AIzaSyCwmgZOLkHmkktox5oN0MKkOGKk-drFcT4
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S2 EP12 (2021)
+https://www.googleapis.com/drive/v3/files/1_S5jtYip7CTmZwuX_9C44zN1LUaIVjJQ?alt=media&key=AIzaSyA-h6WCd-_lP5uPDIa7c6RnnfNWPn-ueYI
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S2 EP13 (2021)
+https://www.googleapis.com/drive/v3/files/1ikFpa-RtLdmTxZICwkf4XxLR6ot6acq7?alt=media&key=AIzaSyBzijOtA6ymPl2ub13fDGOGgq6_SEFS9ZA
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S2 EP14 (2021)
+https://www.googleapis.com/drive/v3/files/11In84fWtTorOSqVoU0TU1GZSzat48v3Q?alt=media&key=AIzaSyB4v55-Z_x-wjz8nrs2VvVWrCE1FGGKqys
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S2 EP15 (2021)
+https://www.googleapis.com/drive/v3/files/14SNOGI5F3Azsj0AGswElG-r1yuf_b9im?alt=media&key=AIzaSyCrxgvx4iMwcBrSmPDnHX5_ITAhm0lMClE
+
+#EXTINF: -1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg" group-title="TAXI DRIVER", S2 EP16 (2021)
+https://www.googleapis.com/drive/v3/files/1SAfR38TaCW3myuXmSaaZl8FLIFeE2O0G?alt=media&key=AIzaSyAxF6T8vQLGlHZz-YwCAWB1UqUjzNqI6gI
+
 ===================================== INFORMASI ===================================
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/c4/b7/48/c4b74881b961cb2f2d26bc1dfe355e3a.jpg" group-title="INFORMASI🔵🔵🔵🔵"
@@ -2856,4 +3060,71 @@ http://api.plus-server.sbs/play.php?key=1234&ch=api_mono7
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴", EVEN 8
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 http://api.plus-server.sbs/play.php?key=1234&ch=api_mono8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴", EVEN 9..
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=1010
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴", EVEN 10
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/f224a4945f2f48e892fb896645a9af6b/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴", EVEN 11
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/113af3d432214f62bd6815f976bf2cd6/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/a90cb773466446b08595007bab12b920/index.mpd
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴", EVEN 12
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴", EVEN 13
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd
+https://fta1-cdn-flr.visionplus.id/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴", EVEN 14
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed1723eb360145ccafa1b466130186da:c7c4171e98de14c23be427f6ab16ef72
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/eb98aca0a1be41f7b9c05dac051a250e/index.mpd
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴", EVEN 15
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=1012
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴", EVEN 16
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=1017
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/32aa4a6344fd435bb78826c719c11923/index.mpd
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴", EVEN 17
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=1018
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/8983f9a68f0d4f169a77f3ce20ab2685/index.mpd
+https://ayo.maling.pl/Vision/index.mpd?id=1018
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴", EVEN 18_
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live1.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴", EVEN 19
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live2.m3u8
 
