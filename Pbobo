@@ -1989,32 +1989,32 @@ https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/68/20/5a/68205a1a02e2ad22755cb37145b37e08.jpg" group-title="☆SPORT+☆",SK1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Skb1.m3u8
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Meg1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/68/20/5a/68205a1a02e2ad22755cb37145b37e08.jpg" group-title="☆SPORT+☆",SK2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Skb2.m3u8
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Meg2.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/68/20/5a/68205a1a02e2ad22755cb37145b37e08.jpg" group-title="☆SPORT+☆",SK3
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Skb3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Meg3.m3u8
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Skb3.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/68/20/5a/68205a1a02e2ad22755cb37145b37e08.jpg" group-title="☆SPORT+☆",SK4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Skb4.m3u8
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Meg4.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/68/20/5a/68205a1a02e2ad22755cb37145b37e08.jpg" group-title="☆SPORT+☆",SK5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Skb5.m3u8
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Meg5.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/68/20/5a/68205a1a02e2ad22755cb37145b37e08.jpg" group-title="☆SPORT+☆",SK6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Skb6.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/68/20/5a/68205a1a02e2ad22755cb37145b37e08.jpg" group-title="☆SPORT+☆",SK7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Skb7.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/68/20/5a/68205a1a02e2ad22755cb37145b37e08.jpg" group-title="☆SPORT+☆",SK8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Skb8.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/68/20/5a/68205a1a02e2ad22755cb37145b37e08.jpg" group-title="☆SPORT+☆",SK9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Skb9.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/68/20/5a/68205a1a02e2ad22755cb37145b37e08.jpg" group-title="☆SPORT+☆",SK10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Skb10.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/21/e9/0e/21e90e178676653c88cf4c51ccbc792c.jpg" group-title="☆SPORT+☆",SPORT 1 SLOVAKIA
@@ -2105,49 +2105,23 @@ https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv6.m3u
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="☆SPORT+☆",ELEV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="☆SPORT+☆",ELEV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev2.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="☆SPORT+☆",ELEV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev3.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="☆SPORT+☆",ELEV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev4.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="☆SPORT+☆",ELEV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev5.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="☆SPORT+☆",ELEV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev6.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b5/05/19/b50519003c634f0573a1add80125c418.jpg" group-title="☆SPORT+☆",ESP1
-http://46.151.196.223:14366/
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b5/05/19/b50519003c634f0573a1add80125c418.jpg" group-title="☆SPORT+☆",ESP2
-http://46.151.196.223:14553/
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b5/05/19/b50519003c634f0573a1add80125c418.jpg" group-title="☆SPORT+☆",ESP3
-http://cdn38246.radiogaucha.net:80/live/f0nt3-tourobox-2819/Jdm8hXSSR3/25993.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b5/05/19/b50519003c634f0573a1add80125c418.jpg" group-title="☆SPORT+☆",ESP4
-http://46.151.196.223:14450/
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b5/05/19/b50519003c634f0573a1add80125c418.jpg" group-title="☆SPORT+☆",ESP5
-http://46.151.196.223:14456/
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/74/62/39/74623915322e2da0fe834451feaad965.jpg" group-title="☆SPORT+☆",CA+1
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Can+1.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/74/62/39/74623915322e2da0fe834451feaad965.jpg" group-title="☆SPORT+☆",CA+2
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Can+2.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/74/62/39/74623915322e2da0fe834451feaad965.jpg" group-title="☆SPORT+☆",CA+3
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6098/index.m3u8
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Can+3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/51/bb/74/51bb748c58a77d280b1234d4c853fe35.jpg" group-title="☆SPORT+☆", COSMO1
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Cos1.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/51/bb/74/51bb748c58a77d280b1234d4c853fe35.jpg" group-title="☆SPORT+☆", COSMO2
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Cos2.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/51/bb/74/51bb748c58a77d280b1234d4c853fe35.jpg" group-title="☆SPORT+☆", COSMO3
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Cos3.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/51/bb/74/51bb748c58a77d280b1234d4c853fe35.jpg" group-title="☆SPORT+☆", COSMO4
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Cos4.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/51/bb/74/51bb748c58a77d280b1234d4c853fe35.jpg" group-title="☆SPORT+☆", COSMO5
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Cos5.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/51/bb/74/51bb748c58a77d280b1234d4c853fe35.jpg" group-title="☆SPORT+☆", COSMO6
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Cos6.m3u8
 
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/df/5d/1e/df5d1e2a1121620204c9608ea7e9b77f.jpg", SONY 1
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -2162,69 +2136,67 @@ https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Sonyt2.m3u
 https://fifa.assadikb.workers.dev/?id=sony_sports_3_hd
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Sonyt3.m3u8
 
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/736x/e9/fe/b4/e9feb498e595447534da7b1e302931af.jpg",ZG 1
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Zg1.m3u8
-http://185.102.171.218/Cytavisionsports1/index.m3u8
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/736x/e9/fe/b4/e9feb498e595447534da7b1e302931af.jpg",ZG 2
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Zg2.m3u8
-http://185.102.171.218/Cytavisionsports2/index.m3u8
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/736x/e9/fe/b4/e9feb498e595447534da7b1e302931af.jpg",ZG 3
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Zg3.m3u8
-http://185.102.171.218/Cytavisionsports3/index.m3u8
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/736x/e9/fe/b4/e9feb498e595447534da7b1e302931af.jpg",ZG 4
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Zg4.m3u8
-http://185.102.171.218/Cytavisionsports4/index.m3u8
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/736x/e9/fe/b4/e9feb498e595447534da7b1e302931af.jpg",ZG 5
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Zg5.m3u8
-http://185.102.171.218/Cytavisionsports5/index.m3u8
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/736x/e9/fe/b4/e9feb498e595447534da7b1e302931af.jpg",ZG 6
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Zg6.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/dc/e3/b9/dce3b922d858d69af1afb31434caa1b6.jpg" group-title="☆SPORT+☆",Arena 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Aren1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/dc/e3/b9/dce3b922d858d69af1afb31434caa1b6.jpg" group-title="☆SPORT+☆",Arena 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Aren2.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/dc/e3/b9/dce3b922d858d69af1afb31434caa1b6.jpg" group-title="☆SPORT+☆",Arena 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Aren3.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/dc/e3/b9/dce3b922d858d69af1afb31434caa1b6.jpg" group-title="☆SPORT+☆",Arena 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Aren4.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/dc/e3/b9/dce3b922d858d69af1afb31434caa1b6.jpg" group-title="☆SPORT+☆",Arena 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Aren5.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/dc/e3/b9/dce3b922d858d69af1afb31434caa1b6.jpg" group-title="☆SPORT+☆",Arena 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Aren6.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/dc/e3/b9/dce3b922d858d69af1afb31434caa1b6.jpg" group-title="☆SPORT+☆",Arena 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Aren7.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/dc/e3/b9/dce3b922d858d69af1afb31434caa1b6.jpg" group-title="☆SPORT+☆",Arena 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Aren8.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/dc/e3/b9/dce3b922d858d69af1afb31434caa1b6.jpg" group-title="☆SPORT+☆",Arena 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Aren9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b5/05/19/b50519003c634f0573a1add80125c418.jpg" group-title="☆SPORT+☆",ES1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Esp_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b5/05/19/b50519003c634f0573a1add80125c418.jpg" group-title="☆SPORT+☆",ES2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Esp_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b5/05/19/b50519003c634f0573a1add80125c418.jpg" group-title="☆SPORT+☆",ES3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Esp_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b5/05/19/b50519003c634f0573a1add80125c418.jpg" group-title="☆SPORT+☆",ES4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Esp_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b5/05/19/b50519003c634f0573a1add80125c418.jpg" group-title="☆SPORT+☆",ES5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Esp_5.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b5/05/19/b50519003c634f0573a1add80125c418.jpg" group-title="☆SPORT+☆",ES6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Esp_6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/4c/87/8d/4c878df3a9d0492a3a6787f2f5104b2f.jpg" group-title="☆SPORT+☆",VP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Vp1.m3u8
-https://i.pinimg.com/736x/4c/87/8d/4c878df3a9d0492a3a6787f2f5104b2f.jpg
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/4c/87/8d/4c878df3a9d0492a3a6787f2f5104b2f.jpg" group-title="☆SPORT+☆",VP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Vp2.m3u8
-https://i.pinimg.com/736x/4c/87/8d/4c878df3a9d0492a3a6787f2f5104b2f.jpg
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/4c/87/8d/4c878df3a9d0492a3a6787f2f5104b2f.jpg" group-title="☆SPORT+☆",VP3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Vp3.m3u8
-https://i.pinimg.com/736x/4c/87/8d/4c878df3a9d0492a3a6787f2f5104b2f.jpg
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/4c/87/8d/4c878df3a9d0492a3a6787f2f5104b2f.jpg" group-title="☆SPORT+☆",VP4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Vp4.m3u8
-https://i.pinimg.com/736x/4c/87/8d/4c878df3a9d0492a3a6787f2f5104b2f.jpg
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/4c/87/8d/4c878df3a9d0492a3a6787f2f5104b2f.jpg" group-title="☆SPORT+☆",VP5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus3/Vp5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/7f/52/90/7f52902144bed500f550d9ff07421615.jpg" group-title="☆SPORT+☆",Prima 1
@@ -2242,12 +2214,16 @@ https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Prim3.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Prim4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/16/60/a2/1660a2b220400807132ca4a4dc2ccf05.jpg" group-title="☆SPORT+☆",DIG1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Dig1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/16/60/a2/1660a2b220400807132ca4a4dc2ccf05.jpg" group-title="☆SPORT+☆",DIG2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Dig2.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/16/60/a2/1660a2b220400807132ca4a4dc2ccf05.jpg" group-title="☆SPORT+☆",DIG3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Dig3.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/16/60/a2/1660a2b220400807132ca4a4dc2ccf05.jpg" group-title="☆SPORT+☆",DIG4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Dig4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/12/a6/1b/12a61b898b8b1d20ecc91157f54b69fe.jpg" group-title="☆SPORT+☆",Q Sport 
@@ -2347,12 +2323,16 @@ https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Astftbol.m3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Astplus.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e9/26/29/e926291b1813002467ad217180a8ab40.jpg" group-title="☆SPORT+☆",Star S Select 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Starsel.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b6/fd/21/b6fd21a3b04be5fe6666326d10464234.jpg" group-title="☆SPORT+☆",Star S Select 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Starsel2.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0f/28/ef/0f28ef0af78c3b6c13b2f67cec3880b4.jpg" group-title="☆SPORT+☆",Star S1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Star1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/0c/49/c7/0c49c75f8bde15ac450a981a425fa1af.jpg" group-title="☆SPORT+☆",Star S2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Star2.m3u8
 
 ================================================== UFC ==========================================================
@@ -3092,7 +3072,7 @@ https://playcdn.de/xxx/KwsmIiQNEmw2OR4pJR1kaHBOZBkAOzMNHQkoKXJUYztwHCs40eac476/4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeGimad3VpJNZhHchEEe7LLwrMkiiR6qGmkMVIoTHZpA&s" group-title="NEW UPDATE", son of sara 2025
-https://playcdn.de/xxx/MRcnYzYYBSBvY0d-dh0BHQA8BREdJkRxJ2FCfXcH40eac476/43/480.m3u8
+https://playcdn.de/xxx/MRcnYzYYBSBvY0d-dh0BHQA8BREdJkRxJ2FCfXcH6d477147/43/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
@@ -3102,7 +3082,7 @@ https://playcdn.de/xxx/Lhk6OmgRGDQxNFp-cwJgdRU9CwoJJi8eJGMUKXQHN2w40eac476/43/48
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTotxmAMrqjA1CCp8BAdslrZQ2HxhWip4GDWRSsmJm_CA&s=10" group-title="NEW UPDATE", eiga last man first love 2025
-https://playcdn.de/xxx/JxEuL2gVFjI2fBotLR0wMTALPWMpFgEkb2NHfnYdFDQ3Kig3GiEoJXYwRXggUWI40eac476/43/480.m3u8
+https://playcdn.de/xxx/JxEuL2gVFjI2fBotLR0wMTALPWMpFgEkb2NHfnYdFDQ3Kig3GiEoJXYwRXggUWI6d477147/43/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
@@ -3129,37 +3109,39 @@ https://playcdn.de/xxx/Lh0uKysdWjIsMBwpbgJmanNVHgsHPTseGg4SLnECYG0mSg23ed49a2/43
 https://playcdn.de/xxx/Lh0uKysdWjIsMBwpbgJ7LCMRZD0wEFpzcmNGYRR1FBwOJxERIEhBdSZoRSk23ed49a2/43/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
+#EXTVLCOPT:http-referrer=https://tv7.nontondrama.my/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_agN5ymaKLN1FBp1653qITQwFFvholRHUKO-Q3Dqt-w&s=10" group-title="LIGHT SHOP S1", Ep1
-https://playcdn.de/xxx/7bb10f6f14bce76721ba3e5ad9f4ec1c40eac476/30/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
+#EXTVLCOPT:http-referrer=https://tv7.nontondrama.my/
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv7.nontondrama.my/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_agN5ymaKLN1FBp1653qITQwFFvholRHUKO-Q3Dqt-w&s=10" group-title="LIGHT SHOP S1", Ep2
-https://playcdn.de/xxx/35e8cd05fb02d72792a8002e05fb0f2140eac476/30/480.m3u8
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
+#EXTVLCOPT:http-referrer=https://tv7.nontondrama.my/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_agN5ymaKLN1FBp1653qITQwFFvholRHUKO-Q3Dqt-w&s=10" group-title="LIGHT SHOP S1", Ep3
-https://playcdn.de/xxx/1bcd3b2766392625b6e85a87d3d2564740eac476/30/480.m3u8
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
+#EXTVLCOPT:http-referrer=https://tv7.nontondrama.my/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_agN5ymaKLN1FBp1653qITQwFFvholRHUKO-Q3Dqt-w&s=10" group-title="LIGHT SHOP S1", Ep4
-https://playcdn.de/xxx/8f581fa017d2312ce4c34559a5f48c6e40eac476/30/480.m3u8
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
+#EXTVLCOPT:http-referrer=https://tv7.nontondrama.my/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_agN5ymaKLN1FBp1653qITQwFFvholRHUKO-Q3Dqt-w&s=10" group-title="LIGHT SHOP S1", Ep5
-https://playcdn.de/xxx/fd1d8d7ed9c7be8f077c821e1639b3bc40eac476/30/480.m3u8
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live5.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
+#EXTVLCOPT:http-referrer=https://tv7.nontondrama.my/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_agN5ymaKLN1FBp1653qITQwFFvholRHUKO-Q3Dqt-w&s=10" group-title="LIGHT SHOP S1", Ep6
-https://playcdn.de/xxx/b9e8230a3ffc20162738a03d020647f540eac476/30/480.m3u8
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live6.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
+#EXTVLCOPT:http-referrer=https://tv7.nontondrama.my/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_agN5ymaKLN1FBp1653qITQwFFvholRHUKO-Q3Dqt-w&s=10" group-title="LIGHT SHOP S1", Ep7
-https://playcdn.de/xxx/90e0a8d312d510614c5b3adcc541a16b40eac476/30/480.m3u8
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live7.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
+#EXTVLCOPT:http-referrer=https://tv7.nontondrama.my/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_agN5ymaKLN1FBp1653qITQwFFvholRHUKO-Q3Dqt-w&s=10" group-title="LIGHT SHOP S1", Ep8
-https://playcdn.de/xxx/5704149c773c5af3963deb3f72313c5d40eac476/30/480.m3u8
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live8.m3u8
 
 ===================================== INFORMASI ===================================
 
@@ -3336,37 +3318,55 @@ https://raw.githubusercontent.com/Cutsiffa/Movyyy/refs/heads/main/M1.mp4
 #EXTINF:-1 group-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴"
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴", EVEN 1
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
-http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Sc1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴", EVEN 2
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
-http://api.plus-server.sbs/play.php?key=1234&ch=api_mono2
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Sc2.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴", EVEN 3
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
-http://api.plus-server.sbs/play.php?key=1234&ch=api_mono3
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Sc3.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴", EVEN 4
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
-http://api.plus-server.sbs/play.php?key=1234&ch=api_mono4
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Sc4.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴", EVEN 5
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
-http://api.plus-server.sbs/play.php?key=1234&ch=api_mono5
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Sc5.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴", EVEN 6
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
-http://api.plus-server.sbs/play.php?key=1234&ch=api_mono6
+#EXTVLCOPT:http-referrer=https://exposestrat.com
+#EXTVLCOPT:http-origin=https://exposestrat.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Ps1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴", EVEN 7
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
-http://api.plus-server.sbs/play.php?key=1234&ch=api_mono7
+#EXTVLCOPT:http-referrer=https://exposestrat.com
+#EXTVLCOPT:http-origin=https://exposestrat.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Ps2.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴", EVEN 8
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
-http://api.plus-server.sbs/play.php?key=1234&ch=api_mono8
+#EXTVLCOPT:http-referrer=https://exposestrat.com
+#EXTVLCOPT:http-origin=https://exposestrat.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Ps3.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴", EVEN 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live1.m3u8
+#EXTVLCOPT:http-referrer=https://exposestrat.com
+#EXTVLCOPT:http-origin=https://exposestrat.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Ps4.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="🔴LIVE_EVEN🔴", EVEN 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live2.m3u8
+#EXTVLCOPT:http-referrer=https://exposestrat.com
+#EXTVLCOPT:http-origin=https://exposestrat.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Ps5.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e1.m3u8
@@ -3377,60 +3377,96 @@ https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e3.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e4.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e5.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
-https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e6.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Fa1.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN17
-https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e7.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Fa2.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN18
-https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e8.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Fa3.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN19
-https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e9.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Fa4.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN20
-https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e10.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Fa5.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e11.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e12.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e13.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e14.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e15.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e16.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e17.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e18.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e19.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e20.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e21.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e22.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e23.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e24.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN35
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e25.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e26.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e27.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN38
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e28.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN39
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e29.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e30.m3u8
 
