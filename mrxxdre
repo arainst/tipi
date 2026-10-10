@@ -54,9 +54,11 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Tr7.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://i.pinimg.com/236x/3c/bc/56/3cbc565c444cca121ef3bff1bb0a53d0.jpg" group-title="🔴⚪NASIONAL",9.SCTV HD
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-pidio-auto.shiokambing75.workers.dev/
+https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=204
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Sct.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://i.pinimg.com/236x/3c/bc/56/3cbc565c444cca121ef3bff1bb0a53d0.jpg" group-title="🔴⚪NASIONAL",10.SCTV SD
@@ -115,8 +117,10 @@ https://rplus.semar26.xyz/gtv.m3u8
 https://rplus.semar26.xyz/inews.m3u8
 
 #EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-logo="https://i.pinimg.com/236x/bf/88/3c/bf883c51dfcb53f0132cd8997f7b0377.jpg",18.INEWS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://cdnbal1.indihometv.com/atm/DASH/inews/manifest.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=004
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
 
 #EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-id="moji.id" tvg-logo="https://i.pinimg.com/236x/a1/fd/2b/a1fd2bae03716b1d10f6eaef11f0e193.jpg",19.MOJITV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -136,13 +140,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 https://op-group1-densxvisionhd-1.dens.tv/h/h223/index.m3u8
  
 #EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-logo="https://i.pinimg.com/236x/da/3d/31/da3d31d32e3701088042491912861aa1.jpg",23.TVONE HD
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=12&type=fitnah
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=012
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
 #EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-logo="https://i.pinimg.com/236x/da/3d/31/da3d31d32e3701088042491912861aa1.jpg",24.TVONE SD
@@ -2511,7 +2512,6 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=660a37a91aa00b7e2e0bc7dca349b982:3593a4a2bfbd7d9585efff083b769cf5
 https://video.beeline.tv/live/d/channel377.isml/manifest-stb.mpd
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/UF/UF1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC_FEED", CH 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2519,6 +2519,14 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/UF/UF1.m3u8
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash3.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/UF/UF2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC_FEED", LIVE ONLY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/UF/UF1.m3u8
 
 ============================================ FORMULA1 ============================================
 
@@ -2579,7 +2587,13 @@ https://master3.hdtvs1.top/hls/0/stream.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
+#EXTINF:-1 group-title="MOTOGP FEED" tvg-id="" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg", LIVE ONLY 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/MG/Gp.m3u8
 ========================================================= INDOEVEN ===================================================
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="☆INDO EVEN"
@@ -3368,110 +3382,95 @@ https://okqtss1gbbnca8e.sunrisevalleydesign.store/0wnh534rdgf989/hls3/01/14732/z
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRob9pU8fASz83PHQOKHRDsvrXa7RX1-m52rKZhgSDopg&s=10" group-title="HOROR INDO PART II", the eyes 2026
 https://wnsa7jyhmnmt12.marketforecasting.cfd/qajructf54pm/hls3/01/14734/37pa8y8ecg8a_h/index-v1-a1.txt
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1b8_NVEag6nV3lK8L9zSRAu9aKTw3i3uW0UbmrUdLVA&s=10" group-title="MOVIE SATURDAY", the fix 2026 HD
-https://yxqc9c2vqj7vepbl.ridgeviewwellnesscenter.store/lrAomU956ig7J/hls3/01/08615/8a6v9mxdav4z_n/index-v1-a1.txt
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2VbdFW6B__8z2X1I3KOHIAy11xk9PC5jcIvBRVxjPKA&s=10" group-title="MOVIE SATURDAY", teenege sex and death at camp miasama 2026
-https://video.4meplayer.com/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/v13eHAAeL0McsMOLVpn4CQ/qtd/lodt9jeh/xq39u5/tt/index-f1-v1-a1.m3u8?v=1766826492
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6cEve02kb6YKHAttSNnEiiX59Q-raRqUFP4Qe2CYbAg&s" group-title="MOVIE SATURDAY", Resident evil 2026 cam
-https://web.opendrive.com/api/v1/download/file.json/NzVfNjE3MTM3ODlfMkcxR3o?inline=1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLLEEcZebnAEP7rYiYicFk-GxjRbz2W5126tHheozliw&s=10" group-title="MOVIE SATURDAY", end of oak street 2026
-https://web.opendrive.com/api/v1/download/file.json/NzVfNjE2NzY5MzlfOTlkQ2w?inline=1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ2naBhUr9fNWJgTZwC8NTm8vRmXrFgxsUud3kaNvuUw&s=10" group-title="MOVIE SATURDAY", jacked 2026
-https://drrh37sqosrl.antiquecollectibles.shop/ILRgwGfLgHdsagmi/hls3/01/15044/colkfi88wwxr_n/index-v1-a1.txt
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4Rn1-am3Xh_ifOTpX3-wgQDpXC3-NkpNKZ2LKtJOsw&s=10" group-title="MOVIE SATURDAY", one last shot 2026
-https://1hyahuwewhyvwmq.agilebusiness.sbs/KurDwBvf3IESNvT/hls3/01/08624/5drbxmwjmssu_n/index-v1-a1.txt
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrh8F7Xm_G56xebjumSgHPLig6eYQfvdtiFtDFFykuvA&s=10" group-title="MOVIE SATURDAY", polong 2026
-https://cwfuommwagyrfcg6.financialforecasting.cfd/roLKkP6goxxZ/hls3/01/15028/ohunjzc7ymr0_o/index-v1-a1.txt
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUi76aAIh4TJxTvu29S5COWhJDWEgQzwVpqIZxblHyaA&s=10" group-title="MOVIE SATURDAY", rage of stars 2026
-https://wt4pjiive9agjpl.iezsjonb3tpg6zaz.cfd/e4RHfFUBYeX4H3m/hls3/01/08612/8w9pbj3cml7q_n/index-v1-a1.txt
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt-lJe9u-w0oxiWqGv6Y-cyaRHaS7IPYpRaXVXUcZavA&s=10" group-title="MOVIE SATURDAY", sultana 2026
-https://pm21.p2pplay.pro/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/oYpo0kdgnNM7aJatGhETHA/nc9/unjaonj6/uyxpnj/tt/index-f1-v1-a1.m3u8?v=1766826492
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eN3if2gGkW3E_t2qhujkSuWnXeCpAMAZ0ruGQcPCfg&s=10" group-title="MOVIE SATURDAY", lion fist 2026
-https://live.playerp2p.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/xl08lvsvmaiNvDi8DFa4jg/kra/nc3fj51f/hvaxnu/tt/index-f1-v1-a1.m3u8?v=1766826492
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6fZuDenuygRDuGfuxPuqjvzhpX9hXgDb7SoS_p2q9VQ&s=10" group-title="MOVIE SATURDAY", drive throught fire 2026
-https://pfabiwmfmeza.seabreezeartisanatelier.cyou/FaZ2vo3Wda5G/hls3/01/08599/pbuozyclxk8n_n/index-v1-a1.txt
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwsxUjBDallThzDsf2BZZ3HEdOjM7L3pBr3V8bHNKYow&s=10" group-title="MOVIE SATURDAY", adorable humans 2026
-https://vcvkqwy2zrck.pinebrookproductionlab.shop/vpusxz6e9t3q/hls3/01/14840/oy4cs4w7jzjm_n/index-v1-a1.txt
-
 new
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF_y0VYMHCa3LqzO0JOr6tC3yiq0N9rfvfv-EJ1BcxQQ&s=10" group-title="FILM PERANG PT 1", land of bad 2024
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5-01H02ZDpjHyDDzoOLf-63j_JsNn5xGI1i4KJItzCA&s=10" group-title="MOVIE SATURDAY", fall 2 deadpoint 2026
+https://vdkzfuwkpzz7q.pinehollowdesignstudio.cyou/7npihg0ee2yuu/hls3/01/15135/cd49x1igbew7_n/index-v1-a1.txt
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpjbmt88niBuL6IupldxmGLUSAmvwXFWR8JO8_oDNXg&s=10" group-title="MOVIE SATURDAY", insidious. out of the futher 2026
+https://live.playerp2p.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/zLRBFIfqIX60IRhpbH0bSA/meb/3awgtytv/sagm8r/tt/index-f2-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGcYCzW-BVIrn-aLcscq0jGnBY0IaUYUVN8kFWbP6i6g&s=10" group-title="MOVIE SATURDAY", spiderman brand new day 2026
+https://live.playerp2p.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/g0XEf80b9jYPWVGOkOSMhw/qtd/3awgtytv/pw6gco/tt/index-f1-v1-a1.m3u8?v=1766826492
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaq5jDsvbFqe8ed66Vl80hcrGMIwIXwpGrarCGT-e4jA&s=10" group-title="MOVIE SATURDAY", models vs worewolves 2026
+https://rnzt2t4xvku08.sciencepodcasthub.sbs/e4RHfFUBYeX4H3m/hls3/01/08676/kkh0w0c1pzm4_n/index-v1-a1.txt
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEKlTnfZ7GF9QGR0p2Yv0bKm_pa_S0w7Sr9Iigsx9vDg&s=10" group-title="MOVIE SATURDAY", dreamquil 2026
+https://jzddkefw9oeu0.productlibrary.site/vy7cie2tqwc2cgp/hls3/01/15137/o5fsaj30ez68_n/index-v1-a1.txt
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPxO9RqFAUrFVsnGRdgye-PD4s3-fdyvYULyvyZE78mg&s=10" group-title="MOVIE SATURDAY", stranglehold 2026
+https://h85mclle5sxf9yf.softwaretestingtips.site/QuzDGIUOroqdH83C/hls3/01/08673/aeop3ap0f1qn_n/index-v1-a1.txt
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDdyVyVmrGc1XBhg_33DnI-1Ja9hTfzf1LIOr5-b5bVQ&s=10" group-title="MOVIE SATURDAY", union county 2026
+https://rnzt2t4xvku08.streamravixo.pro/e4RHfFUBYeX4H3m/hls3/01/08673/jximtwkcz9ir_n/index-v1-a1.txt
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSgHH32Z7VJwXvDjB0tKlVAirydaV2qmiw8Rq3hSkJQ&s=10" group-title="MOVIE SATURDAY", dear you 2026
+https://rnzt2t4xvku08.goldcrestlearninggroup.sbs/V2JQgNtMJhwHbZKu/hls3/01/08663/4tvyimjl4uzr_n/index-v1-a1.txt
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIZ0odIKONuzki35oU7kNCt5Ds3LaJ3f_9QloWtvxsPg&s=10" group-title="MOVIE SATURDAY", sole survivor of flight 2026
+https://wt4pjiive9agjpl.riverstonelearninghub.sbs/F6vE2P5Wjncn/hls3/01/08634/7bzpauzi22lz_n/index-v1-a1.txt
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs7ZaDWi_ILuWj36TT2aOWnZajzJ0ORpdQxuzbfa-P9g&s=10" group-title="PANDEMIC MOVIE", pontypool 
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3qvPUzTd43Thi4_znJocHVpkZHB_Eohf2WEhQfWGNw&s=10" group-title="FILM PERANG PT 1", all quiet on the wastern front 2022
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLmlgqTCitZHZcAcUq-U6iBnBCyMUPZYWvH54iyBwzPQ&s=10" group-title="PANDEMIC MOVIE", the crazies 
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live2.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYN1v53e4WuiUNhqnHhKp0_YDgXOmqqP0CbymTexbpIA&s=10" group-title="FILM PERANG PT 1", sisu 2023
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1noK4bN4FB8m14EMtgYrw20SUM8JNG4Sosx1o5vGl2g&s=10" group-title="PANDEMIC MOVIE", carriers 
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live3.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGfCCVEKLHpd-B55GoVSa9GgN6JogeL48VRrzJixup9g&s=10" group-title="FILM PERANG PT 1", escape from mogadishu 2021
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjfnQJTv4jPUwbIRASQM09Kg-GGbT0pCq8nZGhk6qRwA&s=10" group-title="PANDEMIC MOVIE", it comes at night 
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live4.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd_I8njK1zK9yhyTqSLKB1-K35qNTsYCO6FJrYtrXViA&s=10" group-title="FILM PERANG PT 1", da 5 bloods 2020
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPduPBnxUTeeqSdJYudHdCfm0HBGinLY19cXXMnVV6FQ&s=10" group-title="PANDEMIC MOVIE", the signal 
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live5.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTcg410cz2Pr7INgKDN6ixYcMxxs-00UuXHk-eFLdiXg&s=10" group-title="FILM PERANG PT 1", black crab 2022
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQFEPouj6O0sHbLZw5BrfD2c6zOuPBmhKOCSsk8WuCFQ&s=10" group-title="PANDEMIC MOVIE", the bay 
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live6.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4zZaGai_iG00_qdr8oFVCodKDPYL4GZRR8O8krLZn9w&s" group-title="FILM PERANG PT 1", operation mincemeat 2022
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRReAHEdoR4MUniqKNBOlsMRbdFTw14htgT2iWGKCR4ew&s=10" group-title="PANDEMIC MOVIE", flu (gamgi) 
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live7.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKTdsrc95SpH2ft_mi7g1nhSfhdoYpdZ-FOX8Zi8wFHg&s=10" group-title="FILM PERANG PT 1", narvik 2022
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNrt6ujYdI4vdSIOy5Aq_CG_jJJLM2qRLM3QbbfzZDZg&s=10" group-title="PANDEMIC MOVIE", right at your door
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live8.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv12.lk21official.cc/
-#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQctTWXdbaPJr93290m3kDN03s9uLPQU4ukyBY4QboQeA&s=10" group-title="FILM PERANG PT 1", war machine 2017
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmLtoNdsil8kjibRBP37ddXUKdHAMyD9CBsROlmJQGAg&s=10" group-title="PANDEMIC MOVIE", cabin fever 2016
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live9.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -3800,27 +3799,31 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Ps5.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
-https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e1.m3u8
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Sp/Lev1.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
-https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e2.m3u8
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Sp/Lev2.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
-https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e3.m3u8
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Sp/Lev3.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Gratisan/refs/heads/main/Live14.jpg", EVEN14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
-https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e4.m3u8
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Sp/Lev4.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Gratisan/refs/heads/main/Live15.jpg", EVEN15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
-https://raw.githubusercontent.com/arainst/rains/refs/heads/master/LE/e5.m3u8
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Sp/Lev5.m3u8
 #EXTINF:-1 group-title="🔴LIVE_EVEN🔴" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5V0ui4VuAMC5ikJmtlCZDZazHizcw69UApYAkCqeR3g&s=10", EVEN16
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -3836,3 +3839,4 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Fa2.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Fa3.m3u8
+
